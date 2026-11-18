@@ -1,0 +1,2501 @@
+10.0009 	INFO 	Loaded monitor calibration from ['2023_11_20 00:01']
+10.0138 	WARNING 	User requested fullscreen with size [1920 1200], but screen is actually [1512, 982]. Using actual size
+10.3691 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3712 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3735 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3771 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3804 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3814 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3835 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3869 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3874 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3880 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3907 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3930 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3950 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3973 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3990 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4015 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4036 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4043 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4055 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4089 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4094 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4102 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.4164 	DEBUG 	Upload of Texture Font fontname complete
+10.4308 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4343 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4373 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4377 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.4418 	DEBUG 	Upload of Texture Font fontname complete
+12.2666 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+12.2672 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f9e5be5a040>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f9e32381940>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f9e32381e80>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f9e324658b0>, multiSample=False, name='window1', numSamples=2, pos=[378.0, 245.5], screen=0, size=array([3024, 1964]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+12.2676 	EXP 	window1: mouseVisible = True
+12.2676 	EXP 	window1: backgroundImage = ''
+12.2676 	EXP 	window1: backgroundFit = 'none'
+12.2720 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+12.2721 	EXP 	window1: recordFrameIntervals = False
+12.3992 	EXP 	window1: recordFrameIntervals = True
+13.0248 	WARNING 	t of last frame was 21.34ms (=1/46)
+13.7745 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+13.7767 	EXP 	window1: mouseVisible = False
+17.0085 	INFO 	keyboard.Keyboard is using iohub backend.
+17.0086 	EXP 	untitled: status = STARTED
+17.0089 	EXP 	window1: mouseVisible = False
+17.0089 	INFO 	keyboard.Keyboard is using iohub backend.
+17.0093 	EXP 	window1: mouseVisible = True
+17.8634 	EXP 	Created Ins_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='Instruction.png', interpolate=True, mask=None, maskParams=None, name='Ins_image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=512, units='norm', win=Window(...))
+17.8635 	INFO 	keyboard.Keyboard is using iohub backend.
+17.8640 	EXP 	window1: mouseVisible = True
+17.8745 	EXP 	Created Block_t_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='Block_t_2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.8746 	INFO 	keyboard.Keyboard is using iohub backend.
+17.8748 	EXP 	window1: mouseVisible = True
+17.8988 	EXP 	Created Blank_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='Blank_text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.9042 	EXP 	window1: mouseVisible = True
+17.9120 	EXP 	Created Fixation_1 = Polygon(__class__=<class 'psychopy.visual.polygon.Polygon'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1, name='Fixation_1', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), units='deg', vertices=ndarray(...), win=Window(...))
+17.9158 	EXP 	window1: mouseVisible = True
+17.9231 	EXP 	Created Fixation_2 = Polygon(__class__=<class 'psychopy.visual.polygon.Polygon'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1, name='Fixation_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), units='deg', vertices=ndarray(...), win=Window(...))
+17.9232 	EXP 	window1: mouseVisible = True
+17.9523 	EXP 	Created grating = GratingStim(__class__=<class 'psychopy.visual.grating.GratingStim'>, anchor='center', autoDraw=False, autoLog=True, blendmode='avg', color=array([0.25, 0.25, 0.25]), colorSpace='rgb', contrast=0.25, depth=-1.0, draggable=False, interpolate=True, mask='gauss', maskParams=None, name='grating', opacity=1.0, ori=1.0, phase=array([0., 0.]), pos=array([-6.5,  0. ]), rgbPedestal=array([0., 0., 0.]), sf=array([1., 1.]), size=array([9., 9.]), tex='sin', texRes=512.0, units='deg', win=Window(...))
+17.9524 	EXP 	window1: mouseVisible = True
+17.9782 	EXP 	Created grating_2 = GratingStim(__class__=<class 'psychopy.visual.grating.GratingStim'>, anchor='center', autoDraw=False, autoLog=True, blendmode='add', color=array([0.25, 0.25, 0.25]), colorSpace='rgb', contrast=0.25, depth=-2.0, draggable=False, interpolate=True, mask='gauss', maskParams=None, name='grating_2', opacity=1.0, ori=1.0, phase=array([0., 0.]), pos=array([6.5, 0. ]), rgbPedestal=array([0., 0., 0.]), sf=array([1., 1.]), size=array([9., 9.]), tex='sin', texRes=512.0, units='deg', win=Window(...))
+17.9793 	EXP 	window1: mouseVisible = True
+17.9816 	EXP 	Created noisePatch1 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='noisePatch1', opacity=1.0, ori=0.0, pos=array([-6.5,  0. ]), size=array([9., 9.]), texRes=128.0, units='deg', win=Window(...))
+17.9817 	EXP 	window1: mouseVisible = True
+17.9838 	EXP 	Created noisePatch2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='noisePatch2', opacity=1.0, ori=0.0, pos=array([6.5, 0. ]), size=array([9., 9.]), texRes=128.0, units='deg', win=Window(...))
+17.9875 	EXP 	window1: mouseVisible = True
+17.9949 	EXP 	Created fixation2 = Polygon(__class__=<class 'psychopy.visual.polygon.Polygon'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-3.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1, name='fixation2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), units='deg', vertices=ndarray(...), win=Window(...))
+17.9986 	EXP 	window1: mouseVisible = True
+18.0058 	EXP 	Created fixation_2 = Polygon(__class__=<class 'psychopy.visual.polygon.Polygon'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1, name='fixation_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), units='deg', vertices=ndarray(...), win=Window(...))
+18.0059 	EXP 	window1: mouseVisible = True
+18.0111 	EXP 	Created tricue = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='tricue', opacity=1.0, ori=1.0, pos=array([0., 0.]), size=array([0.5, 0.5]), units='deg', vertices=ndarray(...), win=Window(...), windingRule=None)
+18.0150 	EXP 	window1: mouseVisible = True
+18.0239 	EXP 	Created BKG_7 = Polygon(__class__=<class 'psychopy.visual.polygon.Polygon'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([0.0035, 0.0035, 0.0035]), fillColorSpace='rgb', fillRGB=array([0.0035, 0.0035, 0.0035]), interpolate=True, lineColor=array([0.0035, 0.0035, 0.0035]), lineColorSpace='rgb', lineRGB=array([0.0035, 0.0035, 0.0035]), lineWidth=5, name='BKG_7', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.35, 0.35]), units='height', vertices=ndarray(...), win=Window(...))
+18.0277 	EXP 	window1: mouseVisible = True
+18.0349 	EXP 	Created Circle = Polygon(__class__=<class 'psychopy.visual.polygon.Polygon'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1, name='Circle', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.03, 0.03]), units='height', vertices=ndarray(...), win=Window(...))
+18.0350 	EXP 	window1: mouseVisible = True
+18.0371 	EXP 	Created Line_2 = Line(__class__=<class 'psychopy.visual.line.Line'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=None, depth=-3.0, draggable=False, fillColor=array([0, 0, 0]), fillColorSpace='rgb', fillRGB=array([0, 0, 0]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=8, name='Line_2', opacity=0.5, ori=30.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+18.0721 	EXP 	window1: mouseVisible = True
+18.0740 	EXP 	Created feedback_1_D = Polygon(__class__=<class 'psychopy.visual.polygon.Polygon'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=0.5, name='feedback_1_D', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.035, 0.035]), units='height', vertices=ndarray(...), win=Window(...))
+18.1089 	EXP 	window1: mouseVisible = True
+18.1107 	EXP 	Created feedback_2_D = Polygon(__class__=<class 'psychopy.visual.polygon.Polygon'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-3.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=0.5, name='feedback_2_D', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.035, 0.035]), units='height', vertices=ndarray(...), win=Window(...))
+18.1455 	EXP 	window1: mouseVisible = True
+18.1474 	EXP 	Created feedback_3_D = Polygon(__class__=<class 'psychopy.visual.polygon.Polygon'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-4.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=0.5, name='feedback_3_D', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.035, 0.035]), units='height', vertices=ndarray(...), win=Window(...))
+18.1823 	EXP 	window1: mouseVisible = True
+18.1842 	EXP 	Created feedback_4_D = Polygon(__class__=<class 'psychopy.visual.polygon.Polygon'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-5.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=0.5, name='feedback_4_D', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.035, 0.035]), units='height', vertices=ndarray(...), win=Window(...))
+18.2192 	EXP 	window1: mouseVisible = True
+18.2210 	EXP 	Created feedback_5_D = Polygon(__class__=<class 'psychopy.visual.polygon.Polygon'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-6.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=0.5, name='feedback_5_D', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.035, 0.035]), units='height', vertices=ndarray(...), win=Window(...))
+18.2212 	EXP 	window1: mouseVisible = True
+18.2506 	EXP 	Created Bye_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Bye_text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+18.2506 	INFO 	keyboard.Keyboard is using iohub backend.
+0.0216 	EXP 	window1: mouseVisible = False
+0.0217 	EXP 	window1: mouseVisible = False
+0.0223 	INFO 	Keyboard events cleared
+0.0313 	EXP 	Ins_image: autoDraw = True
+0.0314 	EXP 	window1: mouseVisible = False
+0.0502 	EXP 	window1: mouseVisible = False
+0.0654 	EXP 	window1: mouseVisible = False
+0.0704 	EXP 	window1: mouseVisible = False
+0.0902 	EXP 	window1: mouseVisible = False
+0.1061 	EXP 	window1: mouseVisible = False
+0.1098 	EXP 	window1: mouseVisible = False
+0.1315 	WARNING 	t of last frame was 21.78ms (=1/45)
+0.1316 	EXP 	window1: mouseVisible = False
+0.1398 	EXP 	window1: mouseVisible = False
+0.1565 	EXP 	window1: mouseVisible = False
+0.1732 	EXP 	window1: mouseVisible = False
+0.1901 	EXP 	window1: mouseVisible = False
+0.1949 	EXP 	window1: mouseVisible = False
+0.2149 	WARNING 	t of last frame was 20.10ms (=1/49)
+0.2150 	EXP 	window1: mouseVisible = False
+0.2232 	EXP 	window1: mouseVisible = False
+0.2400 	EXP 	window1: mouseVisible = False
+0.2566 	EXP 	window1: mouseVisible = False
+0.2734 	EXP 	window1: mouseVisible = False
+0.2770 	EXP 	window1: mouseVisible = False
+0.2984 	WARNING 	t of last frame was 21.40ms (=1/46)
+0.2985 	EXP 	window1: mouseVisible = False
+0.3069 	EXP 	window1: mouseVisible = False
+0.3237 	EXP 	window1: mouseVisible = False
+0.3408 	EXP 	window1: mouseVisible = False
+0.3575 	EXP 	window1: mouseVisible = False
+0.3647 	EXP 	window1: mouseVisible = False
+0.3819 	EXP 	window1: mouseVisible = False
+0.3888 	EXP 	window1: mouseVisible = False
+0.4080 	EXP 	window1: mouseVisible = False
+0.4244 	EXP 	window1: mouseVisible = False
+0.4406 	EXP 	window1: mouseVisible = False
+0.4473 	EXP 	window1: mouseVisible = False
+0.4660 	EXP 	window1: mouseVisible = False
+0.4730 	EXP 	window1: mouseVisible = False
+0.4911 	EXP 	window1: mouseVisible = False
+0.5078 	EXP 	window1: mouseVisible = False
+0.5239 	EXP 	window1: mouseVisible = False
+0.5308 	EXP 	window1: mouseVisible = False
+0.5493 	EXP 	window1: mouseVisible = False
+0.5562 	EXP 	window1: mouseVisible = False
+0.5741 	EXP 	window1: mouseVisible = False
+0.5908 	EXP 	window1: mouseVisible = False
+0.6072 	EXP 	window1: mouseVisible = False
+0.6145 	EXP 	window1: mouseVisible = False
+0.6326 	EXP 	window1: mouseVisible = False
+0.6394 	EXP 	window1: mouseVisible = False
+0.6579 	EXP 	window1: mouseVisible = False
+0.6741 	EXP 	window1: mouseVisible = False
+0.6907 	EXP 	window1: mouseVisible = False
+0.6978 	EXP 	window1: mouseVisible = False
+0.7162 	EXP 	window1: mouseVisible = False
+0.7239 	EXP 	window1: mouseVisible = False
+0.7409 	EXP 	window1: mouseVisible = False
+0.7580 	EXP 	window1: mouseVisible = False
+0.7745 	EXP 	window1: mouseVisible = False
+0.7823 	EXP 	window1: mouseVisible = False
+0.7996 	EXP 	window1: mouseVisible = False
+0.8055 	EXP 	window1: mouseVisible = False
+0.8248 	EXP 	window1: mouseVisible = False
+0.8412 	EXP 	window1: mouseVisible = False
+0.8581 	EXP 	window1: mouseVisible = False
+0.8829 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+0.8832 	EXP 	window1: mouseVisible = False
+0.8909 	EXP 	window1: mouseVisible = False
+0.9077 	EXP 	window1: mouseVisible = False
+0.9241 	EXP 	window1: mouseVisible = False
+0.9407 	EXP 	window1: mouseVisible = False
+0.9482 	EXP 	window1: mouseVisible = False
+0.9662 	EXP 	window1: mouseVisible = False
+0.9739 	EXP 	window1: mouseVisible = False
+0.9908 	EXP 	window1: mouseVisible = False
+1.0076 	EXP 	window1: mouseVisible = False
+1.0239 	EXP 	window1: mouseVisible = False
+1.0313 	EXP 	window1: mouseVisible = False
+1.0490 	EXP 	window1: mouseVisible = False
+1.0560 	EXP 	window1: mouseVisible = False
+1.0743 	EXP 	window1: mouseVisible = False
+1.0911 	EXP 	window1: mouseVisible = False
+1.1074 	EXP 	window1: mouseVisible = False
+1.1155 	EXP 	window1: mouseVisible = False
+1.1323 	EXP 	window1: mouseVisible = False
+1.1399 	EXP 	window1: mouseVisible = False
+1.1576 	EXP 	window1: mouseVisible = False
+1.1740 	EXP 	window1: mouseVisible = False
+1.1904 	EXP 	window1: mouseVisible = False
+1.1977 	EXP 	window1: mouseVisible = False
+1.2158 	EXP 	window1: mouseVisible = False
+1.2231 	EXP 	window1: mouseVisible = False
+1.2408 	EXP 	window1: mouseVisible = False
+1.2575 	EXP 	window1: mouseVisible = False
+1.2740 	EXP 	window1: mouseVisible = False
+1.2823 	EXP 	window1: mouseVisible = False
+1.2991 	EXP 	window1: mouseVisible = False
+1.3066 	EXP 	window1: mouseVisible = False
+1.3242 	EXP 	window1: mouseVisible = False
+1.3408 	EXP 	window1: mouseVisible = False
+1.3573 	EXP 	window1: mouseVisible = False
+1.3651 	EXP 	window1: mouseVisible = False
+1.3826 	EXP 	window1: mouseVisible = False
+1.3899 	EXP 	window1: mouseVisible = False
+1.4077 	EXP 	window1: mouseVisible = False
+1.4241 	EXP 	window1: mouseVisible = False
+1.4406 	EXP 	window1: mouseVisible = False
+1.4484 	EXP 	window1: mouseVisible = False
+1.4658 	EXP 	window1: mouseVisible = False
+1.4734 	EXP 	window1: mouseVisible = False
+1.4910 	EXP 	window1: mouseVisible = False
+1.5076 	EXP 	window1: mouseVisible = False
+1.5240 	EXP 	window1: mouseVisible = False
+1.5314 	EXP 	window1: mouseVisible = False
+1.5492 	EXP 	window1: mouseVisible = False
+1.5565 	EXP 	window1: mouseVisible = False
+1.5742 	EXP 	window1: mouseVisible = False
+1.5908 	EXP 	window1: mouseVisible = False
+1.6073 	EXP 	window1: mouseVisible = False
+1.6149 	EXP 	window1: mouseVisible = False
+1.6327 	EXP 	window1: mouseVisible = False
+1.6402 	EXP 	window1: mouseVisible = False
+1.6583 	EXP 	window1: mouseVisible = False
+1.6744 	EXP 	window1: mouseVisible = False
+1.6904 	EXP 	window1: mouseVisible = False
+1.6974 	EXP 	window1: mouseVisible = False
+1.7348 	EXP 	window1: mouseVisible = False
+1.7503 	DEBUG 	Read csv file with pandas: exp.csv
+1.7541 	DEBUG 	Clearing unnamed columns from exp.csv
+1.8000 	EXP 	Imported exp.csv as conditions, 554 conditions, 13 params
+1.8037 	EXP 	Created sequence: sequential, trialTypes=554, nReps=1, seed=None
+1.8040 	EXP 	New trial (rep=0, index=0): OrderedDict([('TrialType', 'Direction'), ('BlockID', 0), ('Session', 0), ('LeftDirection', 165), ('RightDirection', 145), ('Diff', 20), ('Target', 1), ('consistency', 2), ('cw', 1), ('DirectionAngle', 165), ('DirectionRes', 40), ('cpdleft', 0.33), ('cpdright', 1.0)])
+1.8041 	EXP 	window1: mouseVisible = False
+1.8225 	DATA 	Keypress: space
+1.8300 	INFO 	Keyboard events cleared
+1.8298 	EXP 	Ins_image: autoDraw = False
+1.8298 	EXP 	Block_t_2: height = 0.04
+1.8298 	EXP 	Block_t_2: height = 0.04
+1.8298 	EXP 	Block_t_2: height = 0.04
+1.8298 	EXP 	Block_t_2: text = 'Practice will start.  Please press s key to continue.'
+1.8298 	EXP 	Block_t_2: autoDraw = True
+2.7717 	DATA 	Keypress: s
+2.7767 	EXP 	Block_t_2: autoDraw = False
+2.7767 	EXP 	Blank_text: autoDraw = True
+4.9805 	EXP 	Blank_text: autoDraw = False
+4.9805 	EXP 	Blank_text: autoDraw = False
+4.9805 	EXP 	Fixation_1: autoDraw = True
+5.3761 	EXP 	Fixation_1: autoDraw = False
+5.3761 	EXP 	grating: ori = -75.0
+5.3761 	EXP 	grating: sf = array([0.33, 0.33])
+5.3761 	EXP 	grating_2: ori = -55.0
+5.3761 	EXP 	grating_2: sf = array([1., 1.])
+5.3761 	EXP 	Fixation_2: autoDraw = True
+5.3761 	EXP 	grating: autoDraw = True
+5.3761 	EXP 	grating_2: autoDraw = True
+5.3761 	EXP 	grating: tex = 'sin'
+5.3761 	EXP 	grating_2: tex = 'sin'
+5.9031 	EXP 	Fixation_2: autoDraw = False
+5.9031 	EXP 	grating: autoDraw = False
+5.9031 	EXP 	grating_2: autoDraw = False
+5.9031 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+5.9031 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+5.9031 	EXP 	noisePatch1: autoDraw = True
+5.9031 	EXP 	noisePatch2: autoDraw = True
+5.9031 	EXP 	fixation2: autoDraw = True
+5.9070 	DATA 	Keypress: lshift
+6.0087 	DATA 	Keypress: lcommand
+6.3402 	EXP 	noisePatch1: autoDraw = False
+6.3402 	EXP 	noisePatch2: autoDraw = False
+6.3402 	EXP 	fixation2: autoDraw = False
+6.3402 	EXP 	fixation_2: autoDraw = True
+6.8401 	EXP 	fixation_2: autoDraw = False
+6.8401 	EXP 	tricue: ori = -90.0
+6.8401 	EXP 	tricue: autoDraw = True
+7.1744 	EXP 	window1: mouseVisible = False
+7.1745 	INFO 	keyboard.Keyboard is using iohub backend.
+7.1748 	INFO 	Keyboard events cleared
+7.1836 	EXP 	tricue: autoDraw = False
+7.1836 	EXP 	BKG_7: autoDraw = True
+7.1836 	EXP 	Circle: autoDraw = True
+7.1836 	EXP 	Line_2: autoDraw = True
+9.3912 	DATA 	Keypress: lshift
+10.7118 	DATA 	Keypress: right
+11.0666 	INFO 	Keyboard events cleared
+11.0674 	EXP 	window1: mouseVisible = False
+11.0899 	EXP 	BKG_7: autoDraw = False
+11.0899 	EXP 	Circle: autoDraw = False
+11.0899 	EXP 	Line_2: autoDraw = False
+11.0899 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.0899 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+11.0899 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.0899 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+11.0899 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.0899 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+11.0899 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.0899 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+11.0899 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+11.0899 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+11.3837 	EXP 	feedback_1_D: autoDraw = True
+11.3837 	EXP 	feedback_2_D: autoDraw = True
+11.3837 	EXP 	feedback_3_D: autoDraw = True
+11.3837 	EXP 	feedback_4_D: autoDraw = True
+11.3837 	EXP 	feedback_5_D: autoDraw = True
+11.8824 	INFO 	Keyboard events cleared
+11.8829 	EXP 	New trial (rep=0, index=1): OrderedDict([('TrialType', 'Direction'), ('BlockID', 0), ('Session', 0), ('LeftDirection', 165), ('RightDirection', 105), ('Diff', 60), ('Target', -1), ('consistency', 2), ('cw', 1), ('DirectionAngle', 105), ('DirectionRes', 173), ('cpdleft', 1.0), ('cpdright', 0.33)])
+11.8830 	EXP 	window1: mouseVisible = False
+11.8986 	EXP 	feedback_1_D: autoDraw = False
+11.8986 	EXP 	feedback_2_D: autoDraw = False
+11.8986 	EXP 	feedback_3_D: autoDraw = False
+11.8986 	EXP 	feedback_4_D: autoDraw = False
+11.8986 	EXP 	feedback_5_D: autoDraw = False
+11.8986 	EXP 	feedback_1_D: autoDraw = False
+11.8986 	EXP 	feedback_2_D: autoDraw = False
+11.8986 	EXP 	feedback_3_D: autoDraw = False
+11.8986 	EXP 	feedback_4_D: autoDraw = False
+11.8986 	EXP 	feedback_5_D: autoDraw = False
+11.8986 	EXP 	Block_t_2: text = 'Practice will start.  Please press s key to continue.'
+11.8986 	EXP 	Block_t_2: autoDraw = False
+11.8986 	EXP 	Blank_text: autoDraw = True
+14.0743 	EXP 	Blank_text: autoDraw = False
+14.0743 	EXP 	Blank_text: autoDraw = False
+14.0743 	EXP 	Fixation_1: autoDraw = True
+14.4318 	EXP 	Fixation_1: autoDraw = False
+14.4318 	EXP 	grating: ori = -75.0
+14.4318 	EXP 	grating: sf = array([1., 1.])
+14.4318 	EXP 	grating_2: ori = -15.0
+14.4318 	EXP 	grating_2: sf = array([0.33, 0.33])
+14.4318 	EXP 	Fixation_2: autoDraw = True
+14.4318 	EXP 	grating: autoDraw = True
+14.4318 	EXP 	grating_2: autoDraw = True
+14.9751 	EXP 	Fixation_2: autoDraw = False
+14.9751 	EXP 	grating: autoDraw = False
+14.9751 	EXP 	grating_2: autoDraw = False
+14.9751 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+14.9751 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+14.9751 	EXP 	noisePatch1: autoDraw = True
+14.9751 	EXP 	noisePatch2: autoDraw = True
+14.9751 	EXP 	fixation2: autoDraw = True
+15.4112 	EXP 	noisePatch1: autoDraw = False
+15.4112 	EXP 	noisePatch2: autoDraw = False
+15.4112 	EXP 	fixation2: autoDraw = False
+15.4112 	EXP 	fixation_2: autoDraw = True
+15.9137 	EXP 	fixation_2: autoDraw = False
+15.9137 	EXP 	tricue: ori = 90.0
+15.9137 	EXP 	tricue: autoDraw = True
+16.2471 	EXP 	window1: mouseVisible = False
+16.2472 	INFO 	keyboard.Keyboard is using iohub backend.
+16.2476 	INFO 	Keyboard events cleared
+16.2652 	EXP 	tricue: autoDraw = False
+16.2652 	EXP 	tricue: autoDraw = False
+16.2652 	EXP 	BKG_7: autoDraw = True
+16.2652 	EXP 	Circle: autoDraw = True
+16.2652 	EXP 	Line_2: autoDraw = True
+17.4170 	DATA 	Keypress: right
+17.5172 	INFO 	Keyboard events cleared
+17.5175 	EXP 	window1: mouseVisible = False
+17.5261 	EXP 	BKG_7: autoDraw = False
+17.5261 	EXP 	Circle: autoDraw = False
+17.5261 	EXP 	Line_2: autoDraw = False
+17.5261 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+17.5261 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+17.5261 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+17.5261 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+17.5261 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+17.5261 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+17.5261 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+17.5261 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+17.5261 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+17.5261 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+17.8402 	EXP 	feedback_1_D: autoDraw = True
+17.8402 	EXP 	feedback_2_D: autoDraw = True
+17.8402 	EXP 	feedback_3_D: autoDraw = True
+17.8402 	EXP 	feedback_4_D: autoDraw = True
+17.8402 	EXP 	feedback_5_D: autoDraw = True
+18.3240 	INFO 	Keyboard events cleared
+18.3246 	EXP 	New trial (rep=0, index=2): OrderedDict([('TrialType', 'Direction'), ('BlockID', 0), ('Session', 0), ('LeftDirection', 145), ('RightDirection', 95), ('Diff', 50), ('Target', -1), ('consistency', 1), ('cw', 1), ('DirectionAngle', 95), ('DirectionRes', 64), ('cpdleft', 0.33), ('cpdright', 0.33)])
+18.3247 	EXP 	window1: mouseVisible = False
+18.3400 	EXP 	feedback_1_D: autoDraw = False
+18.3400 	EXP 	feedback_2_D: autoDraw = False
+18.3400 	EXP 	feedback_3_D: autoDraw = False
+18.3400 	EXP 	feedback_4_D: autoDraw = False
+18.3400 	EXP 	feedback_5_D: autoDraw = False
+18.3400 	EXP 	feedback_1_D: autoDraw = False
+18.3400 	EXP 	feedback_2_D: autoDraw = False
+18.3400 	EXP 	feedback_3_D: autoDraw = False
+18.3400 	EXP 	feedback_4_D: autoDraw = False
+18.3400 	EXP 	feedback_5_D: autoDraw = False
+18.3400 	EXP 	Block_t_2: text = 'Practice will start.  Please press s key to continue.'
+18.3400 	EXP 	Block_t_2: autoDraw = False
+18.3400 	EXP 	Blank_text: autoDraw = True
+20.6324 	EXP 	Blank_text: autoDraw = False
+20.6324 	EXP 	Blank_text: autoDraw = False
+20.6324 	EXP 	Fixation_1: autoDraw = True
+20.9900 	EXP 	Fixation_1: autoDraw = False
+20.9900 	EXP 	grating: ori = -55.0
+20.9900 	EXP 	grating: sf = array([0.33, 0.33])
+20.9900 	EXP 	grating_2: ori = -5.0
+20.9900 	EXP 	grating_2: sf = array([0.33, 0.33])
+20.9900 	EXP 	Fixation_2: autoDraw = True
+20.9900 	EXP 	grating: autoDraw = True
+20.9900 	EXP 	grating_2: autoDraw = True
+21.3283 	DATA 	Keypress: lshift
+21.4141 	DATA 	Keypress: lcommand
+21.5303 	EXP 	Fixation_2: autoDraw = False
+21.5303 	EXP 	grating: autoDraw = False
+21.5303 	EXP 	grating_2: autoDraw = False
+21.5303 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+21.5303 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+21.5303 	EXP 	noisePatch1: autoDraw = True
+21.5303 	EXP 	noisePatch2: autoDraw = True
+21.5303 	EXP 	fixation2: autoDraw = True
+21.9892 	EXP 	noisePatch1: autoDraw = False
+21.9892 	EXP 	noisePatch2: autoDraw = False
+21.9892 	EXP 	fixation2: autoDraw = False
+21.9892 	EXP 	fixation_2: autoDraw = True
+22.4989 	EXP 	fixation_2: autoDraw = False
+22.4989 	EXP 	tricue: ori = 90.0
+22.4989 	EXP 	tricue: autoDraw = True
+22.8160 	EXP 	window1: mouseVisible = False
+22.8161 	INFO 	keyboard.Keyboard is using iohub backend.
+22.8164 	INFO 	Keyboard events cleared
+22.8318 	EXP 	tricue: autoDraw = False
+22.8318 	EXP 	BKG_7: autoDraw = True
+22.8318 	EXP 	Circle: autoDraw = True
+22.8318 	EXP 	Line_2: autoDraw = True
+24.3333 	DATA 	Keypress: right
+24.7084 	INFO 	Keyboard events cleared
+24.7087 	EXP 	window1: mouseVisible = False
+24.7176 	EXP 	BKG_7: autoDraw = False
+24.7176 	EXP 	Circle: autoDraw = False
+24.7176 	EXP 	Line_2: autoDraw = False
+24.7176 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+24.7176 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+24.7176 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+24.7176 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+24.7176 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+24.7176 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+24.7176 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+24.7176 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+24.7176 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+24.7176 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+25.0152 	EXP 	feedback_1_D: autoDraw = True
+25.0152 	EXP 	feedback_2_D: autoDraw = True
+25.0152 	EXP 	feedback_3_D: autoDraw = True
+25.0152 	EXP 	feedback_4_D: autoDraw = True
+25.0152 	EXP 	feedback_5_D: autoDraw = True
+25.4990 	INFO 	Keyboard events cleared
+25.4997 	EXP 	New trial (rep=0, index=3): OrderedDict([('TrialType', 'Direction'), ('BlockID', 0), ('Session', 0), ('LeftDirection', 15), ('RightDirection', 175), ('Diff', -160), ('Target', 1), ('consistency', 2), ('cw', 2), ('DirectionAngle', 15), ('DirectionRes', 170), ('cpdleft', 1.0), ('cpdright', 0.33)])
+25.4998 	EXP 	window1: mouseVisible = False
+25.5151 	EXP 	feedback_1_D: autoDraw = False
+25.5151 	EXP 	feedback_2_D: autoDraw = False
+25.5151 	EXP 	feedback_3_D: autoDraw = False
+25.5151 	EXP 	feedback_4_D: autoDraw = False
+25.5151 	EXP 	feedback_5_D: autoDraw = False
+25.5151 	EXP 	feedback_1_D: autoDraw = False
+25.5151 	EXP 	feedback_2_D: autoDraw = False
+25.5151 	EXP 	feedback_3_D: autoDraw = False
+25.5151 	EXP 	feedback_4_D: autoDraw = False
+25.5151 	EXP 	feedback_5_D: autoDraw = False
+25.5151 	EXP 	Block_t_2: text = 'Practice will start.  Please press s key to continue.'
+25.5151 	EXP 	Block_t_2: autoDraw = False
+25.5151 	EXP 	Blank_text: autoDraw = True
+27.6058 	EXP 	Blank_text: autoDraw = False
+27.6058 	EXP 	Blank_text: autoDraw = False
+27.6058 	EXP 	Fixation_1: autoDraw = True
+27.9823 	EXP 	Fixation_1: autoDraw = False
+27.9823 	EXP 	grating: ori = 75.0
+27.9823 	EXP 	grating: sf = array([1., 1.])
+27.9823 	EXP 	grating_2: ori = -85.0
+27.9823 	EXP 	grating_2: sf = array([0.33, 0.33])
+27.9823 	EXP 	Fixation_2: autoDraw = True
+27.9823 	EXP 	grating: autoDraw = True
+27.9823 	EXP 	grating_2: autoDraw = True
+28.0459 	DATA 	Keypress: lshift
+28.4012 	DATA 	Keypress: loption
+28.5292 	EXP 	Fixation_2: autoDraw = False
+28.5292 	EXP 	grating: autoDraw = False
+28.5292 	EXP 	grating_2: autoDraw = False
+28.5292 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+28.5292 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+28.5292 	EXP 	noisePatch1: autoDraw = True
+28.5292 	EXP 	noisePatch2: autoDraw = True
+28.5292 	EXP 	fixation2: autoDraw = True
+28.9740 	EXP 	noisePatch1: autoDraw = False
+28.9740 	EXP 	noisePatch2: autoDraw = False
+28.9740 	EXP 	fixation2: autoDraw = False
+28.9740 	EXP 	fixation_2: autoDraw = True
+29.4733 	EXP 	fixation_2: autoDraw = False
+29.4733 	EXP 	tricue: ori = -90.0
+29.4733 	EXP 	tricue: autoDraw = True
+29.8054 	EXP 	window1: mouseVisible = False
+29.8055 	INFO 	keyboard.Keyboard is using iohub backend.
+29.8058 	INFO 	Keyboard events cleared
+29.8234 	EXP 	tricue: autoDraw = False
+29.8234 	EXP 	BKG_7: autoDraw = True
+29.8234 	EXP 	Circle: autoDraw = True
+29.8234 	EXP 	Line_2: autoDraw = True
+29.8338 	DATA 	Keypress: lshift
+30.0161 	DATA 	Keypress: lcommand
+32.5694 	DATA 	Keypress: right
+32.6755 	INFO 	Keyboard events cleared
+32.6758 	EXP 	window1: mouseVisible = False
+32.6842 	EXP 	BKG_7: autoDraw = False
+32.6842 	EXP 	Circle: autoDraw = False
+32.6842 	EXP 	Line_2: autoDraw = False
+32.6842 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+32.6842 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+32.6842 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+32.6842 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+32.6842 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+32.6842 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+32.6842 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+32.6842 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+32.6842 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+32.6842 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+32.9808 	EXP 	feedback_1_D: autoDraw = True
+32.9808 	EXP 	feedback_2_D: autoDraw = True
+32.9808 	EXP 	feedback_3_D: autoDraw = True
+32.9808 	EXP 	feedback_4_D: autoDraw = True
+32.9808 	EXP 	feedback_5_D: autoDraw = True
+33.4643 	INFO 	Keyboard events cleared
+33.4648 	EXP 	New trial (rep=0, index=4): OrderedDict([('TrialType', 'Direction'), ('BlockID', 0), ('Session', 0), ('LeftDirection', 105), ('RightDirection', 95), ('Diff', 10), ('Target', -1), ('consistency', 2), ('cw', 1), ('DirectionAngle', 95), ('DirectionRes', 8), ('cpdleft', 1.0), ('cpdright', 0.33)])
+33.4649 	EXP 	window1: mouseVisible = False
+33.4818 	EXP 	feedback_1_D: autoDraw = False
+33.4818 	EXP 	feedback_2_D: autoDraw = False
+33.4818 	EXP 	feedback_3_D: autoDraw = False
+33.4818 	EXP 	feedback_4_D: autoDraw = False
+33.4818 	EXP 	feedback_5_D: autoDraw = False
+33.4818 	EXP 	feedback_1_D: autoDraw = False
+33.4818 	EXP 	feedback_2_D: autoDraw = False
+33.4818 	EXP 	feedback_3_D: autoDraw = False
+33.4818 	EXP 	feedback_4_D: autoDraw = False
+33.4818 	EXP 	feedback_5_D: autoDraw = False
+33.4818 	EXP 	Block_t_2: text = 'Practice will start.  Please press s key to continue.'
+33.4818 	EXP 	Block_t_2: autoDraw = False
+33.4818 	EXP 	Blank_text: autoDraw = True
+35.6400 	EXP 	Blank_text: autoDraw = False
+35.6400 	EXP 	Blank_text: autoDraw = False
+35.6400 	EXP 	Fixation_1: autoDraw = True
+35.9984 	EXP 	Fixation_1: autoDraw = False
+35.9984 	EXP 	grating: ori = -15.0
+35.9984 	EXP 	grating: sf = array([1., 1.])
+35.9984 	EXP 	grating_2: ori = -5.0
+35.9984 	EXP 	grating_2: sf = array([0.33, 0.33])
+35.9984 	EXP 	Fixation_2: autoDraw = True
+35.9984 	EXP 	grating: autoDraw = True
+35.9984 	EXP 	grating_2: autoDraw = True
+36.3955 	DATA 	Keypress: lshift
+36.5374 	DATA 	Keypress: lcommand
+36.5413 	EXP 	Fixation_2: autoDraw = False
+36.5413 	EXP 	grating: autoDraw = False
+36.5413 	EXP 	grating_2: autoDraw = False
+36.5413 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+36.5413 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+36.5413 	EXP 	noisePatch1: autoDraw = True
+36.5413 	EXP 	noisePatch2: autoDraw = True
+36.5413 	EXP 	fixation2: autoDraw = True
+36.9908 	EXP 	noisePatch1: autoDraw = False
+36.9908 	EXP 	noisePatch2: autoDraw = False
+36.9908 	EXP 	fixation2: autoDraw = False
+36.9908 	EXP 	fixation_2: autoDraw = True
+37.4985 	EXP 	fixation_2: autoDraw = False
+37.4985 	EXP 	tricue: ori = 90.0
+37.4985 	EXP 	tricue: autoDraw = True
+37.8324 	EXP 	window1: mouseVisible = False
+37.8325 	INFO 	keyboard.Keyboard is using iohub backend.
+37.8331 	INFO 	Keyboard events cleared
+37.8482 	EXP 	tricue: autoDraw = False
+37.8482 	EXP 	BKG_7: autoDraw = True
+37.8482 	EXP 	Circle: autoDraw = True
+37.8482 	EXP 	Line_2: autoDraw = True
+38.5416 	DATA 	Keypress: right
+38.6330 	INFO 	Keyboard events cleared
+38.6333 	EXP 	window1: mouseVisible = False
+38.6419 	EXP 	BKG_7: autoDraw = False
+38.6419 	EXP 	Circle: autoDraw = False
+38.6419 	EXP 	Line_2: autoDraw = False
+38.6419 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+38.6419 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+38.6419 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+38.6419 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+38.6419 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+38.6419 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+38.6419 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+38.6419 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+38.6419 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+38.6419 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+38.9304 	EXP 	feedback_1_D: autoDraw = True
+38.9304 	EXP 	feedback_2_D: autoDraw = True
+38.9304 	EXP 	feedback_3_D: autoDraw = True
+38.9304 	EXP 	feedback_4_D: autoDraw = True
+38.9304 	EXP 	feedback_5_D: autoDraw = True
+39.4158 	INFO 	Keyboard events cleared
+39.4164 	EXP 	New trial (rep=0, index=5): OrderedDict([('TrialType', 'Direction'), ('BlockID', 0), ('Session', 0), ('LeftDirection', 145), ('RightDirection', 135), ('Diff', 10), ('Target', 1), ('consistency', 2), ('cw', 1), ('DirectionAngle', 145), ('DirectionRes', 24), ('cpdleft', 0.33), ('cpdright', 1.0)])
+39.4166 	EXP 	window1: mouseVisible = False
+39.4316 	EXP 	feedback_1_D: autoDraw = False
+39.4316 	EXP 	feedback_2_D: autoDraw = False
+39.4316 	EXP 	feedback_3_D: autoDraw = False
+39.4316 	EXP 	feedback_4_D: autoDraw = False
+39.4316 	EXP 	feedback_5_D: autoDraw = False
+39.4316 	EXP 	feedback_1_D: autoDraw = False
+39.4316 	EXP 	feedback_2_D: autoDraw = False
+39.4316 	EXP 	feedback_3_D: autoDraw = False
+39.4316 	EXP 	feedback_4_D: autoDraw = False
+39.4316 	EXP 	feedback_5_D: autoDraw = False
+39.4316 	EXP 	Block_t_2: text = 'Practice will start.  Please press s key to continue.'
+39.4316 	EXP 	Block_t_2: autoDraw = False
+39.4316 	EXP 	Blank_text: autoDraw = True
+41.6149 	EXP 	Blank_text: autoDraw = False
+41.6149 	EXP 	Blank_text: autoDraw = False
+41.6149 	EXP 	Fixation_1: autoDraw = True
+41.9754 	EXP 	Fixation_1: autoDraw = False
+41.9754 	EXP 	grating: ori = -55.0
+41.9754 	EXP 	grating: sf = array([0.33, 0.33])
+41.9754 	EXP 	grating_2: ori = -45.0
+41.9754 	EXP 	grating_2: sf = array([1., 1.])
+41.9754 	EXP 	Fixation_2: autoDraw = True
+41.9754 	EXP 	grating: autoDraw = True
+41.9754 	EXP 	grating_2: autoDraw = True
+42.5383 	DATA 	Keypress: lshift
+42.5425 	EXP 	Fixation_2: autoDraw = False
+42.5425 	EXP 	grating: autoDraw = False
+42.5425 	EXP 	grating_2: autoDraw = False
+42.5425 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+42.5425 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+42.5425 	EXP 	noisePatch1: autoDraw = True
+42.5425 	EXP 	noisePatch2: autoDraw = True
+42.5425 	EXP 	fixation2: autoDraw = True
+42.9814 	EXP 	noisePatch1: autoDraw = False
+42.9814 	EXP 	noisePatch2: autoDraw = False
+42.9814 	EXP 	fixation2: autoDraw = False
+42.9814 	EXP 	fixation_2: autoDraw = True
+43.4809 	EXP 	fixation_2: autoDraw = False
+43.4809 	EXP 	tricue: ori = -90.0
+43.4809 	EXP 	tricue: autoDraw = True
+43.8150 	EXP 	window1: mouseVisible = False
+43.8151 	INFO 	keyboard.Keyboard is using iohub backend.
+43.8155 	INFO 	Keyboard events cleared
+43.8316 	EXP 	tricue: autoDraw = False
+43.8316 	EXP 	BKG_7: autoDraw = True
+43.8316 	EXP 	Circle: autoDraw = True
+43.8316 	EXP 	Line_2: autoDraw = True
+44.1663 	DATA 	Keypress: right
+44.3921 	INFO 	Keyboard events cleared
+44.3924 	EXP 	window1: mouseVisible = False
+44.4149 	EXP 	BKG_7: autoDraw = False
+44.4149 	EXP 	Circle: autoDraw = False
+44.4149 	EXP 	Line_2: autoDraw = False
+44.4149 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+44.4149 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+44.4149 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+44.4149 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+44.4149 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+44.4149 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+44.4149 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+44.4149 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+44.4149 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+44.4149 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+44.6970 	EXP 	feedback_1_D: autoDraw = True
+44.6970 	EXP 	feedback_2_D: autoDraw = True
+44.6970 	EXP 	feedback_3_D: autoDraw = True
+44.6970 	EXP 	feedback_4_D: autoDraw = True
+44.6970 	EXP 	feedback_5_D: autoDraw = True
+45.1906 	INFO 	Keyboard events cleared
+45.1913 	EXP 	New trial (rep=0, index=6): OrderedDict([('TrialType', 'Direction'), ('BlockID', 0), ('Session', 0), ('LeftDirection', 135), ('RightDirection', 105), ('Diff', 30), ('Target', -1), ('consistency', 2), ('cw', 1), ('DirectionAngle', 105), ('DirectionRes', 123), ('cpdleft', 1.0), ('cpdright', 0.33)])
+45.1915 	EXP 	window1: mouseVisible = False
+45.2065 	EXP 	feedback_1_D: autoDraw = False
+45.2065 	EXP 	feedback_2_D: autoDraw = False
+45.2065 	EXP 	feedback_3_D: autoDraw = False
+45.2065 	EXP 	feedback_4_D: autoDraw = False
+45.2065 	EXP 	feedback_5_D: autoDraw = False
+45.2065 	EXP 	feedback_1_D: autoDraw = False
+45.2065 	EXP 	feedback_2_D: autoDraw = False
+45.2065 	EXP 	feedback_3_D: autoDraw = False
+45.2065 	EXP 	feedback_4_D: autoDraw = False
+45.2065 	EXP 	feedback_5_D: autoDraw = False
+45.2065 	EXP 	Block_t_2: text = 'Practice will start.  Please press s key to continue.'
+45.2065 	EXP 	Block_t_2: autoDraw = False
+45.2065 	EXP 	Blank_text: autoDraw = True
+47.3238 	EXP 	Blank_text: autoDraw = False
+47.3238 	EXP 	Blank_text: autoDraw = False
+47.3238 	EXP 	Fixation_1: autoDraw = True
+47.6815 	EXP 	Fixation_1: autoDraw = False
+47.6815 	EXP 	grating: ori = -45.0
+47.6815 	EXP 	grating: sf = array([1., 1.])
+47.6815 	EXP 	grating_2: ori = -15.0
+47.6815 	EXP 	grating_2: sf = array([0.33, 0.33])
+47.6815 	EXP 	Fixation_2: autoDraw = True
+47.6815 	EXP 	grating: autoDraw = True
+47.6815 	EXP 	grating_2: autoDraw = True
+48.0779 	DATA 	Keypress: lcommand
+48.1009 	DATA 	Keypress: lshift
+48.2196 	EXP 	Fixation_2: autoDraw = False
+48.2196 	EXP 	grating: autoDraw = False
+48.2196 	EXP 	grating_2: autoDraw = False
+48.2196 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+48.2196 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+48.2196 	EXP 	noisePatch1: autoDraw = True
+48.2196 	EXP 	noisePatch2: autoDraw = True
+48.2196 	EXP 	fixation2: autoDraw = True
+48.6808 	EXP 	noisePatch1: autoDraw = False
+48.6808 	EXP 	noisePatch2: autoDraw = False
+48.6808 	EXP 	fixation2: autoDraw = False
+48.6808 	EXP 	fixation_2: autoDraw = True
+49.1812 	EXP 	fixation_2: autoDraw = False
+49.1812 	EXP 	tricue: ori = 90.0
+49.1812 	EXP 	tricue: autoDraw = True
+49.5078 	EXP 	window1: mouseVisible = False
+49.5079 	INFO 	keyboard.Keyboard is using iohub backend.
+49.5087 	INFO 	Keyboard events cleared
+49.5177 	EXP 	tricue: autoDraw = False
+49.5177 	EXP 	BKG_7: autoDraw = True
+49.5177 	EXP 	Circle: autoDraw = True
+49.5177 	EXP 	Line_2: autoDraw = True
+50.3833 	DATA 	Keypress: right
+50.6337 	INFO 	Keyboard events cleared
+50.6340 	EXP 	window1: mouseVisible = False
+50.6387 	INFO 	Keyboard events cleared
+50.6391 	EXP 	New trial (rep=0, index=7): OrderedDict([('TrialType', 'Direction'), ('BlockID', 0), ('Session', 0), ('LeftDirection', 105), ('RightDirection', 65), ('Diff', 40), ('Target', 1), ('consistency', 1), ('cw', 1), ('DirectionAngle', 105), ('DirectionRes', 122), ('cpdleft', 0.33), ('cpdright', 0.33)])
+50.6392 	EXP 	window1: mouseVisible = False
+50.6430 	EXP 	BKG_7: autoDraw = False
+50.6430 	EXP 	Circle: autoDraw = False
+50.6430 	EXP 	Line_2: autoDraw = False
+50.6430 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+50.6430 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+50.6430 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: (1.0, 0.3, 0.4, 1.0)>
+50.6430 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: (1.0, 0.3, 0.4, 1.0)>
+50.6430 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+50.6430 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+50.6430 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+50.6430 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+50.6430 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+50.6430 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+50.6430 	EXP 	feedback_1_D: autoDraw = False
+50.6430 	EXP 	feedback_2_D: autoDraw = False
+50.6430 	EXP 	feedback_3_D: autoDraw = False
+50.6430 	EXP 	feedback_4_D: autoDraw = False
+50.6430 	EXP 	feedback_5_D: autoDraw = False
+50.6430 	EXP 	Block_t_2: text = 'Practice will start.  Please press s key to continue.'
+50.6430 	EXP 	Block_t_2: autoDraw = False
+50.6430 	EXP 	Blank_text: autoDraw = True
+52.7886 	EXP 	Blank_text: autoDraw = False
+52.7886 	EXP 	Blank_text: autoDraw = False
+52.7886 	EXP 	Fixation_1: autoDraw = True
+53.1399 	EXP 	Fixation_1: autoDraw = False
+53.1399 	EXP 	Fixation_1: autoDraw = False
+53.1399 	EXP 	grating: ori = -15.0
+53.1399 	EXP 	grating: sf = array([0.33, 0.33])
+53.1399 	EXP 	grating_2: ori = 25.0
+53.1399 	EXP 	grating_2: sf = array([0.33, 0.33])
+53.1399 	EXP 	Fixation_2: autoDraw = True
+53.1399 	EXP 	grating: autoDraw = True
+53.1399 	EXP 	grating_2: autoDraw = True
+53.5842 	DATA 	Keypress: lcommand
+53.5852 	DATA 	Keypress: lshift
+53.7046 	EXP 	Fixation_2: autoDraw = False
+53.7046 	EXP 	grating: autoDraw = False
+53.7046 	EXP 	grating_2: autoDraw = False
+53.7046 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+53.7046 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+53.7046 	EXP 	noisePatch1: autoDraw = True
+53.7046 	EXP 	noisePatch2: autoDraw = True
+53.7046 	EXP 	fixation2: autoDraw = True
+54.1480 	EXP 	noisePatch1: autoDraw = False
+54.1480 	EXP 	noisePatch2: autoDraw = False
+54.1480 	EXP 	fixation2: autoDraw = False
+54.1480 	EXP 	fixation_2: autoDraw = True
+54.6691 	EXP 	fixation_2: autoDraw = False
+54.6691 	EXP 	tricue: ori = -90.0
+54.6691 	EXP 	tricue: autoDraw = True
+54.9994 	EXP 	window1: mouseVisible = False
+54.9996 	INFO 	keyboard.Keyboard is using iohub backend.
+55.0003 	INFO 	Keyboard events cleared
+55.0232 	EXP 	tricue: autoDraw = False
+55.0232 	EXP 	BKG_7: autoDraw = True
+55.0232 	EXP 	Circle: autoDraw = True
+55.0232 	EXP 	Line_2: autoDraw = True
+55.4165 	DATA 	Keypress: right
+55.6921 	INFO 	Keyboard events cleared
+55.6924 	EXP 	window1: mouseVisible = False
+55.6969 	INFO 	Keyboard events cleared
+55.6973 	EXP 	New trial (rep=0, index=8): OrderedDict([('TrialType', 'Direction'), ('BlockID', 0), ('Session', 0), ('LeftDirection', 175), ('RightDirection', 35), ('Diff', 140), ('Target', -1), ('consistency', 2), ('cw', 1), ('DirectionAngle', 35), ('DirectionRes', 86), ('cpdleft', 1.0), ('cpdright', 0.33)])
+55.6974 	EXP 	window1: mouseVisible = False
+55.7010 	EXP 	BKG_7: autoDraw = False
+55.7010 	EXP 	Circle: autoDraw = False
+55.7010 	EXP 	Line_2: autoDraw = False
+55.7010 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+55.7010 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+55.7010 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+55.7010 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+55.7010 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: (0.0, 0.9, 0.3, 1.0)>
+55.7010 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: (0.0, 0.9, 0.3, 1.0)>
+55.7010 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+55.7010 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+55.7010 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+55.7010 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+55.7010 	EXP 	feedback_1_D: autoDraw = False
+55.7010 	EXP 	feedback_2_D: autoDraw = False
+55.7010 	EXP 	feedback_3_D: autoDraw = False
+55.7010 	EXP 	feedback_4_D: autoDraw = False
+55.7010 	EXP 	feedback_5_D: autoDraw = False
+55.7010 	EXP 	Block_t_2: text = 'Practice will start.  Please press s key to continue.'
+55.7010 	EXP 	Block_t_2: autoDraw = False
+55.7010 	EXP 	Blank_text: autoDraw = True
+57.8323 	EXP 	Blank_text: autoDraw = False
+57.8323 	EXP 	Blank_text: autoDraw = False
+57.8323 	EXP 	Fixation_1: autoDraw = True
+58.1817 	EXP 	Fixation_1: autoDraw = False
+58.1817 	EXP 	grating: ori = -85.0
+58.1817 	EXP 	grating: sf = array([1., 1.])
+58.1817 	EXP 	grating_2: ori = 55.0
+58.1817 	EXP 	grating_2: sf = array([0.33, 0.33])
+58.1817 	EXP 	Fixation_2: autoDraw = True
+58.1817 	EXP 	grating: autoDraw = True
+58.1817 	EXP 	grating_2: autoDraw = True
+58.7322 	EXP 	Fixation_2: autoDraw = False
+58.7322 	EXP 	grating: autoDraw = False
+58.7322 	EXP 	grating_2: autoDraw = False
+58.7322 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+58.7322 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+58.7322 	EXP 	noisePatch1: autoDraw = True
+58.7322 	EXP 	noisePatch2: autoDraw = True
+58.7322 	EXP 	fixation2: autoDraw = True
+58.7789 	DATA 	Keypress: lshift
+58.7796 	DATA 	Keypress: lcommand
+59.1856 	EXP 	noisePatch1: autoDraw = False
+59.1856 	EXP 	noisePatch2: autoDraw = False
+59.1856 	EXP 	fixation2: autoDraw = False
+59.1856 	EXP 	fixation_2: autoDraw = True
+59.6856 	EXP 	fixation_2: autoDraw = False
+59.6856 	EXP 	tricue: ori = 90.0
+59.6856 	EXP 	tricue: autoDraw = True
+60.0276 	EXP 	window1: mouseVisible = False
+60.0277 	INFO 	keyboard.Keyboard is using iohub backend.
+60.0281 	INFO 	Keyboard events cleared
+60.0515 	EXP 	tricue: autoDraw = False
+60.0515 	EXP 	BKG_7: autoDraw = True
+60.0515 	EXP 	Circle: autoDraw = True
+60.0515 	EXP 	Line_2: autoDraw = True
+60.6539 	DATA 	Keypress: right
+60.8702 	INFO 	Keyboard events cleared
+60.8705 	EXP 	window1: mouseVisible = False
+60.8800 	EXP 	BKG_7: autoDraw = False
+60.8800 	EXP 	Circle: autoDraw = False
+60.8800 	EXP 	Line_2: autoDraw = False
+60.8800 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+60.8800 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+60.8800 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+60.8800 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+60.8800 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+60.8800 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+60.8800 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+60.8800 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+60.8800 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+60.8800 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+61.1682 	EXP 	feedback_1_D: autoDraw = True
+61.1682 	EXP 	feedback_2_D: autoDraw = True
+61.1682 	EXP 	feedback_3_D: autoDraw = True
+61.1682 	EXP 	feedback_4_D: autoDraw = True
+61.1682 	EXP 	feedback_5_D: autoDraw = True
+61.6534 	INFO 	Keyboard events cleared
+61.6541 	EXP 	New trial (rep=0, index=9): OrderedDict([('TrialType', 'Direction'), ('BlockID', 0), ('Session', 0), ('LeftDirection', 65), ('RightDirection', 145), ('Diff', -80), ('Target', 1), ('consistency', 1), ('cw', 2), ('DirectionAngle', 65), ('DirectionRes', 175), ('cpdleft', 0.33), ('cpdright', 0.33)])
+61.6543 	EXP 	window1: mouseVisible = False
+61.6690 	EXP 	feedback_1_D: autoDraw = False
+61.6690 	EXP 	feedback_2_D: autoDraw = False
+61.6690 	EXP 	feedback_3_D: autoDraw = False
+61.6690 	EXP 	feedback_4_D: autoDraw = False
+61.6690 	EXP 	feedback_5_D: autoDraw = False
+61.6690 	EXP 	feedback_1_D: autoDraw = False
+61.6690 	EXP 	feedback_2_D: autoDraw = False
+61.6690 	EXP 	feedback_3_D: autoDraw = False
+61.6690 	EXP 	feedback_4_D: autoDraw = False
+61.6690 	EXP 	feedback_5_D: autoDraw = False
+61.6690 	EXP 	Block_t_2: text = 'Practice will start.  Please press s key to continue.'
+61.6690 	EXP 	Block_t_2: autoDraw = False
+61.6690 	EXP 	Blank_text: autoDraw = True
+63.8526 	EXP 	Blank_text: autoDraw = False
+63.8526 	EXP 	Blank_text: autoDraw = False
+63.8526 	EXP 	Fixation_1: autoDraw = True
+64.1963 	EXP 	Fixation_1: autoDraw = False
+64.1963 	EXP 	Fixation_1: autoDraw = False
+64.1963 	EXP 	grating: ori = 25.0
+64.1963 	EXP 	grating: sf = array([0.33, 0.33])
+64.1963 	EXP 	grating_2: ori = -55.0
+64.1963 	EXP 	grating_2: sf = array([0.33, 0.33])
+64.1963 	EXP 	Fixation_2: autoDraw = True
+64.1963 	EXP 	grating: autoDraw = True
+64.1963 	EXP 	grating_2: autoDraw = True
+64.7602 	DATA 	Keypress: lshift
+64.7611 	DATA 	Keypress: lcommand
+64.7712 	EXP 	Fixation_2: autoDraw = False
+64.7712 	EXP 	grating: autoDraw = False
+64.7712 	EXP 	grating_2: autoDraw = False
+64.7712 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+64.7712 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+64.7712 	EXP 	noisePatch1: autoDraw = True
+64.7712 	EXP 	noisePatch2: autoDraw = True
+64.7712 	EXP 	fixation2: autoDraw = True
+65.2106 	EXP 	noisePatch1: autoDraw = False
+65.2106 	EXP 	noisePatch2: autoDraw = False
+65.2106 	EXP 	fixation2: autoDraw = False
+65.2106 	EXP 	fixation_2: autoDraw = True
+65.7015 	EXP 	fixation_2: autoDraw = False
+65.7015 	EXP 	tricue: ori = -90.0
+65.7015 	EXP 	tricue: autoDraw = True
+66.0349 	EXP 	window1: mouseVisible = False
+66.0350 	INFO 	keyboard.Keyboard is using iohub backend.
+66.0353 	INFO 	Keyboard events cleared
+66.0523 	EXP 	tricue: autoDraw = False
+66.0523 	EXP 	tricue: autoDraw = False
+66.0523 	EXP 	BKG_7: autoDraw = True
+66.0523 	EXP 	Circle: autoDraw = True
+66.0523 	EXP 	Line_2: autoDraw = True
+66.4520 	DATA 	Keypress: right
+66.6377 	INFO 	Keyboard events cleared
+66.6380 	EXP 	window1: mouseVisible = False
+66.6464 	EXP 	BKG_7: autoDraw = False
+66.6464 	EXP 	Circle: autoDraw = False
+66.6464 	EXP 	Line_2: autoDraw = False
+66.6464 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+66.6464 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+66.6464 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+66.6464 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+66.6464 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+66.6464 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+66.6464 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+66.6464 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+66.6464 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+66.6464 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+66.9423 	EXP 	feedback_1_D: autoDraw = True
+66.9423 	EXP 	feedback_2_D: autoDraw = True
+66.9423 	EXP 	feedback_3_D: autoDraw = True
+66.9423 	EXP 	feedback_4_D: autoDraw = True
+66.9423 	EXP 	feedback_5_D: autoDraw = True
+67.4362 	INFO 	Keyboard events cleared
+67.4368 	EXP 	New trial (rep=0, index=10): OrderedDict([('TrialType', 'Direction'), ('BlockID', 1), ('Session', 1), ('LeftDirection', 165), ('RightDirection', 15), ('Diff', 150), ('Target', 1), ('consistency', 2), ('cw', 1), ('DirectionAngle', 165), ('DirectionRes', 109), ('cpdleft', 0.33), ('cpdright', 1.0)])
+67.4369 	EXP 	window1: mouseVisible = False
+67.4514 	INFO 	Keyboard events cleared
+67.4512 	EXP 	feedback_1_D: autoDraw = False
+67.4512 	EXP 	feedback_2_D: autoDraw = False
+67.4512 	EXP 	feedback_3_D: autoDraw = False
+67.4512 	EXP 	feedback_4_D: autoDraw = False
+67.4512 	EXP 	feedback_5_D: autoDraw = False
+67.4512 	EXP 	feedback_1_D: autoDraw = False
+67.4512 	EXP 	feedback_2_D: autoDraw = False
+67.4512 	EXP 	feedback_3_D: autoDraw = False
+67.4512 	EXP 	feedback_4_D: autoDraw = False
+67.4512 	EXP 	feedback_5_D: autoDraw = False
+67.4512 	EXP 	Block_t_2: height = 0.04
+67.4512 	EXP 	Block_t_2: height = 0.04
+67.4512 	EXP 	Block_t_2: height = 0.04
+67.4512 	EXP 	Block_t_2: text = 'Block (1 / 8)  will start.  Please press s key to continue.'
+67.4512 	EXP 	Block_t_2: autoDraw = True
+69.3238 	DATA 	Keypress: s
+69.3439 	EXP 	Block_t_2: autoDraw = False
+69.3439 	EXP 	Blank_text: autoDraw = True
+71.6233 	EXP 	Blank_text: autoDraw = False
+71.6233 	EXP 	Blank_text: autoDraw = False
+71.6233 	EXP 	Fixation_1: autoDraw = True
+71.9815 	EXP 	Fixation_1: autoDraw = False
+71.9815 	EXP 	grating: ori = -75.0
+71.9815 	EXP 	grating: sf = array([0.33, 0.33])
+71.9815 	EXP 	grating_2: ori = 75.0
+71.9815 	EXP 	grating_2: sf = array([1., 1.])
+71.9815 	EXP 	Fixation_2: autoDraw = True
+71.9815 	EXP 	grating: autoDraw = True
+71.9815 	EXP 	grating_2: autoDraw = True
+72.5353 	DATA 	Keypress: lcommand
+72.5364 	DATA 	Keypress: 3
+72.5368 	DATA 	Keypress: lshift
+72.5407 	EXP 	Fixation_2: autoDraw = False
+72.5407 	EXP 	grating: autoDraw = False
+72.5407 	EXP 	grating_2: autoDraw = False
+72.5407 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+72.5407 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+72.5407 	EXP 	noisePatch1: autoDraw = True
+72.5407 	EXP 	noisePatch2: autoDraw = True
+72.5407 	EXP 	fixation2: autoDraw = True
+72.9816 	EXP 	noisePatch1: autoDraw = False
+72.9816 	EXP 	noisePatch2: autoDraw = False
+72.9816 	EXP 	fixation2: autoDraw = False
+72.9816 	EXP 	fixation_2: autoDraw = True
+73.4805 	EXP 	fixation_2: autoDraw = False
+73.4805 	EXP 	tricue: ori = -90.0
+73.4805 	EXP 	tricue: autoDraw = True
+73.8073 	EXP 	window1: mouseVisible = False
+73.8075 	INFO 	keyboard.Keyboard is using iohub backend.
+73.8081 	INFO 	Keyboard events cleared
+73.8314 	EXP 	tricue: autoDraw = False
+73.8314 	EXP 	BKG_7: autoDraw = True
+73.8314 	EXP 	Circle: autoDraw = True
+73.8314 	EXP 	Line_2: autoDraw = True
+74.9416 	DATA 	Keypress: right
+75.0835 	INFO 	Keyboard events cleared
+75.0839 	EXP 	window1: mouseVisible = False
+75.0924 	EXP 	BKG_7: autoDraw = False
+75.0924 	EXP 	Circle: autoDraw = False
+75.0924 	EXP 	Line_2: autoDraw = False
+75.0924 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+75.0924 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+75.0924 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+75.0924 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+75.0924 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+75.0924 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+75.0924 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+75.0924 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+75.0924 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+75.0924 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+75.4065 	EXP 	feedback_1_D: autoDraw = True
+75.4065 	EXP 	feedback_2_D: autoDraw = True
+75.4065 	EXP 	feedback_3_D: autoDraw = True
+75.4065 	EXP 	feedback_4_D: autoDraw = True
+75.4065 	EXP 	feedback_5_D: autoDraw = True
+75.9071 	INFO 	Keyboard events cleared
+75.9078 	EXP 	New trial (rep=0, index=11): OrderedDict([('TrialType', 'Direction'), ('BlockID', 1), ('Session', 1), ('LeftDirection', 5), ('RightDirection', 175), ('Diff', -170), ('Target', -1), ('consistency', 2), ('cw', 2), ('DirectionAngle', 175), ('DirectionRes', 9), ('cpdleft', 1.0), ('cpdright', 0.33)])
+75.9079 	EXP 	window1: mouseVisible = False
+75.9231 	EXP 	feedback_1_D: autoDraw = False
+75.9231 	EXP 	feedback_2_D: autoDraw = False
+75.9231 	EXP 	feedback_3_D: autoDraw = False
+75.9231 	EXP 	feedback_4_D: autoDraw = False
+75.9231 	EXP 	feedback_5_D: autoDraw = False
+75.9231 	EXP 	feedback_1_D: autoDraw = False
+75.9231 	EXP 	feedback_2_D: autoDraw = False
+75.9231 	EXP 	feedback_3_D: autoDraw = False
+75.9231 	EXP 	feedback_4_D: autoDraw = False
+75.9231 	EXP 	feedback_5_D: autoDraw = False
+75.9231 	EXP 	Block_t_2: text = 'Block (1 / 8)  will start.  Please press s key to continue.'
+75.9231 	EXP 	Block_t_2: autoDraw = False
+75.9231 	EXP 	Blank_text: autoDraw = True
+78.1474 	EXP 	Blank_text: autoDraw = False
+78.1474 	EXP 	Blank_text: autoDraw = False
+78.1474 	EXP 	Fixation_1: autoDraw = True
+78.4982 	EXP 	Fixation_1: autoDraw = False
+78.4982 	EXP 	Fixation_1: autoDraw = False
+78.4982 	EXP 	grating: ori = 85.0
+78.4982 	EXP 	grating: sf = array([1., 1.])
+78.4982 	EXP 	grating_2: ori = -85.0
+78.4982 	EXP 	grating_2: sf = array([0.33, 0.33])
+78.4982 	EXP 	Fixation_2: autoDraw = True
+78.4982 	EXP 	grating: autoDraw = True
+78.4982 	EXP 	grating_2: autoDraw = True
+79.0629 	DATA 	Keypress: lshift
+79.0639 	DATA 	Keypress: lcommand
+79.0680 	EXP 	Fixation_2: autoDraw = False
+79.0680 	EXP 	grating: autoDraw = False
+79.0680 	EXP 	grating_2: autoDraw = False
+79.0680 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+79.0680 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+79.0680 	EXP 	noisePatch1: autoDraw = True
+79.0680 	EXP 	noisePatch2: autoDraw = True
+79.0680 	EXP 	fixation2: autoDraw = True
+79.5055 	EXP 	noisePatch1: autoDraw = False
+79.5055 	EXP 	noisePatch2: autoDraw = False
+79.5055 	EXP 	fixation2: autoDraw = False
+79.5055 	EXP 	fixation_2: autoDraw = True
+80.0063 	EXP 	fixation_2: autoDraw = False
+80.0063 	EXP 	fixation_2: autoDraw = False
+80.0063 	EXP 	tricue: ori = 90.0
+80.0063 	EXP 	tricue: autoDraw = True
+80.3405 	EXP 	window1: mouseVisible = False
+80.3405 	INFO 	keyboard.Keyboard is using iohub backend.
+80.3408 	INFO 	Keyboard events cleared
+80.3482 	EXP 	tricue: autoDraw = False
+80.3482 	EXP 	tricue: autoDraw = False
+80.3482 	EXP 	BKG_7: autoDraw = True
+80.3482 	EXP 	Circle: autoDraw = True
+80.3482 	EXP 	Line_2: autoDraw = True
+80.8663 	DATA 	Keypress: right
+81.0585 	INFO 	Keyboard events cleared
+81.0588 	EXP 	window1: mouseVisible = False
+81.0675 	EXP 	BKG_7: autoDraw = False
+81.0675 	EXP 	Circle: autoDraw = False
+81.0675 	EXP 	Line_2: autoDraw = False
+81.0675 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+81.0675 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+81.0675 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+81.0675 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+81.0675 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+81.0675 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+81.0675 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+81.0675 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+81.0675 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+81.0675 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+81.3621 	EXP 	feedback_1_D: autoDraw = True
+81.3621 	EXP 	feedback_2_D: autoDraw = True
+81.3621 	EXP 	feedback_3_D: autoDraw = True
+81.3621 	EXP 	feedback_4_D: autoDraw = True
+81.3621 	EXP 	feedback_5_D: autoDraw = True
+81.8473 	INFO 	Keyboard events cleared
+81.8478 	EXP 	New trial (rep=0, index=12): OrderedDict([('TrialType', 'Direction'), ('BlockID', 1), ('Session', 1), ('LeftDirection', 175), ('RightDirection', 105), ('Diff', 70), ('Target', -1), ('consistency', 2), ('cw', 1), ('DirectionAngle', 105), ('DirectionRes', 134), ('cpdleft', 1.0), ('cpdright', 0.33)])
+81.8479 	EXP 	window1: mouseVisible = False
+81.8647 	EXP 	feedback_1_D: autoDraw = False
+81.8647 	EXP 	feedback_2_D: autoDraw = False
+81.8647 	EXP 	feedback_3_D: autoDraw = False
+81.8647 	EXP 	feedback_4_D: autoDraw = False
+81.8647 	EXP 	feedback_5_D: autoDraw = False
+81.8647 	EXP 	feedback_1_D: autoDraw = False
+81.8647 	EXP 	feedback_2_D: autoDraw = False
+81.8647 	EXP 	feedback_3_D: autoDraw = False
+81.8647 	EXP 	feedback_4_D: autoDraw = False
+81.8647 	EXP 	feedback_5_D: autoDraw = False
+81.8647 	EXP 	Block_t_2: text = 'Block (1 / 8)  will start.  Please press s key to continue.'
+81.8647 	EXP 	Block_t_2: autoDraw = False
+81.8647 	EXP 	Blank_text: autoDraw = True
+83.8889 	EXP 	Blank_text: autoDraw = False
+83.8889 	EXP 	Blank_text: autoDraw = False
+83.8889 	EXP 	Fixation_1: autoDraw = True
+84.2647 	EXP 	Fixation_1: autoDraw = False
+84.2647 	EXP 	grating: ori = -85.0
+84.2647 	EXP 	grating: sf = array([1., 1.])
+84.2647 	EXP 	grating_2: ori = -15.0
+84.2647 	EXP 	grating_2: sf = array([0.33, 0.33])
+84.2647 	EXP 	Fixation_2: autoDraw = True
+84.2647 	EXP 	grating: autoDraw = True
+84.2647 	EXP 	grating_2: autoDraw = True
+84.8060 	EXP 	Fixation_2: autoDraw = False
+84.8060 	EXP 	grating: autoDraw = False
+84.8060 	EXP 	grating_2: autoDraw = False
+84.8060 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+84.8060 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+84.8060 	EXP 	noisePatch1: autoDraw = True
+84.8060 	EXP 	noisePatch2: autoDraw = True
+84.8060 	EXP 	fixation2: autoDraw = True
+84.9335 	DATA 	Keypress: lcommand
+84.9495 	DATA 	Keypress: lshift
+85.2563 	EXP 	noisePatch1: autoDraw = False
+85.2563 	EXP 	noisePatch2: autoDraw = False
+85.2563 	EXP 	fixation2: autoDraw = False
+85.2563 	EXP 	fixation_2: autoDraw = True
+85.7648 	EXP 	fixation_2: autoDraw = False
+85.7648 	EXP 	tricue: ori = 90.0
+85.7648 	EXP 	tricue: autoDraw = True
+86.0898 	EXP 	window1: mouseVisible = False
+86.0899 	INFO 	keyboard.Keyboard is using iohub backend.
+86.0901 	INFO 	Keyboard events cleared
+86.0969 	EXP 	tricue: autoDraw = False
+86.0969 	EXP 	BKG_7: autoDraw = True
+86.0969 	EXP 	Circle: autoDraw = True
+86.0969 	EXP 	Line_2: autoDraw = True
+86.3415 	DATA 	Keypress: right
+86.5502 	INFO 	Keyboard events cleared
+86.5505 	EXP 	window1: mouseVisible = False
+86.5553 	INFO 	Keyboard events cleared
+86.5557 	EXP 	New trial (rep=0, index=13): OrderedDict([('TrialType', 'Direction'), ('BlockID', 1), ('Session', 1), ('LeftDirection', 15), ('RightDirection', 85), ('Diff', -70), ('Target', 1), ('consistency', 2), ('cw', 2), ('DirectionAngle', 15), ('DirectionRes', 160), ('cpdleft', 0.33), ('cpdright', 1.0)])
+86.5558 	EXP 	window1: mouseVisible = False
+86.5646 	EXP 	BKG_7: autoDraw = False
+86.5646 	EXP 	Circle: autoDraw = False
+86.5646 	EXP 	Line_2: autoDraw = False
+86.5646 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+86.5646 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+86.5646 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+86.5646 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+86.5646 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+86.5646 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+86.5646 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+86.5646 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+86.5646 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+86.5646 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+86.5646 	EXP 	feedback_1_D: autoDraw = False
+86.5646 	EXP 	feedback_2_D: autoDraw = False
+86.5646 	EXP 	feedback_3_D: autoDraw = False
+86.5646 	EXP 	feedback_4_D: autoDraw = False
+86.5646 	EXP 	feedback_5_D: autoDraw = False
+86.5646 	EXP 	Block_t_2: text = 'Block (1 / 8)  will start.  Please press s key to continue.'
+86.5646 	EXP 	Block_t_2: autoDraw = False
+86.5646 	EXP 	Blank_text: autoDraw = True
+88.6816 	EXP 	Blank_text: autoDraw = False
+88.6816 	EXP 	Blank_text: autoDraw = False
+88.6816 	EXP 	Fixation_1: autoDraw = True
+89.0257 	EXP 	Fixation_1: autoDraw = False
+89.0257 	EXP 	Fixation_1: autoDraw = False
+89.0257 	EXP 	grating: ori = 75.0
+89.0257 	EXP 	grating: sf = array([0.33, 0.33])
+89.0257 	EXP 	grating_2: ori = 5.0
+89.0257 	EXP 	grating_2: sf = array([1., 1.])
+89.0257 	EXP 	Fixation_2: autoDraw = True
+89.0257 	EXP 	grating: autoDraw = True
+89.0257 	EXP 	grating_2: autoDraw = True
+89.5801 	EXP 	Fixation_2: autoDraw = False
+89.5801 	EXP 	grating: autoDraw = False
+89.5801 	EXP 	grating_2: autoDraw = False
+89.5801 	EXP 	Fixation_2: autoDraw = False
+89.5801 	EXP 	grating: autoDraw = False
+89.5801 	EXP 	grating_2: autoDraw = False
+89.5801 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+89.5801 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+89.5801 	EXP 	noisePatch1: autoDraw = True
+89.5801 	EXP 	noisePatch2: autoDraw = True
+89.5801 	EXP 	fixation2: autoDraw = True
+89.7166 	DATA 	Keypress: lcommand
+89.7178 	DATA 	Keypress: 3
+89.7329 	DATA 	Keypress: lshift
+90.0487 	EXP 	noisePatch1: autoDraw = False
+90.0487 	EXP 	noisePatch2: autoDraw = False
+90.0487 	EXP 	fixation2: autoDraw = False
+90.0487 	EXP 	fixation_2: autoDraw = True
+90.5485 	EXP 	fixation_2: autoDraw = False
+90.5485 	EXP 	tricue: ori = -90.0
+90.5485 	EXP 	tricue: autoDraw = True
+90.8815 	EXP 	window1: mouseVisible = False
+90.8816 	INFO 	keyboard.Keyboard is using iohub backend.
+90.8818 	INFO 	Keyboard events cleared
+90.8982 	EXP 	tricue: autoDraw = False
+90.8982 	EXP 	BKG_7: autoDraw = True
+90.8982 	EXP 	Circle: autoDraw = True
+90.8982 	EXP 	Line_2: autoDraw = True
+91.4498 	DATA 	Keypress: right
+91.6165 	INFO 	Keyboard events cleared
+91.6167 	EXP 	window1: mouseVisible = False
+91.6396 	EXP 	BKG_7: autoDraw = False
+91.6396 	EXP 	Circle: autoDraw = False
+91.6396 	EXP 	Line_2: autoDraw = False
+91.6396 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+91.6396 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+91.6396 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+91.6396 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+91.6396 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+91.6396 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+91.6396 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+91.6396 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+91.6396 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+91.6396 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+91.9216 	EXP 	feedback_1_D: autoDraw = True
+91.9216 	EXP 	feedback_2_D: autoDraw = True
+91.9216 	EXP 	feedback_3_D: autoDraw = True
+91.9216 	EXP 	feedback_4_D: autoDraw = True
+91.9216 	EXP 	feedback_5_D: autoDraw = True
+92.4070 	INFO 	Keyboard events cleared
+92.4075 	EXP 	New trial (rep=0, index=14): OrderedDict([('TrialType', 'Direction'), ('BlockID', 1), ('Session', 1), ('LeftDirection', 5), ('RightDirection', 165), ('Diff', -160), ('Target', 1), ('consistency', 1), ('cw', 2), ('DirectionAngle', 5), ('DirectionRes', 39), ('cpdleft', 0.33), ('cpdright', 0.33)])
+92.4076 	EXP 	window1: mouseVisible = False
+92.4128 	EXP 	feedback_1_D: autoDraw = False
+92.4128 	EXP 	feedback_2_D: autoDraw = False
+92.4128 	EXP 	feedback_3_D: autoDraw = False
+92.4128 	EXP 	feedback_4_D: autoDraw = False
+92.4128 	EXP 	feedback_5_D: autoDraw = False
+92.4128 	EXP 	feedback_1_D: autoDraw = False
+92.4128 	EXP 	feedback_2_D: autoDraw = False
+92.4128 	EXP 	feedback_3_D: autoDraw = False
+92.4128 	EXP 	feedback_4_D: autoDraw = False
+92.4128 	EXP 	feedback_5_D: autoDraw = False
+92.4128 	EXP 	Block_t_2: text = 'Block (1 / 8)  will start.  Please press s key to continue.'
+92.4128 	EXP 	Block_t_2: autoDraw = False
+92.4128 	EXP 	Blank_text: autoDraw = True
+94.5569 	EXP 	Blank_text: autoDraw = False
+94.5569 	EXP 	Blank_text: autoDraw = False
+94.5569 	EXP 	Fixation_1: autoDraw = True
+94.9172 	EXP 	Fixation_1: autoDraw = False
+94.9172 	EXP 	grating: ori = 85.0
+94.9172 	EXP 	grating: sf = array([0.33, 0.33])
+94.9172 	EXP 	grating_2: ori = -75.0
+94.9172 	EXP 	grating_2: sf = array([0.33, 0.33])
+94.9172 	EXP 	Fixation_2: autoDraw = True
+94.9172 	EXP 	grating: autoDraw = True
+94.9172 	EXP 	grating_2: autoDraw = True
+95.4622 	DATA 	Keypress: 3
+95.4644 	DATA 	Keypress: lcommand
+95.4648 	DATA 	Keypress: lshift
+95.4687 	EXP 	Fixation_2: autoDraw = False
+95.4687 	EXP 	grating: autoDraw = False
+95.4687 	EXP 	grating_2: autoDraw = False
+95.4687 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+95.4687 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+95.4687 	EXP 	noisePatch1: autoDraw = True
+95.4687 	EXP 	noisePatch2: autoDraw = True
+95.4687 	EXP 	fixation2: autoDraw = True
+95.9040 	EXP 	noisePatch1: autoDraw = False
+95.9040 	EXP 	noisePatch2: autoDraw = False
+95.9040 	EXP 	fixation2: autoDraw = False
+95.9040 	EXP 	fixation_2: autoDraw = True
+96.4058 	EXP 	fixation_2: autoDraw = False
+96.4058 	EXP 	tricue: ori = -90.0
+96.4058 	EXP 	tricue: autoDraw = True
+96.7572 	EXP 	window1: mouseVisible = False
+96.7574 	INFO 	keyboard.Keyboard is using iohub backend.
+96.7580 	INFO 	Keyboard events cleared
+96.7812 	EXP 	tricue: autoDraw = False
+96.7812 	EXP 	BKG_7: autoDraw = True
+96.7812 	EXP 	Circle: autoDraw = True
+96.7812 	EXP 	Line_2: autoDraw = True
+97.2746 	DATA 	Keypress: right
+97.4833 	INFO 	Keyboard events cleared
+97.4836 	EXP 	window1: mouseVisible = False
+97.4882 	INFO 	Keyboard events cleared
+97.4887 	EXP 	New trial (rep=0, index=15): OrderedDict([('TrialType', 'Direction'), ('BlockID', 1), ('Session', 1), ('LeftDirection', 35), ('RightDirection', 145), ('Diff', -110), ('Target', -1), ('consistency', 2), ('cw', 2), ('DirectionAngle', 145), ('DirectionRes', 48), ('cpdleft', 1.0), ('cpdright', 0.33)])
+97.4887 	EXP 	window1: mouseVisible = False
+97.5062 	EXP 	BKG_7: autoDraw = False
+97.5062 	EXP 	Circle: autoDraw = False
+97.5062 	EXP 	Line_2: autoDraw = False
+97.5062 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+97.5062 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+97.5062 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+97.5062 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+97.5062 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+97.5062 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+97.5062 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+97.5062 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+97.5062 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+97.5062 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+97.5062 	EXP 	feedback_1_D: autoDraw = False
+97.5062 	EXP 	feedback_2_D: autoDraw = False
+97.5062 	EXP 	feedback_3_D: autoDraw = False
+97.5062 	EXP 	feedback_4_D: autoDraw = False
+97.5062 	EXP 	feedback_5_D: autoDraw = False
+97.5062 	EXP 	Block_t_2: text = 'Block (1 / 8)  will start.  Please press s key to continue.'
+97.5062 	EXP 	Block_t_2: autoDraw = False
+97.5062 	EXP 	Blank_text: autoDraw = True
+99.7402 	EXP 	Blank_text: autoDraw = False
+99.7402 	EXP 	Blank_text: autoDraw = False
+99.7402 	EXP 	Fixation_1: autoDraw = True
+100.0918 	EXP 	Fixation_1: autoDraw = False
+100.0918 	EXP 	grating: ori = 55.0
+100.0918 	EXP 	grating: sf = array([1., 1.])
+100.0918 	EXP 	grating_2: ori = -55.0
+100.0918 	EXP 	grating_2: sf = array([0.33, 0.33])
+100.0918 	EXP 	Fixation_2: autoDraw = True
+100.0918 	EXP 	grating: autoDraw = True
+100.0918 	EXP 	grating_2: autoDraw = True
+100.6438 	DATA 	Keypress: lshift
+100.6445 	DATA 	Keypress: lcommand
+100.6484 	EXP 	Fixation_2: autoDraw = False
+100.6484 	EXP 	grating: autoDraw = False
+100.6484 	EXP 	grating_2: autoDraw = False
+100.6484 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+100.6484 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+100.6484 	EXP 	noisePatch1: autoDraw = True
+100.6484 	EXP 	noisePatch2: autoDraw = True
+100.6484 	EXP 	fixation2: autoDraw = True
+101.0884 	EXP 	noisePatch1: autoDraw = False
+101.0884 	EXP 	noisePatch2: autoDraw = False
+101.0884 	EXP 	fixation2: autoDraw = False
+101.0884 	EXP 	fixation_2: autoDraw = True
+101.5881 	EXP 	fixation_2: autoDraw = False
+101.5881 	EXP 	tricue: ori = 90.0
+101.5881 	EXP 	tricue: autoDraw = True
+101.9222 	EXP 	window1: mouseVisible = False
+101.9222 	INFO 	keyboard.Keyboard is using iohub backend.
+101.9227 	INFO 	Keyboard events cleared
+101.9396 	EXP 	tricue: autoDraw = False
+101.9396 	EXP 	BKG_7: autoDraw = True
+101.9396 	EXP 	Circle: autoDraw = True
+101.9396 	EXP 	Line_2: autoDraw = True
+102.3329 	DATA 	Keypress: right
+102.5835 	INFO 	Keyboard events cleared
+102.5838 	EXP 	window1: mouseVisible = False
+102.5925 	EXP 	BKG_7: autoDraw = False
+102.5925 	EXP 	Circle: autoDraw = False
+102.5925 	EXP 	Line_2: autoDraw = False
+102.5925 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+102.5925 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+102.5925 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+102.5925 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+102.5925 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+102.5925 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+102.5925 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+102.5925 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+102.5925 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+102.5925 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+102.8888 	EXP 	feedback_1_D: autoDraw = True
+102.8888 	EXP 	feedback_2_D: autoDraw = True
+102.8888 	EXP 	feedback_3_D: autoDraw = True
+102.8888 	EXP 	feedback_4_D: autoDraw = True
+102.8888 	EXP 	feedback_5_D: autoDraw = True
+103.3721 	INFO 	Keyboard events cleared
+103.3726 	EXP 	New trial (rep=0, index=16): OrderedDict([('TrialType', 'Direction'), ('BlockID', 1), ('Session', 1), ('LeftDirection', 135), ('RightDirection', 85), ('Diff', 50), ('Target', 1), ('consistency', 1), ('cw', 1), ('DirectionAngle', 135), ('DirectionRes', 152), ('cpdleft', 0.33), ('cpdright', 0.33)])
+103.3728 	EXP 	window1: mouseVisible = False
+103.3897 	EXP 	feedback_1_D: autoDraw = False
+103.3897 	EXP 	feedback_2_D: autoDraw = False
+103.3897 	EXP 	feedback_3_D: autoDraw = False
+103.3897 	EXP 	feedback_4_D: autoDraw = False
+103.3897 	EXP 	feedback_5_D: autoDraw = False
+103.3897 	EXP 	feedback_1_D: autoDraw = False
+103.3897 	EXP 	feedback_2_D: autoDraw = False
+103.3897 	EXP 	feedback_3_D: autoDraw = False
+103.3897 	EXP 	feedback_4_D: autoDraw = False
+103.3897 	EXP 	feedback_5_D: autoDraw = False
+103.3897 	EXP 	Block_t_2: text = 'Block (1 / 8)  will start.  Please press s key to continue.'
+103.3897 	EXP 	Block_t_2: autoDraw = False
+103.3897 	EXP 	Blank_text: autoDraw = True
+105.4982 	EXP 	Blank_text: autoDraw = False
+105.4982 	EXP 	Blank_text: autoDraw = False
+105.4982 	EXP 	Fixation_1: autoDraw = True
+105.8410 	EXP 	Fixation_1: autoDraw = False
+105.8410 	EXP 	Fixation_1: autoDraw = False
+105.8410 	EXP 	grating: ori = -45.0
+105.8410 	EXP 	grating: sf = array([0.33, 0.33])
+105.8410 	EXP 	grating_2: ori = 5.0
+105.8410 	EXP 	grating_2: sf = array([0.33, 0.33])
+105.8410 	EXP 	Fixation_2: autoDraw = True
+105.8410 	EXP 	grating: autoDraw = True
+105.8410 	EXP 	grating_2: autoDraw = True
+106.3006 	DATA 	Keypress: lcommand
+106.3015 	DATA 	Keypress: lshift
+106.3933 	EXP 	Fixation_2: autoDraw = False
+106.3933 	EXP 	grating: autoDraw = False
+106.3933 	EXP 	grating_2: autoDraw = False
+106.3933 	EXP 	Fixation_2: autoDraw = False
+106.3933 	EXP 	grating: autoDraw = False
+106.3933 	EXP 	grating_2: autoDraw = False
+106.3933 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+106.3933 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+106.3933 	EXP 	noisePatch1: autoDraw = True
+106.3933 	EXP 	noisePatch2: autoDraw = True
+106.3933 	EXP 	fixation2: autoDraw = True
+106.8562 	EXP 	noisePatch1: autoDraw = False
+106.8562 	EXP 	noisePatch2: autoDraw = False
+106.8562 	EXP 	fixation2: autoDraw = False
+106.8562 	EXP 	fixation_2: autoDraw = True
+107.3465 	EXP 	fixation_2: autoDraw = False
+107.3465 	EXP 	tricue: ori = -90.0
+107.3465 	EXP 	tricue: autoDraw = True
+107.6990 	EXP 	window1: mouseVisible = False
+107.6992 	INFO 	keyboard.Keyboard is using iohub backend.
+107.6999 	INFO 	Keyboard events cleared
+107.7231 	EXP 	tricue: autoDraw = False
+107.7231 	EXP 	BKG_7: autoDraw = True
+107.7231 	EXP 	Circle: autoDraw = True
+107.7231 	EXP 	Line_2: autoDraw = True
+107.8664 	DATA 	Keypress: right
+108.0584 	INFO 	Keyboard events cleared
+108.0587 	EXP 	window1: mouseVisible = False
+108.0634 	INFO 	Keyboard events cleared
+108.0639 	EXP 	New trial (rep=0, index=17): OrderedDict([('TrialType', 'Direction'), ('BlockID', 1), ('Session', 1), ('LeftDirection', 125), ('RightDirection', 85), ('Diff', 40), ('Target', -1), ('consistency', 2), ('cw', 1), ('DirectionAngle', 85), ('DirectionRes', 130), ('cpdleft', 1.0), ('cpdright', 0.33)])
+108.0640 	EXP 	window1: mouseVisible = False
+108.0676 	EXP 	BKG_7: autoDraw = False
+108.0676 	EXP 	Circle: autoDraw = False
+108.0676 	EXP 	Line_2: autoDraw = False
+108.0676 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+108.0676 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+108.0676 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: (1.0, 0.3, 0.4, 1.0)>
+108.0676 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: (1.0, 0.3, 0.4, 1.0)>
+108.0676 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+108.0676 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+108.0676 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+108.0676 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+108.0676 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+108.0676 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+108.0676 	EXP 	feedback_1_D: autoDraw = False
+108.0676 	EXP 	feedback_2_D: autoDraw = False
+108.0676 	EXP 	feedback_3_D: autoDraw = False
+108.0676 	EXP 	feedback_4_D: autoDraw = False
+108.0676 	EXP 	feedback_5_D: autoDraw = False
+108.0676 	EXP 	Block_t_2: text = 'Block (1 / 8)  will start.  Please press s key to continue.'
+108.0676 	EXP 	Block_t_2: autoDraw = False
+108.0676 	EXP 	Blank_text: autoDraw = True
+110.1319 	EXP 	Blank_text: autoDraw = False
+110.1319 	EXP 	Blank_text: autoDraw = False
+110.1319 	EXP 	Fixation_1: autoDraw = True
+110.4901 	EXP 	Fixation_1: autoDraw = False
+110.4901 	EXP 	grating: ori = -35.0
+110.4901 	EXP 	grating: sf = array([1., 1.])
+110.4901 	EXP 	grating_2: ori = 5.0
+110.4901 	EXP 	grating_2: sf = array([0.33, 0.33])
+110.4901 	EXP 	Fixation_2: autoDraw = True
+110.4901 	EXP 	grating: autoDraw = True
+110.4901 	EXP 	grating_2: autoDraw = True
+111.0293 	EXP 	Fixation_2: autoDraw = False
+111.0293 	EXP 	grating: autoDraw = False
+111.0293 	EXP 	grating_2: autoDraw = False
+111.0293 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+111.0293 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+111.0293 	EXP 	noisePatch1: autoDraw = True
+111.0293 	EXP 	noisePatch2: autoDraw = True
+111.0293 	EXP 	fixation2: autoDraw = True
+111.4716 	EXP 	noisePatch1: autoDraw = False
+111.4716 	EXP 	noisePatch2: autoDraw = False
+111.4716 	EXP 	fixation2: autoDraw = False
+111.4716 	EXP 	fixation_2: autoDraw = True
+111.9729 	EXP 	fixation_2: autoDraw = False
+111.9729 	EXP 	tricue: ori = 90.0
+111.9729 	EXP 	tricue: autoDraw = True
+112.3066 	EXP 	window1: mouseVisible = False
+112.3067 	INFO 	keyboard.Keyboard is using iohub backend.
+112.3069 	INFO 	Keyboard events cleared
+112.3133 	EXP 	tricue: autoDraw = False
+112.3133 	EXP 	tricue: autoDraw = False
+112.3133 	EXP 	BKG_7: autoDraw = True
+112.3133 	EXP 	Circle: autoDraw = True
+112.3133 	EXP 	Line_2: autoDraw = True
+112.6683 	DATA 	Keypress: right
+112.8334 	INFO 	Keyboard events cleared
+112.8337 	EXP 	window1: mouseVisible = False
+112.8411 	EXP 	BKG_7: autoDraw = False
+112.8411 	EXP 	Circle: autoDraw = False
+112.8411 	EXP 	Line_2: autoDraw = False
+112.8411 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+112.8411 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+112.8411 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+112.8411 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+112.8411 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+112.8411 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+112.8411 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+112.8411 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+112.8411 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+112.8411 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+113.1379 	EXP 	feedback_1_D: autoDraw = True
+113.1379 	EXP 	feedback_2_D: autoDraw = True
+113.1379 	EXP 	feedback_3_D: autoDraw = True
+113.1379 	EXP 	feedback_4_D: autoDraw = True
+113.1379 	EXP 	feedback_5_D: autoDraw = True
+113.6232 	INFO 	Keyboard events cleared
+113.6237 	EXP 	New trial (rep=0, index=18): OrderedDict([('TrialType', 'Direction'), ('BlockID', 1), ('Session', 1), ('LeftDirection', 165), ('RightDirection', 65), ('Diff', 100), ('Target', 1), ('consistency', 2), ('cw', 1), ('DirectionAngle', 165), ('DirectionRes', 161), ('cpdleft', 0.33), ('cpdright', 1.0)])
+113.6238 	EXP 	window1: mouseVisible = False
+113.6394 	EXP 	feedback_1_D: autoDraw = False
+113.6394 	EXP 	feedback_2_D: autoDraw = False
+113.6394 	EXP 	feedback_3_D: autoDraw = False
+113.6394 	EXP 	feedback_4_D: autoDraw = False
+113.6394 	EXP 	feedback_5_D: autoDraw = False
+113.6394 	EXP 	feedback_1_D: autoDraw = False
+113.6394 	EXP 	feedback_2_D: autoDraw = False
+113.6394 	EXP 	feedback_3_D: autoDraw = False
+113.6394 	EXP 	feedback_4_D: autoDraw = False
+113.6394 	EXP 	feedback_5_D: autoDraw = False
+113.6394 	EXP 	Block_t_2: text = 'Block (1 / 8)  will start.  Please press s key to continue.'
+113.6394 	EXP 	Block_t_2: autoDraw = False
+113.6394 	EXP 	Blank_text: autoDraw = True
+115.7979 	EXP 	Blank_text: autoDraw = False
+115.7979 	EXP 	Blank_text: autoDraw = False
+115.7979 	EXP 	Fixation_1: autoDraw = True
+116.1408 	EXP 	Fixation_1: autoDraw = False
+116.1408 	EXP 	Fixation_1: autoDraw = False
+116.1408 	EXP 	grating: ori = -75.0
+116.1408 	EXP 	grating: sf = array([0.33, 0.33])
+116.1408 	EXP 	grating_2: ori = 25.0
+116.1408 	EXP 	grating_2: sf = array([1., 1.])
+116.1408 	EXP 	Fixation_2: autoDraw = True
+116.1408 	EXP 	grating: autoDraw = True
+116.1408 	EXP 	grating_2: autoDraw = True
+116.6944 	DATA 	Keypress: lcommand
+116.6953 	DATA 	Keypress: lshift
+116.6992 	EXP 	Fixation_2: autoDraw = False
+116.6992 	EXP 	grating: autoDraw = False
+116.6992 	EXP 	grating_2: autoDraw = False
+116.6992 	EXP 	Fixation_2: autoDraw = False
+116.6992 	EXP 	grating: autoDraw = False
+116.6992 	EXP 	grating_2: autoDraw = False
+116.6992 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+116.6992 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+116.6992 	EXP 	noisePatch1: autoDraw = True
+116.6992 	EXP 	noisePatch2: autoDraw = True
+116.6992 	EXP 	fixation2: autoDraw = True
+117.1652 	EXP 	noisePatch1: autoDraw = False
+117.1652 	EXP 	noisePatch2: autoDraw = False
+117.1652 	EXP 	fixation2: autoDraw = False
+117.1652 	EXP 	fixation_2: autoDraw = True
+117.6647 	EXP 	fixation_2: autoDraw = False
+117.6647 	EXP 	tricue: ori = -90.0
+117.6647 	EXP 	tricue: autoDraw = True
+117.9988 	EXP 	window1: mouseVisible = False
+117.9989 	INFO 	keyboard.Keyboard is using iohub backend.
+117.9995 	INFO 	Keyboard events cleared
+118.0145 	EXP 	tricue: autoDraw = False
+118.0145 	EXP 	BKG_7: autoDraw = True
+118.0145 	EXP 	Circle: autoDraw = True
+118.0145 	EXP 	Line_2: autoDraw = True
+118.3741 	DATA 	Keypress: right
+118.5226 	INFO 	Keyboard events cleared
+118.5229 	EXP 	window1: mouseVisible = False
+118.5275 	INFO 	Keyboard events cleared
+118.5280 	EXP 	New trial (rep=0, index=19): OrderedDict([('TrialType', 'Direction'), ('BlockID', 1), ('Session', 1), ('LeftDirection', 5), ('RightDirection', 175), ('Diff', -170), ('Target', 1), ('consistency', 2), ('cw', 2), ('DirectionAngle', 5), ('DirectionRes', 2), ('cpdleft', 0.33), ('cpdright', 1.0)])
+118.5281 	EXP 	window1: mouseVisible = False
+118.5339 	EXP 	BKG_7: autoDraw = False
+118.5339 	EXP 	Circle: autoDraw = False
+118.5339 	EXP 	Line_2: autoDraw = False
+118.5339 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+118.5339 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+118.5339 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+118.5339 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+118.5339 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+118.5339 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+118.5339 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+118.5339 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+118.5339 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+118.5339 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+118.5339 	EXP 	feedback_1_D: autoDraw = False
+118.5339 	EXP 	feedback_2_D: autoDraw = False
+118.5339 	EXP 	feedback_3_D: autoDraw = False
+118.5339 	EXP 	feedback_4_D: autoDraw = False
+118.5339 	EXP 	feedback_5_D: autoDraw = False
+118.5339 	EXP 	Block_t_2: text = 'Block (1 / 8)  will start.  Please press s key to continue.'
+118.5339 	EXP 	Block_t_2: autoDraw = False
+118.5339 	EXP 	Blank_text: autoDraw = True
+120.6736 	EXP 	Blank_text: autoDraw = False
+120.6736 	EXP 	Blank_text: autoDraw = False
+120.6736 	EXP 	Fixation_1: autoDraw = True
+121.0229 	EXP 	Fixation_1: autoDraw = False
+121.0229 	EXP 	Fixation_1: autoDraw = False
+121.0229 	EXP 	grating: ori = 85.0
+121.0229 	EXP 	grating: sf = array([0.33, 0.33])
+121.0229 	EXP 	grating_2: ori = -85.0
+121.0229 	EXP 	grating_2: sf = array([1., 1.])
+121.0229 	EXP 	Fixation_2: autoDraw = True
+121.0229 	EXP 	grating: autoDraw = True
+121.0229 	EXP 	grating_2: autoDraw = True
+121.5705 	EXP 	Fixation_2: autoDraw = False
+121.5705 	EXP 	grating: autoDraw = False
+121.5705 	EXP 	grating_2: autoDraw = False
+121.5705 	EXP 	Fixation_2: autoDraw = False
+121.5705 	EXP 	grating: autoDraw = False
+121.5705 	EXP 	grating_2: autoDraw = False
+121.5705 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+121.5705 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+121.5705 	EXP 	noisePatch1: autoDraw = True
+121.5705 	EXP 	noisePatch2: autoDraw = True
+121.5705 	EXP 	fixation2: autoDraw = True
+122.0317 	EXP 	noisePatch1: autoDraw = False
+122.0317 	EXP 	noisePatch2: autoDraw = False
+122.0317 	EXP 	fixation2: autoDraw = False
+122.0317 	EXP 	fixation_2: autoDraw = True
+122.5396 	EXP 	fixation_2: autoDraw = False
+122.5396 	EXP 	tricue: ori = -90.0
+122.5396 	EXP 	tricue: autoDraw = True
+122.8654 	EXP 	window1: mouseVisible = False
+122.8656 	INFO 	keyboard.Keyboard is using iohub backend.
+122.8665 	INFO 	Keyboard events cleared
+122.8903 	EXP 	tricue: autoDraw = False
+122.8903 	EXP 	BKG_7: autoDraw = True
+122.8903 	EXP 	Circle: autoDraw = True
+122.8903 	EXP 	Line_2: autoDraw = True
+123.3077 	DATA 	Keypress: right
+123.4501 	INFO 	Keyboard events cleared
+123.4503 	EXP 	window1: mouseVisible = False
+123.4728 	EXP 	BKG_7: autoDraw = False
+123.4728 	EXP 	Circle: autoDraw = False
+123.4728 	EXP 	Line_2: autoDraw = False
+123.4728 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+123.4728 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+123.4728 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+123.4728 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+123.4728 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+123.4728 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+123.4728 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+123.4728 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+123.4728 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+123.4728 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+123.7547 	EXP 	feedback_1_D: autoDraw = True
+123.7547 	EXP 	feedback_2_D: autoDraw = True
+123.7547 	EXP 	feedback_3_D: autoDraw = True
+123.7547 	EXP 	feedback_4_D: autoDraw = True
+123.7547 	EXP 	feedback_5_D: autoDraw = True
+124.2402 	INFO 	Keyboard events cleared
+124.2409 	EXP 	New trial (rep=0, index=20): OrderedDict([('TrialType', 'Direction'), ('BlockID', 1), ('Session', 1), ('LeftDirection', 145), ('RightDirection', 155), ('Diff', -10), ('Target', -1), ('consistency', 2), ('cw', 2), ('DirectionAngle', 155), ('DirectionRes', 70), ('cpdleft', 1.0), ('cpdright', 0.33)])
+124.2410 	EXP 	window1: mouseVisible = False
+124.2563 	EXP 	feedback_1_D: autoDraw = False
+124.2563 	EXP 	feedback_2_D: autoDraw = False
+124.2563 	EXP 	feedback_3_D: autoDraw = False
+124.2563 	EXP 	feedback_4_D: autoDraw = False
+124.2563 	EXP 	feedback_5_D: autoDraw = False
+124.2563 	EXP 	feedback_1_D: autoDraw = False
+124.2563 	EXP 	feedback_2_D: autoDraw = False
+124.2563 	EXP 	feedback_3_D: autoDraw = False
+124.2563 	EXP 	feedback_4_D: autoDraw = False
+124.2563 	EXP 	feedback_5_D: autoDraw = False
+124.2563 	EXP 	Block_t_2: text = 'Block (1 / 8)  will start.  Please press s key to continue.'
+124.2563 	EXP 	Block_t_2: autoDraw = False
+124.2563 	EXP 	Blank_text: autoDraw = True
+126.4139 	EXP 	Blank_text: autoDraw = False
+126.4139 	EXP 	Blank_text: autoDraw = False
+126.4139 	EXP 	Fixation_1: autoDraw = True
+126.7578 	EXP 	Fixation_1: autoDraw = False
+126.7578 	EXP 	Fixation_1: autoDraw = False
+126.7578 	EXP 	grating: ori = -55.0
+126.7578 	EXP 	grating: sf = array([1., 1.])
+126.7578 	EXP 	grating_2: ori = -65.0
+126.7578 	EXP 	grating_2: sf = array([0.33, 0.33])
+126.7578 	EXP 	Fixation_2: autoDraw = True
+126.7578 	EXP 	grating: autoDraw = True
+126.7578 	EXP 	grating_2: autoDraw = True
+127.3131 	EXP 	Fixation_2: autoDraw = False
+127.3131 	EXP 	grating: autoDraw = False
+127.3131 	EXP 	grating_2: autoDraw = False
+127.3131 	EXP 	Fixation_2: autoDraw = False
+127.3131 	EXP 	grating: autoDraw = False
+127.3131 	EXP 	grating_2: autoDraw = False
+127.3131 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+127.3131 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+127.3131 	EXP 	noisePatch1: autoDraw = True
+127.3131 	EXP 	noisePatch2: autoDraw = True
+127.3131 	EXP 	fixation2: autoDraw = True
+127.3910 	DATA 	Keypress: lcommand
+127.3916 	DATA 	Keypress: lshift
+127.7729 	EXP 	noisePatch1: autoDraw = False
+127.7729 	EXP 	noisePatch2: autoDraw = False
+127.7729 	EXP 	fixation2: autoDraw = False
+127.7729 	EXP 	fixation_2: autoDraw = True
+128.2738 	EXP 	fixation_2: autoDraw = False
+128.2738 	EXP 	tricue: ori = 90.0
+128.2738 	EXP 	tricue: autoDraw = True
+128.6072 	EXP 	window1: mouseVisible = False
+128.6074 	INFO 	keyboard.Keyboard is using iohub backend.
+128.6080 	INFO 	Keyboard events cleared
+128.6228 	EXP 	tricue: autoDraw = False
+128.6228 	EXP 	BKG_7: autoDraw = True
+128.6228 	EXP 	Circle: autoDraw = True
+128.6228 	EXP 	Line_2: autoDraw = True
+128.9577 	DATA 	Keypress: right
+129.1312 	INFO 	Keyboard events cleared
+129.1315 	EXP 	window1: mouseVisible = False
+129.1479 	EXP 	BKG_7: autoDraw = False
+129.1479 	EXP 	Circle: autoDraw = False
+129.1479 	EXP 	Line_2: autoDraw = False
+129.1479 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+129.1479 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+129.1479 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+129.1479 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+129.1479 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+129.1479 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+129.1479 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+129.1479 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+129.1479 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+129.1479 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+129.4378 	EXP 	feedback_1_D: autoDraw = True
+129.4378 	EXP 	feedback_2_D: autoDraw = True
+129.4378 	EXP 	feedback_3_D: autoDraw = True
+129.4378 	EXP 	feedback_4_D: autoDraw = True
+129.4378 	EXP 	feedback_5_D: autoDraw = True
+129.9215 	INFO 	Keyboard events cleared
+129.9221 	EXP 	New trial (rep=0, index=21): OrderedDict([('TrialType', 'Direction'), ('BlockID', 1), ('Session', 1), ('LeftDirection', 35), ('RightDirection', 125), ('Diff', -90), ('Target', 1), ('consistency', 1), ('cw', 2), ('DirectionAngle', 35), ('DirectionRes', 153), ('cpdleft', 0.33), ('cpdright', 0.33)])
+129.9223 	EXP 	window1: mouseVisible = False
+129.9395 	EXP 	feedback_1_D: autoDraw = False
+129.9395 	EXP 	feedback_2_D: autoDraw = False
+129.9395 	EXP 	feedback_3_D: autoDraw = False
+129.9395 	EXP 	feedback_4_D: autoDraw = False
+129.9395 	EXP 	feedback_5_D: autoDraw = False
+129.9395 	EXP 	feedback_1_D: autoDraw = False
+129.9395 	EXP 	feedback_2_D: autoDraw = False
+129.9395 	EXP 	feedback_3_D: autoDraw = False
+129.9395 	EXP 	feedback_4_D: autoDraw = False
+129.9395 	EXP 	feedback_5_D: autoDraw = False
+129.9395 	EXP 	Block_t_2: text = 'Block (1 / 8)  will start.  Please press s key to continue.'
+129.9395 	EXP 	Block_t_2: autoDraw = False
+129.9395 	EXP 	Blank_text: autoDraw = True
+131.9818 	EXP 	Blank_text: autoDraw = False
+131.9818 	EXP 	Blank_text: autoDraw = False
+131.9818 	EXP 	Fixation_1: autoDraw = True
+132.3298 	EXP 	Fixation_1: autoDraw = False
+132.3298 	EXP 	grating: ori = 55.0
+132.3298 	EXP 	grating: sf = array([0.33, 0.33])
+132.3298 	EXP 	grating_2: ori = -35.0
+132.3298 	EXP 	grating_2: sf = array([0.33, 0.33])
+132.3298 	EXP 	Fixation_2: autoDraw = True
+132.3298 	EXP 	grating: autoDraw = True
+132.3298 	EXP 	grating_2: autoDraw = True
+132.8985 	EXP 	Fixation_2: autoDraw = False
+132.8985 	EXP 	grating: autoDraw = False
+132.8985 	EXP 	grating_2: autoDraw = False
+132.8985 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+132.8985 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+132.8985 	EXP 	noisePatch1: autoDraw = True
+132.8985 	EXP 	noisePatch2: autoDraw = True
+132.8985 	EXP 	fixation2: autoDraw = True
+133.3353 	EXP 	noisePatch1: autoDraw = False
+133.3353 	EXP 	noisePatch2: autoDraw = False
+133.3353 	EXP 	fixation2: autoDraw = False
+133.3353 	EXP 	fixation_2: autoDraw = True
+133.8355 	EXP 	fixation_2: autoDraw = False
+133.8355 	EXP 	tricue: ori = -90.0
+133.8355 	EXP 	tricue: autoDraw = True
+134.1698 	EXP 	window1: mouseVisible = False
+134.1700 	INFO 	keyboard.Keyboard is using iohub backend.
+134.1706 	INFO 	Keyboard events cleared
+134.1795 	EXP 	tricue: autoDraw = False
+134.1795 	EXP 	BKG_7: autoDraw = True
+134.1795 	EXP 	Circle: autoDraw = True
+134.1795 	EXP 	Line_2: autoDraw = True
+134.7367 	DATA 	Keypress: right
+134.9292 	INFO 	Keyboard events cleared
+134.9295 	EXP 	window1: mouseVisible = False
+134.9436 	EXP 	BKG_7: autoDraw = False
+134.9436 	EXP 	Circle: autoDraw = False
+134.9436 	EXP 	Line_2: autoDraw = False
+134.9436 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+134.9436 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+134.9436 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+134.9436 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+134.9436 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+134.9436 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+134.9436 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+134.9436 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+134.9436 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+134.9436 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+135.2438 	EXP 	feedback_1_D: autoDraw = True
+135.2438 	EXP 	feedback_2_D: autoDraw = True
+135.2438 	EXP 	feedback_3_D: autoDraw = True
+135.2438 	EXP 	feedback_4_D: autoDraw = True
+135.2438 	EXP 	feedback_5_D: autoDraw = True
+135.7275 	INFO 	Keyboard events cleared
+135.7280 	EXP 	New trial (rep=0, index=22): OrderedDict([('TrialType', 'Direction'), ('BlockID', 1), ('Session', 1), ('LeftDirection', 45), ('RightDirection', 165), ('Diff', -120), ('Target', 1), ('consistency', 2), ('cw', 2), ('DirectionAngle', 45), ('DirectionRes', 17), ('cpdleft', 0.33), ('cpdright', 1.0)])
+135.7282 	EXP 	window1: mouseVisible = False
+135.7437 	EXP 	feedback_1_D: autoDraw = False
+135.7437 	EXP 	feedback_2_D: autoDraw = False
+135.7437 	EXP 	feedback_3_D: autoDraw = False
+135.7437 	EXP 	feedback_4_D: autoDraw = False
+135.7437 	EXP 	feedback_5_D: autoDraw = False
+135.7437 	EXP 	feedback_1_D: autoDraw = False
+135.7437 	EXP 	feedback_2_D: autoDraw = False
+135.7437 	EXP 	feedback_3_D: autoDraw = False
+135.7437 	EXP 	feedback_4_D: autoDraw = False
+135.7437 	EXP 	feedback_5_D: autoDraw = False
+135.7437 	EXP 	Block_t_2: text = 'Block (1 / 8)  will start.  Please press s key to continue.'
+135.7437 	EXP 	Block_t_2: autoDraw = False
+135.7437 	EXP 	Blank_text: autoDraw = True
+137.9522 	EXP 	Blank_text: autoDraw = False
+137.9522 	EXP 	Blank_text: autoDraw = False
+137.9522 	EXP 	Fixation_1: autoDraw = True
+138.2965 	EXP 	Fixation_1: autoDraw = False
+138.2965 	EXP 	Fixation_1: autoDraw = False
+138.2965 	EXP 	grating: ori = 45.0
+138.2965 	EXP 	grating: sf = array([0.33, 0.33])
+138.2965 	EXP 	grating_2: ori = -75.0
+138.2965 	EXP 	grating_2: sf = array([1., 1.])
+138.2965 	EXP 	Fixation_2: autoDraw = True
+138.2965 	EXP 	grating: autoDraw = True
+138.2965 	EXP 	grating_2: autoDraw = True
+138.6796 	DATA 	Keypress: lcommand
+138.6810 	DATA 	Keypress: 3
+138.6815 	DATA 	Keypress: lshift
+138.8502 	EXP 	Fixation_2: autoDraw = False
+138.8502 	EXP 	grating: autoDraw = False
+138.8502 	EXP 	grating_2: autoDraw = False
+138.8502 	EXP 	Fixation_2: autoDraw = False
+138.8502 	EXP 	grating: autoDraw = False
+138.8502 	EXP 	grating_2: autoDraw = False
+138.8502 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+138.8502 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+138.8502 	EXP 	noisePatch1: autoDraw = True
+138.8502 	EXP 	noisePatch2: autoDraw = True
+138.8502 	EXP 	fixation2: autoDraw = True
+139.3109 	EXP 	noisePatch1: autoDraw = False
+139.3109 	EXP 	noisePatch2: autoDraw = False
+139.3109 	EXP 	fixation2: autoDraw = False
+139.3109 	EXP 	fixation_2: autoDraw = True
+139.8088 	EXP 	fixation_2: autoDraw = False
+139.8088 	EXP 	tricue: ori = -90.0
+139.8088 	EXP 	tricue: autoDraw = True
+140.1369 	EXP 	window1: mouseVisible = False
+140.1370 	INFO 	keyboard.Keyboard is using iohub backend.
+140.1376 	INFO 	Keyboard events cleared
+140.1603 	EXP 	tricue: autoDraw = False
+140.1603 	EXP 	BKG_7: autoDraw = True
+140.1603 	EXP 	Circle: autoDraw = True
+140.1603 	EXP 	Line_2: autoDraw = True
+140.2242 	DATA 	Keypress: right
+140.4040 	INFO 	Keyboard events cleared
+140.4042 	EXP 	window1: mouseVisible = False
+140.4125 	EXP 	BKG_7: autoDraw = False
+140.4125 	EXP 	Circle: autoDraw = False
+140.4125 	EXP 	Line_2: autoDraw = False
+140.4125 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+140.4125 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+140.4125 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+140.4125 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+140.4125 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+140.4125 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+140.4125 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+140.4125 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+140.4125 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+140.4125 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+140.7084 	EXP 	feedback_1_D: autoDraw = True
+140.7084 	EXP 	feedback_2_D: autoDraw = True
+140.7084 	EXP 	feedback_3_D: autoDraw = True
+140.7084 	EXP 	feedback_4_D: autoDraw = True
+140.7084 	EXP 	feedback_5_D: autoDraw = True
+141.1928 	INFO 	Keyboard events cleared
+141.1933 	EXP 	New trial (rep=0, index=23): OrderedDict([('TrialType', 'Direction'), ('BlockID', 1), ('Session', 1), ('LeftDirection', 15), ('RightDirection', 175), ('Diff', -160), ('Target', 1), ('consistency', 2), ('cw', 2), ('DirectionAngle', 15), ('DirectionRes', 170), ('cpdleft', 0.33), ('cpdright', 1.0)])
+141.1934 	EXP 	window1: mouseVisible = False
+141.2103 	EXP 	feedback_1_D: autoDraw = False
+141.2103 	EXP 	feedback_2_D: autoDraw = False
+141.2103 	EXP 	feedback_3_D: autoDraw = False
+141.2103 	EXP 	feedback_4_D: autoDraw = False
+141.2103 	EXP 	feedback_5_D: autoDraw = False
+141.2103 	EXP 	feedback_1_D: autoDraw = False
+141.2103 	EXP 	feedback_2_D: autoDraw = False
+141.2103 	EXP 	feedback_3_D: autoDraw = False
+141.2103 	EXP 	feedback_4_D: autoDraw = False
+141.2103 	EXP 	feedback_5_D: autoDraw = False
+141.2103 	EXP 	Block_t_2: text = 'Block (1 / 8)  will start.  Please press s key to continue.'
+141.2103 	EXP 	Block_t_2: autoDraw = False
+141.2103 	EXP 	Blank_text: autoDraw = True
+143.3857 	EXP 	Blank_text: autoDraw = False
+143.3857 	EXP 	Blank_text: autoDraw = False
+143.3857 	EXP 	Fixation_1: autoDraw = True
+143.7437 	EXP 	Fixation_1: autoDraw = False
+143.7437 	EXP 	grating: ori = 75.0
+143.7437 	EXP 	grating: sf = array([0.33, 0.33])
+143.7437 	EXP 	grating_2: ori = -85.0
+143.7437 	EXP 	grating_2: sf = array([1., 1.])
+143.7437 	EXP 	Fixation_2: autoDraw = True
+143.7437 	EXP 	grating: autoDraw = True
+143.7437 	EXP 	grating_2: autoDraw = True
+144.2833 	EXP 	Fixation_2: autoDraw = False
+144.2833 	EXP 	grating: autoDraw = False
+144.2833 	EXP 	grating_2: autoDraw = False
+144.2833 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+144.2833 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+144.2833 	EXP 	noisePatch1: autoDraw = True
+144.2833 	EXP 	noisePatch2: autoDraw = True
+144.2833 	EXP 	fixation2: autoDraw = True
+144.4719 	DATA 	Keypress: 3
+144.4740 	DATA 	Keypress: lcommand
+144.4744 	DATA 	Keypress: lshift
+144.7271 	EXP 	noisePatch1: autoDraw = False
+144.7271 	EXP 	noisePatch2: autoDraw = False
+144.7271 	EXP 	fixation2: autoDraw = False
+144.7271 	EXP 	fixation_2: autoDraw = True
+145.2271 	EXP 	fixation_2: autoDraw = False
+145.2271 	EXP 	tricue: ori = -90.0
+145.2271 	EXP 	tricue: autoDraw = True
+145.5608 	EXP 	window1: mouseVisible = False
+145.5609 	INFO 	keyboard.Keyboard is using iohub backend.
+145.5611 	INFO 	Keyboard events cleared
+145.5768 	EXP 	tricue: autoDraw = False
+145.5768 	EXP 	tricue: autoDraw = False
+145.5768 	EXP 	BKG_7: autoDraw = True
+145.5768 	EXP 	Circle: autoDraw = True
+145.5768 	EXP 	Line_2: autoDraw = True
+146.3867 	DATA 	Keypress: right
+146.5351 	INFO 	Keyboard events cleared
+146.5354 	EXP 	window1: mouseVisible = False
+146.5519 	EXP 	BKG_7: autoDraw = False
+146.5519 	EXP 	Circle: autoDraw = False
+146.5519 	EXP 	Line_2: autoDraw = False
+146.5519 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+146.5519 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+146.5519 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+146.5519 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+146.5519 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+146.5519 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+146.5519 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+146.5519 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+146.5519 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+146.5519 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+146.8421 	EXP 	feedback_1_D: autoDraw = True
+146.8421 	EXP 	feedback_2_D: autoDraw = True
+146.8421 	EXP 	feedback_3_D: autoDraw = True
+146.8421 	EXP 	feedback_4_D: autoDraw = True
+146.8421 	EXP 	feedback_5_D: autoDraw = True
+147.3358 	INFO 	Keyboard events cleared
+147.3364 	EXP 	New trial (rep=0, index=24): OrderedDict([('TrialType', 'Direction'), ('BlockID', 1), ('Session', 1), ('LeftDirection', 15), ('RightDirection', 135), ('Diff', -120), ('Target', -1), ('consistency', 2), ('cw', 2), ('DirectionAngle', 135), ('DirectionRes', 88), ('cpdleft', 1.0), ('cpdright', 0.33)])
+147.3365 	EXP 	window1: mouseVisible = False
+147.3518 	EXP 	feedback_1_D: autoDraw = False
+147.3518 	EXP 	feedback_2_D: autoDraw = False
+147.3518 	EXP 	feedback_3_D: autoDraw = False
+147.3518 	EXP 	feedback_4_D: autoDraw = False
+147.3518 	EXP 	feedback_5_D: autoDraw = False
+147.3518 	EXP 	feedback_1_D: autoDraw = False
+147.3518 	EXP 	feedback_2_D: autoDraw = False
+147.3518 	EXP 	feedback_3_D: autoDraw = False
+147.3518 	EXP 	feedback_4_D: autoDraw = False
+147.3518 	EXP 	feedback_5_D: autoDraw = False
+147.3518 	EXP 	Block_t_2: text = 'Block (1 / 8)  will start.  Please press s key to continue.'
+147.3518 	EXP 	Block_t_2: autoDraw = False
+147.3518 	EXP 	Blank_text: autoDraw = True
+149.4803 	DATA 	Keypress: lcommand
+149.5589 	EXP 	Blank_text: autoDraw = False
+149.5589 	EXP 	Blank_text: autoDraw = False
+149.5589 	EXP 	Fixation_1: autoDraw = True
+149.9186 	EXP 	Fixation_1: autoDraw = False
+149.9186 	EXP 	Fixation_1: autoDraw = False
+149.9186 	EXP 	grating: ori = 75.0
+149.9186 	EXP 	grating: sf = array([1., 1.])
+149.9186 	EXP 	grating_2: ori = -45.0
+149.9186 	EXP 	grating_2: sf = array([0.33, 0.33])
+149.9186 	EXP 	Fixation_2: autoDraw = True
+149.9186 	EXP 	grating: autoDraw = True
+149.9186 	EXP 	grating_2: autoDraw = True
+150.2793 	DATA 	Keypress: lcommand
+150.2800 	DATA 	Keypress: lshift
+150.4655 	EXP 	Fixation_2: autoDraw = False
+150.4655 	EXP 	grating: autoDraw = False
+150.4655 	EXP 	grating_2: autoDraw = False
+150.4655 	EXP 	Fixation_2: autoDraw = False
+150.4655 	EXP 	grating: autoDraw = False
+150.4655 	EXP 	grating_2: autoDraw = False
+150.4655 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+150.4655 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+150.4655 	EXP 	noisePatch1: autoDraw = True
+150.4655 	EXP 	noisePatch2: autoDraw = True
+150.4655 	EXP 	fixation2: autoDraw = True
+150.9156 	EXP 	noisePatch1: autoDraw = False
+150.9156 	EXP 	noisePatch2: autoDraw = False
+150.9156 	EXP 	fixation2: autoDraw = False
+150.9156 	EXP 	fixation_2: autoDraw = True
+151.4187 	EXP 	fixation_2: autoDraw = False
+151.4187 	EXP 	tricue: ori = 90.0
+151.4187 	EXP 	tricue: autoDraw = True
+151.7686 	EXP 	window1: mouseVisible = False
+151.7687 	INFO 	keyboard.Keyboard is using iohub backend.
+151.7690 	INFO 	Keyboard events cleared
+151.7704 	DATA 	Keypress: up
+151.7937 	EXP 	tricue: autoDraw = False
+151.7937 	EXP 	BKG_7: autoDraw = True
+151.7937 	EXP 	Circle: autoDraw = True
+151.7937 	EXP 	Line_2: autoDraw = True
+151.9783 	DATA 	Keypress: right
+152.0788 	INFO 	Keyboard events cleared
+152.0791 	EXP 	window1: mouseVisible = False
+152.0870 	EXP 	BKG_7: autoDraw = False
+152.0870 	EXP 	Circle: autoDraw = False
+152.0870 	EXP 	Line_2: autoDraw = False
+152.0870 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+152.0870 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+152.0870 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+152.0870 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+152.0870 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+152.0870 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+152.0870 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+152.0870 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+152.0870 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+152.0870 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+152.3839 	EXP 	feedback_1_D: autoDraw = True
+152.3839 	EXP 	feedback_2_D: autoDraw = True
+152.3839 	EXP 	feedback_3_D: autoDraw = True
+152.3839 	EXP 	feedback_4_D: autoDraw = True
+152.3839 	EXP 	feedback_5_D: autoDraw = True
+152.8694 	INFO 	Keyboard events cleared
+152.8701 	EXP 	New trial (rep=0, index=25): OrderedDict([('TrialType', 'Direction'), ('BlockID', 1), ('Session', 1), ('LeftDirection', 155), ('RightDirection', 95), ('Diff', 60), ('Target', 1), ('consistency', 1), ('cw', 1), ('DirectionAngle', 155), ('DirectionRes', 73), ('cpdleft', 0.33), ('cpdright', 0.33)])
+152.8703 	EXP 	window1: mouseVisible = False
+152.8853 	EXP 	feedback_1_D: autoDraw = False
+152.8853 	EXP 	feedback_2_D: autoDraw = False
+152.8853 	EXP 	feedback_3_D: autoDraw = False
+152.8853 	EXP 	feedback_4_D: autoDraw = False
+152.8853 	EXP 	feedback_5_D: autoDraw = False
+152.8853 	EXP 	feedback_1_D: autoDraw = False
+152.8853 	EXP 	feedback_2_D: autoDraw = False
+152.8853 	EXP 	feedback_3_D: autoDraw = False
+152.8853 	EXP 	feedback_4_D: autoDraw = False
+152.8853 	EXP 	feedback_5_D: autoDraw = False
+152.8853 	EXP 	Block_t_2: text = 'Block (1 / 8)  will start.  Please press s key to continue.'
+152.8853 	EXP 	Block_t_2: autoDraw = False
+152.8853 	EXP 	Blank_text: autoDraw = True
+154.9925 	EXP 	Blank_text: autoDraw = False
+154.9925 	EXP 	Blank_text: autoDraw = False
+154.9925 	EXP 	Fixation_1: autoDraw = True
+155.3436 	EXP 	Fixation_1: autoDraw = False
+155.3436 	EXP 	Fixation_1: autoDraw = False
+155.3436 	EXP 	grating: ori = -65.0
+155.3436 	EXP 	grating: sf = array([0.33, 0.33])
+155.3436 	EXP 	grating_2: ori = -5.0
+155.3436 	EXP 	grating_2: sf = array([0.33, 0.33])
+155.3436 	EXP 	Fixation_2: autoDraw = True
+155.3436 	EXP 	grating: autoDraw = True
+155.3436 	EXP 	grating_2: autoDraw = True
+155.9083 	EXP 	Fixation_2: autoDraw = False
+155.9083 	EXP 	grating: autoDraw = False
+155.9083 	EXP 	grating_2: autoDraw = False
+155.9083 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+155.9083 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+155.9083 	EXP 	noisePatch1: autoDraw = True
+155.9083 	EXP 	noisePatch2: autoDraw = True
+155.9083 	EXP 	fixation2: autoDraw = True
+156.1544 	DATA 	Keypress: lcommand
+156.1558 	DATA 	Keypress: 3
+156.1564 	DATA 	Keypress: lshift
+156.3526 	EXP 	noisePatch1: autoDraw = False
+156.3526 	EXP 	noisePatch2: autoDraw = False
+156.3526 	EXP 	fixation2: autoDraw = False
+156.3526 	EXP 	fixation_2: autoDraw = True
+156.8602 	EXP 	fixation_2: autoDraw = False
+156.8602 	EXP 	tricue: ori = -90.0
+156.8602 	EXP 	tricue: autoDraw = True
+157.1949 	EXP 	window1: mouseVisible = False
+157.1951 	INFO 	keyboard.Keyboard is using iohub backend.
+157.1961 	INFO 	Keyboard events cleared
+157.2052 	EXP 	tricue: autoDraw = False
+157.2052 	EXP 	BKG_7: autoDraw = True
+157.2052 	EXP 	Circle: autoDraw = True
+157.2052 	EXP 	Line_2: autoDraw = True
+159.1454 	DATA 	Keypress: right
+159.2704 	INFO 	Keyboard events cleared
+159.2708 	EXP 	window1: mouseVisible = False
+159.2851 	EXP 	BKG_7: autoDraw = False
+159.2851 	EXP 	Circle: autoDraw = False
+159.2851 	EXP 	Line_2: autoDraw = False
+159.2851 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+159.2851 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+159.2851 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+159.2851 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+159.2851 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+159.2851 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+159.2851 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+159.2851 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+159.2851 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+159.2851 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+159.5852 	EXP 	feedback_1_D: autoDraw = True
+159.5852 	EXP 	feedback_2_D: autoDraw = True
+159.5852 	EXP 	feedback_3_D: autoDraw = True
+159.5852 	EXP 	feedback_4_D: autoDraw = True
+159.5852 	EXP 	feedback_5_D: autoDraw = True
+160.0691 	INFO 	Keyboard events cleared
+160.0696 	EXP 	New trial (rep=0, index=26): OrderedDict([('TrialType', 'Direction'), ('BlockID', 1), ('Session', 1), ('LeftDirection', 155), ('RightDirection', 25), ('Diff', 130), ('Target', -1), ('consistency', 2), ('cw', 1), ('DirectionAngle', 25), ('DirectionRes', 122), ('cpdleft', 1.0), ('cpdright', 0.33)])
+160.0697 	EXP 	window1: mouseVisible = False
+160.0767 	EXP 	feedback_1_D: autoDraw = False
+160.0767 	EXP 	feedback_2_D: autoDraw = False
+160.0767 	EXP 	feedback_3_D: autoDraw = False
+160.0767 	EXP 	feedback_4_D: autoDraw = False
+160.0767 	EXP 	feedback_5_D: autoDraw = False
+160.0767 	EXP 	feedback_1_D: autoDraw = False
+160.0767 	EXP 	feedback_2_D: autoDraw = False
+160.0767 	EXP 	feedback_3_D: autoDraw = False
+160.0767 	EXP 	feedback_4_D: autoDraw = False
+160.0767 	EXP 	feedback_5_D: autoDraw = False
+160.0767 	EXP 	Block_t_2: text = 'Block (1 / 8)  will start.  Please press s key to continue.'
+160.0767 	EXP 	Block_t_2: autoDraw = False
+160.0767 	EXP 	Blank_text: autoDraw = True
+162.2269 	EXP 	Blank_text: autoDraw = False
+162.2269 	EXP 	Blank_text: autoDraw = False
+162.2269 	EXP 	Fixation_1: autoDraw = True
+162.5851 	EXP 	Fixation_1: autoDraw = False
+162.5851 	EXP 	grating: ori = -65.0
+162.5851 	EXP 	grating: sf = array([1., 1.])
+162.5851 	EXP 	grating_2: ori = 65.0
+162.5851 	EXP 	grating_2: sf = array([0.33, 0.33])
+162.5851 	EXP 	Fixation_2: autoDraw = True
+162.5851 	EXP 	grating: autoDraw = True
+162.5851 	EXP 	grating_2: autoDraw = True
+163.1251 	EXP 	Fixation_2: autoDraw = False
+163.1251 	EXP 	grating: autoDraw = False
+163.1251 	EXP 	grating_2: autoDraw = False
+163.1251 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+163.1251 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+163.1251 	EXP 	noisePatch1: autoDraw = True
+163.1251 	EXP 	noisePatch2: autoDraw = True
+163.1251 	EXP 	fixation2: autoDraw = True
+163.5679 	EXP 	noisePatch1: autoDraw = False
+163.5679 	EXP 	noisePatch2: autoDraw = False
+163.5679 	EXP 	fixation2: autoDraw = False
+163.5679 	EXP 	fixation_2: autoDraw = True
+164.0858 	EXP 	fixation_2: autoDraw = False
+164.0858 	EXP 	tricue: ori = 90.0
+164.0858 	EXP 	tricue: autoDraw = True
+164.4195 	EXP 	window1: mouseVisible = False
+164.4197 	INFO 	keyboard.Keyboard is using iohub backend.
+164.4202 	INFO 	Keyboard events cleared
+164.4294 	EXP 	tricue: autoDraw = False
+164.4294 	EXP 	BKG_7: autoDraw = True
+164.4294 	EXP 	Circle: autoDraw = True
+164.4294 	EXP 	Line_2: autoDraw = True
+164.4953 	DATA 	Keypress: right
+164.6537 	INFO 	Keyboard events cleared
+164.6540 	EXP 	window1: mouseVisible = False
+164.6683 	EXP 	BKG_7: autoDraw = False
+164.6683 	EXP 	Circle: autoDraw = False
+164.6683 	EXP 	Line_2: autoDraw = False
+164.6683 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+164.6683 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+164.6683 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+164.6683 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+164.6683 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+164.6683 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+164.6683 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+164.6683 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+164.6683 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+164.6683 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+164.9685 	EXP 	feedback_1_D: autoDraw = True
+164.9685 	EXP 	feedback_2_D: autoDraw = True
+164.9685 	EXP 	feedback_3_D: autoDraw = True
+164.9685 	EXP 	feedback_4_D: autoDraw = True
+164.9685 	EXP 	feedback_5_D: autoDraw = True
+165.4692 	INFO 	Keyboard events cleared
+165.4700 	EXP 	New trial (rep=0, index=27): OrderedDict([('TrialType', 'Direction'), ('BlockID', 1), ('Session', 1), ('LeftDirection', 125), ('RightDirection', 35), ('Diff', 90), ('Target', 1), ('consistency', 1), ('cw', 1), ('DirectionAngle', 125), ('DirectionRes', 162), ('cpdleft', 0.33), ('cpdright', 0.33)])
+165.4701 	EXP 	window1: mouseVisible = False
+165.4853 	EXP 	feedback_1_D: autoDraw = False
+165.4853 	EXP 	feedback_2_D: autoDraw = False
+165.4853 	EXP 	feedback_3_D: autoDraw = False
+165.4853 	EXP 	feedback_4_D: autoDraw = False
+165.4853 	EXP 	feedback_5_D: autoDraw = False
+165.4853 	EXP 	feedback_1_D: autoDraw = False
+165.4853 	EXP 	feedback_2_D: autoDraw = False
+165.4853 	EXP 	feedback_3_D: autoDraw = False
+165.4853 	EXP 	feedback_4_D: autoDraw = False
+165.4853 	EXP 	feedback_5_D: autoDraw = False
+165.4853 	EXP 	Block_t_2: text = 'Block (1 / 8)  will start.  Please press s key to continue.'
+165.4853 	EXP 	Block_t_2: autoDraw = False
+165.4853 	EXP 	Blank_text: autoDraw = True
+167.6855 	EXP 	Blank_text: autoDraw = False
+167.6855 	EXP 	Blank_text: autoDraw = False
+167.6855 	EXP 	Fixation_1: autoDraw = True
+168.0351 	EXP 	Fixation_1: autoDraw = False
+168.0351 	EXP 	Fixation_1: autoDraw = False
+168.0351 	EXP 	grating: ori = -35.0
+168.0351 	EXP 	grating: sf = array([0.33, 0.33])
+168.0351 	EXP 	grating_2: ori = 55.0
+168.0351 	EXP 	grating_2: sf = array([0.33, 0.33])
+168.0351 	EXP 	Fixation_2: autoDraw = True
+168.0351 	EXP 	grating: autoDraw = True
+168.0351 	EXP 	grating_2: autoDraw = True
+168.4845 	DATA 	Keypress: 3
+168.5814 	DATA 	Keypress: lcommand
+168.5821 	DATA 	Keypress: lshift
+168.5860 	EXP 	Fixation_2: autoDraw = False
+168.5860 	EXP 	grating: autoDraw = False
+168.5860 	EXP 	grating_2: autoDraw = False
+168.5860 	EXP 	Fixation_2: autoDraw = False
+168.5860 	EXP 	grating: autoDraw = False
+168.5860 	EXP 	grating_2: autoDraw = False
+168.5860 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+168.5860 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+168.5860 	EXP 	noisePatch1: autoDraw = True
+168.5860 	EXP 	noisePatch2: autoDraw = True
+168.5860 	EXP 	fixation2: autoDraw = True
+169.0340 	EXP 	noisePatch1: autoDraw = False
+169.0340 	EXP 	noisePatch2: autoDraw = False
+169.0340 	EXP 	fixation2: autoDraw = False
+169.0340 	EXP 	fixation_2: autoDraw = True
+169.5524 	EXP 	fixation_2: autoDraw = False
+169.5524 	EXP 	tricue: ori = -90.0
+169.5524 	EXP 	tricue: autoDraw = True
+169.8757 	EXP 	window1: mouseVisible = False
+169.8759 	INFO 	keyboard.Keyboard is using iohub backend.
+169.8763 	INFO 	Keyboard events cleared
+169.8935 	EXP 	tricue: autoDraw = False
+169.8935 	EXP 	BKG_7: autoDraw = True
+169.8935 	EXP 	Circle: autoDraw = True
+169.8935 	EXP 	Line_2: autoDraw = True
+170.0199 	DATA 	Keypress: right
+170.1525 	INFO 	Keyboard events cleared
+170.1528 	EXP 	window1: mouseVisible = False
+170.1572 	INFO 	Keyboard events cleared
+170.1576 	EXP 	New trial (rep=0, index=28): OrderedDict([('TrialType', 'Direction'), ('BlockID', 1), ('Session', 1), ('LeftDirection', 25), ('RightDirection', 165), ('Diff', -140), ('Target', 1), ('consistency', 2), ('cw', 2), ('DirectionAngle', 25), ('DirectionRes', 89), ('cpdleft', 0.33), ('cpdright', 1.0)])
+170.1577 	EXP 	window1: mouseVisible = False
+170.1624 	EXP 	BKG_7: autoDraw = False
+170.1624 	EXP 	Circle: autoDraw = False
+170.1624 	EXP 	Line_2: autoDraw = False
+170.1624 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+170.1624 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+170.1624 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+170.1624 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+170.1624 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+170.1624 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+170.1624 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+170.1624 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+170.1624 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+170.1624 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+170.1624 	EXP 	feedback_1_D: autoDraw = False
+170.1624 	EXP 	feedback_2_D: autoDraw = False
+170.1624 	EXP 	feedback_3_D: autoDraw = False
+170.1624 	EXP 	feedback_4_D: autoDraw = False
+170.1624 	EXP 	feedback_5_D: autoDraw = False
+170.1624 	EXP 	Block_t_2: text = 'Block (1 / 8)  will start.  Please press s key to continue.'
+170.1624 	EXP 	Block_t_2: autoDraw = False
+170.1624 	EXP 	Blank_text: autoDraw = True
+172.3191 	EXP 	Blank_text: autoDraw = False
+172.3191 	EXP 	Blank_text: autoDraw = False
+172.3191 	EXP 	Fixation_1: autoDraw = True
+172.6685 	EXP 	Fixation_1: autoDraw = False
+172.6685 	EXP 	grating: ori = 65.0
+172.6685 	EXP 	grating: sf = array([0.33, 0.33])
+172.6685 	EXP 	grating_2: ori = -75.0
+172.6685 	EXP 	grating_2: sf = array([1., 1.])
+172.6685 	EXP 	Fixation_2: autoDraw = True
+172.6685 	EXP 	grating: autoDraw = True
+172.6685 	EXP 	grating_2: autoDraw = True
+173.2185 	EXP 	Fixation_2: autoDraw = False
+173.2185 	EXP 	grating: autoDraw = False
+173.2185 	EXP 	grating_2: autoDraw = False
+173.2185 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+173.2185 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+173.2185 	EXP 	noisePatch1: autoDraw = True
+173.2185 	EXP 	noisePatch2: autoDraw = True
+173.2185 	EXP 	fixation2: autoDraw = True
+173.6766 	EXP 	noisePatch1: autoDraw = False
+173.6766 	EXP 	noisePatch2: autoDraw = False
+173.6766 	EXP 	fixation2: autoDraw = False
+173.6766 	EXP 	fixation_2: autoDraw = True
+174.1940 	EXP 	fixation_2: autoDraw = False
+174.1940 	EXP 	tricue: ori = -90.0
+174.1940 	EXP 	tricue: autoDraw = True
+174.5113 	EXP 	window1: mouseVisible = False
+174.5115 	INFO 	keyboard.Keyboard is using iohub backend.
+174.5121 	INFO 	Keyboard events cleared
+174.5207 	EXP 	tricue: autoDraw = False
+174.5207 	EXP 	BKG_7: autoDraw = True
+174.5207 	EXP 	Circle: autoDraw = True
+174.5207 	EXP 	Line_2: autoDraw = True
+174.5922 	DATA 	Keypress: right
+174.7588 	INFO 	Keyboard events cleared
+174.7592 	EXP 	window1: mouseVisible = False
+174.7767 	EXP 	BKG_7: autoDraw = False
+174.7767 	EXP 	Circle: autoDraw = False
+174.7767 	EXP 	Line_2: autoDraw = False
+174.7767 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+174.7767 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+174.7767 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+174.7767 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+174.7767 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+174.7767 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+174.7767 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+174.7767 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+174.7767 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+174.7767 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+175.0670 	EXP 	feedback_1_D: autoDraw = True
+175.0670 	EXP 	feedback_2_D: autoDraw = True
+175.0670 	EXP 	feedback_3_D: autoDraw = True
+175.0670 	EXP 	feedback_4_D: autoDraw = True
+175.0670 	EXP 	feedback_5_D: autoDraw = True
+175.5609 	INFO 	Keyboard events cleared
+175.5615 	EXP 	New trial (rep=0, index=29): OrderedDict([('TrialType', 'Direction'), ('BlockID', 1), ('Session', 1), ('LeftDirection', 85), ('RightDirection', 135), ('Diff', -50), ('Target', 1), ('consistency', 1), ('cw', 2), ('DirectionAngle', 85), ('DirectionRes', 159), ('cpdleft', 0.33), ('cpdright', 0.33)])
+175.5617 	EXP 	window1: mouseVisible = False
+175.5667 	EXP 	feedback_1_D: autoDraw = False
+175.5667 	EXP 	feedback_2_D: autoDraw = False
+175.5667 	EXP 	feedback_3_D: autoDraw = False
+175.5667 	EXP 	feedback_4_D: autoDraw = False
+175.5667 	EXP 	feedback_5_D: autoDraw = False
+175.5667 	EXP 	feedback_1_D: autoDraw = False
+175.5667 	EXP 	feedback_2_D: autoDraw = False
+175.5667 	EXP 	feedback_3_D: autoDraw = False
+175.5667 	EXP 	feedback_4_D: autoDraw = False
+175.5667 	EXP 	feedback_5_D: autoDraw = False
+175.5667 	EXP 	Block_t_2: text = 'Block (1 / 8)  will start.  Please press s key to continue.'
+175.5667 	EXP 	Block_t_2: autoDraw = False
+175.5667 	EXP 	Blank_text: autoDraw = True
+177.7644 	EXP 	Blank_text: autoDraw = False
+177.7644 	EXP 	Blank_text: autoDraw = False
+177.7644 	EXP 	Fixation_1: autoDraw = True
+178.1079 	EXP 	Fixation_1: autoDraw = False
+178.1079 	EXP 	grating: ori = 5.0
+178.1079 	EXP 	grating: sf = array([0.33, 0.33])
+178.1079 	EXP 	grating_2: ori = -45.0
+178.1079 	EXP 	grating_2: sf = array([0.33, 0.33])
+178.1079 	EXP 	Fixation_2: autoDraw = True
+178.1079 	EXP 	grating: autoDraw = True
+178.1079 	EXP 	grating_2: autoDraw = True
+178.5323 	DATA 	Keypress: lcommand
+178.5331 	DATA 	Keypress: lshift
+178.6693 	EXP 	Fixation_2: autoDraw = False
+178.6693 	EXP 	grating: autoDraw = False
+178.6693 	EXP 	grating_2: autoDraw = False
+178.6693 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+178.6693 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+178.6693 	EXP 	noisePatch1: autoDraw = True
+178.6693 	EXP 	noisePatch2: autoDraw = True
+178.6693 	EXP 	fixation2: autoDraw = True
+179.1214 	EXP 	noisePatch1: autoDraw = False
+179.1214 	EXP 	noisePatch2: autoDraw = False
+179.1214 	EXP 	fixation2: autoDraw = False
+179.1214 	EXP 	fixation_2: autoDraw = True
+179.6315 	EXP 	fixation_2: autoDraw = False
+179.6315 	EXP 	tricue: ori = -90.0
+179.6315 	EXP 	tricue: autoDraw = True
+179.9653 	EXP 	window1: mouseVisible = False
+179.9653 	INFO 	keyboard.Keyboard is using iohub backend.
+179.9656 	INFO 	Keyboard events cleared
+179.9892 	EXP 	tricue: autoDraw = False
+179.9892 	EXP 	BKG_7: autoDraw = True
+179.9892 	EXP 	Circle: autoDraw = True
+179.9892 	EXP 	Line_2: autoDraw = True
+180.4752 	DATA 	Keypress: right
+180.7159 	INFO 	Keyboard events cleared
+180.7168 	EXP 	window1: mouseVisible = False
+180.7251 	EXP 	BKG_7: autoDraw = False
+180.7251 	EXP 	Circle: autoDraw = False
+180.7251 	EXP 	Line_2: autoDraw = False
+180.7251 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+180.7251 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+180.7251 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+180.7251 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+180.7251 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+180.7251 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+180.7251 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+180.7251 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+180.7251 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+180.7251 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+181.0393 	EXP 	feedback_1_D: autoDraw = True
+181.0393 	EXP 	feedback_2_D: autoDraw = True
+181.0393 	EXP 	feedback_3_D: autoDraw = True
+181.0393 	EXP 	feedback_4_D: autoDraw = True
+181.0393 	EXP 	feedback_5_D: autoDraw = True
+181.5229 	INFO 	Keyboard events cleared
+181.5234 	EXP 	New trial (rep=0, index=30): OrderedDict([('TrialType', 'Direction'), ('BlockID', 1), ('Session', 1), ('LeftDirection', 95), ('RightDirection', 25), ('Diff', 70), ('Target', -1), ('consistency', 1), ('cw', 1), ('DirectionAngle', 25), ('DirectionRes', 6), ('cpdleft', 0.33), ('cpdright', 0.33)])
+181.5235 	EXP 	window1: mouseVisible = False
+181.5391 	EXP 	feedback_1_D: autoDraw = False
+181.5391 	EXP 	feedback_2_D: autoDraw = False
+181.5391 	EXP 	feedback_3_D: autoDraw = False
+181.5391 	EXP 	feedback_4_D: autoDraw = False
+181.5391 	EXP 	feedback_5_D: autoDraw = False
+181.5391 	EXP 	feedback_1_D: autoDraw = False
+181.5391 	EXP 	feedback_2_D: autoDraw = False
+181.5391 	EXP 	feedback_3_D: autoDraw = False
+181.5391 	EXP 	feedback_4_D: autoDraw = False
+181.5391 	EXP 	feedback_5_D: autoDraw = False
+181.5391 	EXP 	Block_t_2: text = 'Block (1 / 8)  will start.  Please press s key to continue.'
+181.5391 	EXP 	Block_t_2: autoDraw = False
+181.5391 	EXP 	Blank_text: autoDraw = True
+183.6810 	EXP 	Blank_text: autoDraw = False
+183.6810 	EXP 	Blank_text: autoDraw = False
+183.6810 	EXP 	Fixation_1: autoDraw = True
+184.0308 	EXP 	Fixation_1: autoDraw = False
+184.0308 	EXP 	Fixation_1: autoDraw = False
+184.0308 	EXP 	grating: ori = -5.0
+184.0308 	EXP 	grating: sf = array([0.33, 0.33])
+184.0308 	EXP 	grating_2: ori = 65.0
+184.0308 	EXP 	grating_2: sf = array([0.33, 0.33])
+184.0308 	EXP 	Fixation_2: autoDraw = True
+184.0308 	EXP 	grating: autoDraw = True
+184.0308 	EXP 	grating_2: autoDraw = True
+184.5925 	DATA 	Keypress: lcommand
+184.5938 	DATA 	Keypress: 3
+184.5942 	DATA 	Keypress: lshift
+184.5980 	EXP 	Fixation_2: autoDraw = False
+184.5980 	EXP 	grating: autoDraw = False
+184.5980 	EXP 	grating_2: autoDraw = False
+184.5980 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+184.5980 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+184.5980 	EXP 	noisePatch1: autoDraw = True
+184.5980 	EXP 	noisePatch2: autoDraw = True
+184.5980 	EXP 	fixation2: autoDraw = True
+185.0393 	EXP 	noisePatch1: autoDraw = False
+185.0393 	EXP 	noisePatch2: autoDraw = False
+185.0393 	EXP 	fixation2: autoDraw = False
+185.0393 	EXP 	fixation_2: autoDraw = True
+185.5395 	EXP 	fixation_2: autoDraw = False
+185.5395 	EXP 	tricue: ori = 90.0
+185.5395 	EXP 	tricue: autoDraw = True
+185.8726 	EXP 	window1: mouseVisible = False
+185.8727 	INFO 	keyboard.Keyboard is using iohub backend.
+185.8730 	INFO 	Keyboard events cleared
+185.8798 	EXP 	tricue: autoDraw = False
+185.8798 	EXP 	BKG_7: autoDraw = True
+185.8798 	EXP 	Circle: autoDraw = True
+185.8798 	EXP 	Line_2: autoDraw = True
+185.9916 	DATA 	Keypress: right
+186.2078 	INFO 	Keyboard events cleared
+186.2081 	EXP 	window1: mouseVisible = False
+186.2160 	EXP 	BKG_7: autoDraw = False
+186.2160 	EXP 	Circle: autoDraw = False
+186.2160 	EXP 	Line_2: autoDraw = False
+186.2160 	EXP 	feedback_1_D: fillColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+186.2160 	EXP 	feedback_1_D: borderColor = <psychopy.colors.Color: (1.0, 0.0, 0.0, 1.0)>
+186.2160 	EXP 	feedback_2_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+186.2160 	EXP 	feedback_2_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+186.2160 	EXP 	feedback_3_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+186.2160 	EXP 	feedback_3_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+186.2160 	EXP 	feedback_4_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+186.2160 	EXP 	feedback_4_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+186.2160 	EXP 	feedback_5_D: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+186.2160 	EXP 	feedback_5_D: borderColor = <psychopy.colors.Color: white, alpha=1.0>
+186.5311 	EXP 	feedback_1_D: autoDraw = True
+186.5311 	EXP 	feedback_2_D: autoDraw = True
+186.5311 	EXP 	feedback_3_D: autoDraw = True
+186.5311 	EXP 	feedback_4_D: autoDraw = True
+186.5311 	EXP 	feedback_5_D: autoDraw = True
+187.0145 	INFO 	Keyboard events cleared
+187.0150 	EXP 	New trial (rep=0, index=31): OrderedDict([('TrialType', 'Direction'), ('BlockID', 1), ('Session', 1), ('LeftDirection', 105), ('RightDirection', 35), ('Diff', 70), ('Target', 1), ('consistency', 1), ('cw', 1), ('DirectionAngle', 105), ('DirectionRes', 78), ('cpdleft', 0.33), ('cpdright', 0.33)])
+187.0152 	EXP 	window1: mouseVisible = False
+187.0309 	EXP 	feedback_1_D: autoDraw = False
+187.0309 	EXP 	feedback_2_D: autoDraw = False
+187.0309 	EXP 	feedback_3_D: autoDraw = False
+187.0309 	EXP 	feedback_4_D: autoDraw = False
+187.0309 	EXP 	feedback_5_D: autoDraw = False
+187.0309 	EXP 	feedback_1_D: autoDraw = False
+187.0309 	EXP 	feedback_2_D: autoDraw = False
+187.0309 	EXP 	feedback_3_D: autoDraw = False
+187.0309 	EXP 	feedback_4_D: autoDraw = False
+187.0309 	EXP 	feedback_5_D: autoDraw = False
+187.0309 	EXP 	Block_t_2: text = 'Block (1 / 8)  will start.  Please press s key to continue.'
+187.0309 	EXP 	Block_t_2: autoDraw = False
+187.0309 	EXP 	Blank_text: autoDraw = True
+189.2318 	EXP 	Blank_text: autoDraw = False
+189.2318 	EXP 	Blank_text: autoDraw = False
+189.2318 	EXP 	Fixation_1: autoDraw = True
+189.5838 	EXP 	Fixation_1: autoDraw = False
+189.5838 	EXP 	grating: ori = -15.0
+189.5838 	EXP 	grating: sf = array([0.33, 0.33])
+189.5838 	EXP 	grating_2: ori = 55.0
+189.5838 	EXP 	grating_2: sf = array([0.33, 0.33])
+189.5838 	EXP 	Fixation_2: autoDraw = True
+189.5838 	EXP 	grating: autoDraw = True
+189.5838 	EXP 	grating_2: autoDraw = True
+189.9347 	DATA 	Keypress: 3
+189.9371 	DATA 	Keypress: lcommand
+189.9496 	DATA 	Keypress: lshift
+190.1294 	EXP 	Fixation_2: autoDraw = False
+190.1294 	EXP 	grating: autoDraw = False
+190.1294 	EXP 	grating_2: autoDraw = False
+190.1294 	EXP 	noisePatch1: image = <class 'numpy.ndarray'>
+190.1294 	EXP 	noisePatch2: image = <class 'numpy.ndarray'>
+190.1294 	EXP 	noisePatch1: autoDraw = True
+190.1294 	EXP 	noisePatch2: autoDraw = True
+190.1294 	EXP 	fixation2: autoDraw = True
+190.5981 	EXP 	noisePatch1: autoDraw = False
+190.5981 	EXP 	noisePatch2: autoDraw = False
+190.5981 	EXP 	fixation2: autoDraw = False
+190.5981 	EXP 	fixation_2: autoDraw = True
+191.0981 	EXP 	fixation_2: autoDraw = False
+191.0981 	EXP 	tricue: ori = -90.0
+191.0981 	EXP 	tricue: autoDraw = True
+191.4150 	EXP 	window1: mouseVisible = False
+191.4152 	INFO 	keyboard.Keyboard is using iohub backend.
+191.4157 	INFO 	Keyboard events cleared
+191.4247 	EXP 	tricue: autoDraw = False
+191.4247 	EXP 	BKG_7: autoDraw = True
+191.4247 	EXP 	Circle: autoDraw = True
+191.4247 	EXP 	Line_2: autoDraw = True
+191.8734 	DATA 	Keypress: escape
+192.0902 	EXP 	untitled: status = STOPPED
+192.0935 	EXP 	BKG_7: autoDraw = False
+192.0935 	EXP 	Circle: autoDraw = False
+192.0935 	EXP 	Line_2: autoDraw = False
+192.0936 	EXP 	untitled: status = STOPPED
+192.1301 	INFO 	saved data to '/Users/siyichen/Downloads/Direction_Wed_tutorial finalcode/data/0_Order_0_.csv'
+192.1521 	INFO 	saved data to /Users/siyichen/Downloads/Direction_Wed_tutorial finalcode/data/0_Order_0_.psydat
+192.1818 	EXP 	window1: mouseVisible = True
+192.5665 	DEBUG 	Saving data for untitled ExperimentHandler
