@@ -1,5 +1,7 @@
 # Maljkovic and Nakayama’s Study of Priming of Pop-Out (1994): An Overview of Experiments 1–9
 
+Jari: this is a short overview of Maljkovic's work. In particular, Experiment 568 and the overall paradigm are both worth noting.
+
 Maljkovic and Nakayama investigated how recent search experience affects the speed of finding a visually distinctive target. In the standard task, observers located an **odd-colored diamond** among distractors and reported whether its left or right side had been cut off. Color guided attention to the target, while shape determined the response. The main dependent measure was reaction time (RT) on correct trials. The authors called the benefit of repeating the attention-guiding feature **priming of pop-out (PoP)**.
 
 ## Experiment 1 — Fixed versus unpredictable target colors
