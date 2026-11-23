@@ -1,3 +1,7 @@
+不用大幅修改。Siyi的邮件已经把时间关系写清楚了：H1说的是*the previous target*对*current orientation reports*的影响，H3甚至明确写了*during the preceding trial*。我之前把三个假设压缩成表格，虽然保留了主要预测，却删掉了有意义的限定。尤其是H2，原文把“干扰色重复加快搜索”“这可能反映抑制”和“如果抑制留下排斥性痕迹，方向报告会偏离”分成了三层，值得保留。
+
+真正需要纠正的是**单个试次的流程，以及分析里prime和probe的指代**。下面恢复Siyi原来的研究问题和三个假设，把跨试次的定义集中放在Experimental design里。
+
 # Target and distractor history in visual search
 
 ### Background
@@ -6,13 +10,19 @@ Maljkovic and Nakayama (1994, Experiment 8) found that repeating either the targ
 
 ### Question and hypotheses
 
-Does selecting or ignoring an object on one trial influence how its orientation biases the target-orientation report on the next trial?
+Does attentional history, which facilitates target selection and suppresses distractors, also shape how previously encountered visual features bias current perception?
 
-| Hypothesis | Prediction |
-|---|---|
-| **H1. Target-history facilitation** | Target-color repetition speeds search. Reports are attracted toward the previous target orientation. |
-| **H2. Distractor-history suppression** | Distractor-color repetition speeds search. If suppression leaves a repulsive trace, reports shift away from previous distractor orientations. |
-| **H3. Attentional gating** | The magnitude or direction of distractor-induced bias depends on how effectively distractors were ignored during the preceding trial. |
+**H1. Target-history facilitation**
+
+Repeating the previous target color facilitates visual search. In addition, the orientation of the previous target is expected to produce an attractive serial-dependence effect, biasing current orientation reports toward the previously selected target orientation.
+
+**H2. Distractor-history suppression**
+
+Repeating the previous distractor color facilitates visual search, potentially reflecting learned distractor suppression. If suppression also produces a repulsive perceptual trace, current orientation reports should shift away from the previous distractor orientation.
+
+**H3. Attentional gating of serial dependence**
+
+The magnitude, and potentially the direction, of serial dependence induced by previous distractors may depend on how effectively those distractors were ignored or suppressed during the preceding trial.
 
 ### Dependent variables
 
@@ -20,14 +30,14 @@ Target localization RT and accuracy, and signed orientation error (reported minu
 
 ### Experimental design
 
-Each trial contains one array of three independently oriented Gabors in colored rings at randomly assigned locations. One ring has a unique color and defines the target. Participants locate the target and then reproduce its orientation from memory.
+Each trial contains one search array with three independently oriented Gabors in colored rings at randomly assigned locations. One ring has a unique color and defines the target. Participants locate the target. Once the array disappears, they rotate a central Gabor to reproduce that target’s orientation from memory.
 
-**Fixation → Search and localize the target → Reproduce the target orientation**
+**Fixation (? ms) → Search and localize the target (? ms) → Reproduce the target orientation**
 
-The within-participant design crosses **target-color repetition** (repeated/changed) with **distractor-color repetition** (repeated/changed) across consecutive trials. Changed colors are absent from the previous trial to prevent role reversals. Target positions and color identities are balanced across conditions.
+The within-participant design crosses **target-color repetition** (repeated/changed) with **distractor-color repetition** (repeated/changed). Both factors are defined across consecutive trials, from trial \(n-1\) to trial \(n\). Changed colors are absent from trial \(n-1\) to prevent role reversals. Target positions and color identities are balanced across conditions.
 
 ### Analysis
 
-For **H1 and H2**, estimate both color-repetition effects on correct-trial log RT and check accuracy for speed–accuracy trade-offs. Model signed orientation error on trial \(n\) jointly as a function of the angular differences between the current target and each of the three items on trial \(n-1\). H1 predicts target-induced attraction. H2 predicts distractor-induced repulsion. Test whether target-color repetition changes target-induced bias and whether distractor-color repetition changes distractor-induced bias.
+For **H1 and H2**, estimate both color-repetition effects on correct-trial log RT and check accuracy for speed–accuracy trade-offs. Model signed orientation error on trial \(n\) jointly as a function of the angular differences between the current target and each item on trial \(n-1\): the previous target and the two previous distractors. Test whether target-color repetition changes target-induced bias and whether distractor-color repetition changes distractor-induced bias.
 
-**H3 requires a separate measure or manipulation of attention on trial \(n-1\).** In a follow-up, present either a valid distractor-color cue or a neutral cue before the search array on trial \(n-1\). Test whether cueing changes distractor-induced bias on trial \(n\), and use occasional probe-letter trials to verify that cueing reduced processing at distractor locations.
+**H3 requires a separate measure or manipulation of attention during trial \(n-1\).** In a follow-up, present either a valid distractor-color cue or a neutral cue before the search array on trial \(n-1\). Test whether cueing changes distractor-induced bias on trial \(n\), and use occasional probe-letter trials to verify that cueing reduced processing at distractor locations.
