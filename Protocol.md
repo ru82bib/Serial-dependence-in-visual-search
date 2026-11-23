@@ -1,7 +1,3 @@
-不用大幅修改。Siyi的邮件已经把时间关系写清楚了：H1说的是*the previous target*对*current orientation reports*的影响，H3甚至明确写了*during the preceding trial*。我之前把三个假设压缩成表格，虽然保留了主要预测，却删掉了有意义的限定。尤其是H2，原文把“干扰色重复加快搜索”“这可能反映抑制”和“如果抑制留下排斥性痕迹，方向报告会偏离”分成了三层，值得保留。
-
-真正需要纠正的是**单个试次的流程，以及分析里prime和probe的指代**。下面恢复Siyi原来的研究问题和三个假设，把跨试次的定义集中放在Experimental design里。
-
 # Target and distractor history in visual search
 
 ### Background
