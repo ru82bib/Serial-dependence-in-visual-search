@@ -1,0 +1,618 @@
+﻿<?xml version="1.0" ?>
+<PsychoPy2experiment encoding="utf-8" version="2024.2.4">
+  <Settings>
+    <Param val="3" valType="str" updates="None" name="Audio latency priority"/>
+    <Param val="ptb" valType="str" updates="None" name="Audio lib"/>
+    <Param val="" valType="str" updates="None" name="Completed URL"/>
+    <Param val="auto" valType="str" updates="None" name="Data file delimiter"/>
+    <Param val="u'data/%s_%s_%s' % (expInfo['participant'], expName, expInfo['date'])" valType="code" updates="None" name="Data filename"/>
+    <Param val="True" valType="bool" updates="None" name="Enable Escape"/>
+    <Param val="" valType="str" updates="None" name="End Message"/>
+    <Param val="{'participant': '', 'block': '2', 'age': '', 'gender': '', 'handness': ''}" valType="code" updates="None" name="Experiment info"/>
+    <Param val="True" valType="bool" updates="None" name="Force stereo"/>
+    <Param val="True" valType="bool" updates="None" name="Full-screen window"/>
+    <Param val="" valType="str" updates="None" name="HTML path"/>
+    <Param val="" valType="str" updates="None" name="Incomplete URL"/>
+    <Param val="testMonitor" valType="str" updates="None" name="Monitor"/>
+    <Param val="[]" valType="list" updates="None" name="Resources"/>
+    <Param val="False" valType="bool" updates="None" name="Save csv file"/>
+    <Param val="False" valType="bool" updates="None" name="Save excel file"/>
+    <Param val="False" valType="bool" updates="None" name="Save hdf5 file"/>
+    <Param val="True" valType="bool" updates="None" name="Save log file"/>
+    <Param val="True" valType="bool" updates="None" name="Save psydat file"/>
+    <Param val="True" valType="bool" updates="None" name="Save wide csv file"/>
+    <Param val="1" valType="num" updates="None" name="Screen"/>
+    <Param val="True" valType="bool" updates="None" name="Show info dlg"/>
+    <Param val="False" valType="bool" updates="None" name="Show mouse"/>
+    <Param val="deg" valType="str" updates="None" name="Units"/>
+    <Param val="" valType="str" updates="None" name="Use version"/>
+    <Param val="[1920, 1200]" valType="list" updates="None" name="Window size (pixels)"/>
+    <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+    <Param val="" valType="str" updates="None" name="backgroundImg"/>
+    <Param val="avg" valType="str" updates="None" name="blendMode"/>
+    <Param val="float" valType="str" updates="None" name="clockFormat"/>
+    <Param val="{'thisRow.t': 'priority.CRITICAL', 'expName': 'priority.LOW'}" valType="dict" updates="None" name="colPriority"/>
+    <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+    <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+    <Param val="warning" valType="code" updates="None" name="consoleLoggingLevel"/>
+    <Param val="default" valType="str" updates="None" name="ecSampleRate"/>
+    <Param val="100.1.1.1" valType="str" updates="None" name="elAddress"/>
+    <Param val="FILTER_LEVEL_2" valType="str" updates="None" name="elDataFiltering"/>
+    <Param val="FILTER_LEVEL_OFF" valType="str" updates="None" name="elLiveFiltering"/>
+    <Param val="EYELINK 1000 DESKTOP" valType="str" updates="None" name="elModel"/>
+    <Param val="ELLIPSE_FIT" valType="str" updates="None" name="elPupilAlgorithm"/>
+    <Param val="PUPIL_AREA" valType="str" updates="None" name="elPupilMeasure"/>
+    <Param val="1000" valType="num" updates="None" name="elSampleRate"/>
+    <Param val="False" valType="bool" updates="None" name="elSimMode"/>
+    <Param val="RIGHT_EYE" valType="str" updates="None" name="elTrackEyes"/>
+    <Param val="PUPIL_CR_TRACKING" valType="str" updates="None" name="elTrackingMode"/>
+    <Param val="search_chen" valType="str" updates="None" name="expName"/>
+    <Param val="on Sync" valType="str" updates="None" name="exportHTML"/>
+    <Param val="None" valType="str" updates="None" name="eyetracker"/>
+    <Param val="" valType="code" updates="None" name="frameRate"/>
+    <Param val="Attempting to measure frame rate of screen, please wait..." valType="str" updates="None" name="frameRateMsg"/>
+    <Param val="127.0.0.1" valType="str" updates="None" name="gpAddress"/>
+    <Param val="4242" valType="num" updates="None" name="gpPort"/>
+    <Param val="ioHub" valType="str" updates="None" name="keyboardBackend"/>
+    <Param val="exp" valType="code" updates="None" name="logging level"/>
+    <Param val="True" valType="bool" updates="None" name="measureFrameRate"/>
+    <Param val="('MIDDLE_BUTTON',)" valType="list" updates="None" name="mgBlink"/>
+    <Param val="CONTINUOUS" valType="str" updates="None" name="mgMove"/>
+    <Param val="0.5" valType="num" updates="None" name="mgSaccade"/>
+    <Param val="neon.local" valType="str" updates="None" name="plCompanionAddress"/>
+    <Param val="scene_camera.json" valType="file" updates="None" name="plCompanionCameraCalibration"/>
+    <Param val="8080" valType="num" updates="None" name="plCompanionPort"/>
+    <Param val="True" valType="bool" updates="None" name="plCompanionRecordingEnabled"/>
+    <Param val="0.6" valType="num" updates="None" name="plConfidenceThreshold"/>
+    <Param val="True" valType="bool" updates="None" name="plPupilCaptureRecordingEnabled"/>
+    <Param val="" valType="str" updates="None" name="plPupilCaptureRecordingLocation"/>
+    <Param val="127.0.0.1" valType="str" updates="None" name="plPupilRemoteAddress"/>
+    <Param val="50020" valType="num" updates="None" name="plPupilRemotePort"/>
+    <Param val="1000" valType="num" updates="None" name="plPupilRemoteTimeoutMs"/>
+    <Param val="False" valType="bool" updates="None" name="plPupillometryOnly"/>
+    <Param val="psychopy_iohub_surface" valType="str" updates="None" name="plSurfaceName"/>
+    <Param val="0" valType="code" updates="None" name="runMode"/>
+    <Param val="False" valType="bool" updates="None" name="rush"/>
+    <Param val="time" valType="str" updates="None" name="sortColumns"/>
+    <Param val="" valType="str" updates="None" name="tbLicenseFile"/>
+    <Param val="" valType="str" updates="None" name="tbModel"/>
+    <Param val="60" valType="num" updates="None" name="tbSampleRate"/>
+    <Param val="" valType="str" updates="None" name="tbSerialNo"/>
+    <Param val="pyglet" valType="str" updates="None" name="winBackend"/>
+  </Settings>
+  <Routines>
+    <Routine name="trial">
+      <RoutineSettingsComponent name="trial" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="False" valType="code" updates="None" name="forceNonSlip"/>
+        <Param val="trial" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <CodeComponent name="trial_code" plugin="None">
+        <Param val="" valType="extendedCode" updates="constant" name="Before Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Before JS Experiment"/>
+        <Param val="# All RTs from correct trials&amp;#10;rt_list = []&amp;#10;correct_responses = []&amp;#10;&amp;#10;# Counters for each probe type&amp;#10;probe_counts = {'fast': 0, 'avg': 0, 'slow': 0, 'ran': 0}&amp;#10;max_probes = 14&amp;#10;total_probe_limit = 42&amp;#10;&amp;#10;# Control when a probe was last shown&amp;#10;trials_since_last_probe = 99  # just large to begin&amp;#10;&amp;#10;# For identifying if current trial is a probe&amp;#10;next_is_probe = False&amp;#10;next_probe_type = None&amp;#10;previous_was_probe = False&amp;#10;response_error = False&amp;#10;no_response = False&amp;#10;correct_response = None&amp;#10;feedback_reps = 0" valType="extendedCode" updates="constant" name="Begin Experiment"/>
+        <Param val="rt_list = [];&amp;#10;correct_responses = [];&amp;#10;probe_counts = {&quot;fast&quot;: 0, &quot;avg&quot;: 0, &quot;slow&quot;: 0, &quot;ran&quot;: 0};&amp;#10;max_probes = 14;&amp;#10;total_probe_limit = 42;&amp;#10;trials_since_last_probe = 99;&amp;#10;next_is_probe = false;&amp;#10;next_probe_type = null;&amp;#10;previous_was_probe = false;&amp;#10;" valType="extendedCode" updates="constant" name="Begin JS Experiment"/>
+        <Param val="import * as np from 'numpy';&amp;#10;import * as random from 'random';&amp;#10;function _pj_snippets(container) {&amp;#10;    function in_es6(left, right) {&amp;#10;        if (((right instanceof Array) || ((typeof right) === &quot;string&quot;))) {&amp;#10;            return (right.indexOf(left) &gt; (- 1));&amp;#10;        } else {&amp;#10;            if (((right instanceof Map) || (right instanceof Set) || (right instanceof WeakMap) || (right instanceof WeakSet))) {&amp;#10;                return right.has(left);&amp;#10;            } else {&amp;#10;                return (left in right);&amp;#10;            }&amp;#10;        }&amp;#10;    }&amp;#10;    container[&quot;in_es6&quot;] = in_es6;&amp;#10;    return container;&amp;#10;}&amp;#10;_pj = {};&amp;#10;_pj_snippets(_pj);&amp;#10;if ((! _pj.in_es6(&quot;carry_shape&quot;, globals()))) {&amp;#10;    carry_shape = null;&amp;#10;}&amp;#10;stim_clock = new util.Clock();&amp;#10;instruction_timer = new util.Clock();&amp;#10;show_instructions = next_is_probe;&amp;#10;show_stimuli = (! next_is_probe);&amp;#10;stim_duration = 0.8;&amp;#10;total_duration = 1.3;&amp;#10;if (show_instructions) {&amp;#10;    carry_shape = Shape;&amp;#10;}&amp;#10;ShapeForStim = (previous_was_probe ? carry_shape : Shape);&amp;#10;is_probe = next_is_probe;&amp;#10;probe_type = next_probe_type;&amp;#10;is_instruction_trial = next_is_probe;&amp;#10;is_stimulus_trial = previous_was_probe;&amp;#10;show_instruction = false;&amp;#10;correct_resp = null;&amp;#10;theta = [0, 45, 90, 135, 180, 225, 270, 315];&amp;#10;thetarad = function () {&amp;#10;    var _pj_a = [], _pj_b = theta;&amp;#10;    for (var _pj_c = 0, _pj_d = _pj_b.length; (_pj_c &lt; _pj_d); _pj_c += 1) {&amp;#10;        var t = _pj_b[_pj_c];&amp;#10;        _pj_a.push(((t * Math.PI) / 180));&amp;#10;    }&amp;#10;    return _pj_a;&amp;#10;}&amp;#10;.call(this);&amp;#10;posx = function () {&amp;#10;    var _pj_a = [], _pj_b = thetarad;&amp;#10;    for (var _pj_c = 0, _pj_d = _pj_b.length; (_pj_c &lt; _pj_d); _pj_c += 1) {&amp;#10;        var t = _pj_b[_pj_c];&amp;#10;        _pj_a.push((4 * Math.cos(t)));&amp;#10;    }&amp;#10;    return _pj_a;&amp;#10;}&amp;#10;.call(this);&amp;#10;posy = function () {&amp;#10;    var _pj_a = [], _pj_b = thetarad;&amp;#10;    for (var _pj_c = 0, _pj_d = _pj_b.length; (_pj_c &lt; _pj_d); _pj_c += 1) {&amp;#10;        var t = _pj_b[_pj_c];&amp;#10;        _pj_a.push((4 * Math.sin(t)));&amp;#10;    }&amp;#10;    return _pj_a;&amp;#10;}&amp;#10;.call(this);&amp;#10;CircleDist = function () {&amp;#10;    var _pj_a = [], _pj_b = util.range(8);&amp;#10;    for (var _pj_c = 0, _pj_d = _pj_b.length; (_pj_c &lt; _pj_d); _pj_c += 1) {&amp;#10;        var i = _pj_b[_pj_c];&amp;#10;        _pj_a.push(new visual.ShapeStim({&quot;win&quot;: psychoJS.window, &quot;name&quot;: &quot;&quot;, &quot;size&quot;: [2, 2], &quot;vertices&quot;: &quot;circle&quot;, &quot;ori&quot;: 45.0, &quot;pos&quot;: [posx[i], posy[i]], &quot;anchor&quot;: &quot;center&quot;, &quot;lineWidth&quot;: 8.0, &quot;colorSpace&quot;: &quot;rgb&quot;, &quot;lineColor&quot;: &quot;white&quot;, &quot;fillColor&quot;: null, &quot;opacity&quot;: 1.0, &quot;depth&quot;: (- 1.0), &quot;interpolate&quot;: true}));&amp;#10;    }&amp;#10;    return _pj_a;&amp;#10;}&amp;#10;.call(this);&amp;#10;DiamondDist = function () {&amp;#10;    var _pj_a = [], _pj_b = util.range(8);&amp;#10;    for (var _pj_c = 0, _pj_d = _pj_b.length; (_pj_c &lt; _pj_d); _pj_c += 1) {&amp;#10;        var i = _pj_b[_pj_c];&amp;#10;        _pj_a.push(new visual.Rect({&quot;win&quot;: psychoJS.window, &quot;name&quot;: &quot;&quot;, &quot;width&quot;: [2, 2][0], &quot;height&quot;: [2, 2][1], &quot;ori&quot;: 45.0, &quot;pos&quot;: [posx[i], posy[i]], &quot;anchor&quot;: &quot;center&quot;, &quot;lineWidth&quot;: 8.0, &quot;colorSpace&quot;: &quot;rgb&quot;, &quot;lineColor&quot;: &quot;white&quot;, &quot;fillColor&quot;: null, &quot;opacity&quot;: 1.0, &quot;depth&quot;: (- 2.0), &quot;interpolate&quot;: true}));&amp;#10;    }&amp;#10;    return _pj_a;&amp;#10;}&amp;#10;.call(this);&amp;#10;DistLines = function () {&amp;#10;    var _pj_a = [], _pj_b = util.range(8);&amp;#10;    for (var _pj_c = 0, _pj_d = _pj_b.length; (_pj_c &lt; _pj_d); _pj_c += 1) {&amp;#10;        var i = _pj_b[_pj_c];&amp;#10;        _pj_a.push(new visual.Rect({&quot;win&quot;: psychoJS.window, &quot;name&quot;: &quot;TargetLine&quot;, &quot;width&quot;: [0.3, 1.5][0], &quot;height&quot;: [0.3, 1.5][1], &quot;ori&quot;: 1.0, &quot;pos&quot;: [posx[i], posy[i]], &quot;anchor&quot;: &quot;center&quot;, &quot;lineWidth&quot;: 1.0, &quot;colorSpace&quot;: &quot;rgb&quot;, &quot;lineColor&quot;: &quot;white&quot;, &quot;fillColor&quot;: &quot;white&quot;, &quot;opacity&quot;: null, &quot;depth&quot;: (- 3.0), &quot;interpolate&quot;: true}));&amp;#10;    }&amp;#10;    return _pj_a;&amp;#10;}&amp;#10;.call(this);&amp;#10;CircleTarget = new visual.ShapeStim({&quot;win&quot;: psychoJS.window, &quot;name&quot;: &quot;CircleTarget&quot;, &quot;size&quot;: [2, 2], &quot;vertices&quot;: &quot;circle&quot;, &quot;ori&quot;: 45.0, &quot;pos&quot;: [0, 0], &quot;anchor&quot;: &quot;center&quot;, &quot;lineWidth&quot;: 1.0, &quot;colorSpace&quot;: &quot;rgb&quot;, &quot;lineColor&quot;: &quot;white&quot;, &quot;fillColor&quot;: null, &quot;opacity&quot;: 1.0, &quot;depth&quot;: (- 1.0), &quot;interpolate&quot;: true});&amp;#10;DiamondTarget = new visual.Rect({&quot;win&quot;: psychoJS.window, &quot;name&quot;: &quot;DiamondTarget&quot;, &quot;width&quot;: [2, 2][0], &quot;height&quot;: [2, 2][1], &quot;ori&quot;: 45.0, &quot;pos&quot;: [0, 0], &quot;anchor&quot;: &quot;center&quot;, &quot;lineWidth&quot;: 1.0, &quot;colorSpace&quot;: &quot;rgb&quot;, &quot;lineColor&quot;: &quot;white&quot;, &quot;fillColor&quot;: null, &quot;opacity&quot;: 1.0, &quot;depth&quot;: (- 2.0), &quot;interpolate&quot;: true});&amp;#10;TargetLine = new visual.Rect({&quot;win&quot;: psychoJS.window, &quot;name&quot;: &quot;TargetLine&quot;, &quot;width&quot;: [0.3, 1.5][0], &quot;height&quot;: [0.3, 1.5][1], &quot;ori&quot;: 1.0, &quot;pos&quot;: [0, 0], &quot;anchor&quot;: &quot;center&quot;, &quot;lineWidth&quot;: 1.0, &quot;colorSpace&quot;: &quot;rgb&quot;, &quot;lineColor&quot;: &quot;white&quot;, &quot;fillColor&quot;: &quot;white&quot;, &quot;opacity&quot;: null, &quot;depth&quot;: (- 3.0), &quot;interpolate&quot;: true});&amp;#10;CircleTarget.setPos([posx[TarPos], posy[TarPos]]);&amp;#10;CircleTarget.setLineColor(Color);&amp;#10;CircleTarget.setLineWidth(((ShapeForStim === &quot;Circle&quot;) ? 8 : 0));&amp;#10;DiamondTarget.setPos([posx[TarPos], posy[TarPos]]);&amp;#10;DiamondTarget.setLineColor(Color);&amp;#10;DiamondTarget.setLineWidth(((ShapeForStim === &quot;Circle&quot;) ? 0 : 8));&amp;#10;TargetLine.setPos([posx[TarPos], posy[TarPos]]);&amp;#10;TargetLine.setOri(LineOri);&amp;#10;DistOri = function () {&amp;#10;    var _pj_a = [], _pj_b = util.range(8);&amp;#10;    for (var _pj_c = 0, _pj_d = _pj_b.length; (_pj_c &lt; _pj_d); _pj_c += 1) {&amp;#10;        var i = _pj_b[_pj_c];&amp;#10;        _pj_a.push((np.random.randint(2) * 90));&amp;#10;    }&amp;#10;    return _pj_a;&amp;#10;}&amp;#10;.call(this);&amp;#10;shapes = [];&amp;#10;if ((ShapeForStim === &quot;Circle&quot;)) {&amp;#10;    for (var i, _pj_c = 0, _pj_a = util.range(8), _pj_b = _pj_a.length; (_pj_c &lt; _pj_b); _pj_c += 1) {&amp;#10;        i = _pj_a[_pj_c];&amp;#10;        if ((i === TarPos)) {&amp;#10;            shapes.push(CircleTarget);&amp;#10;            shapes.push(TargetLine);&amp;#10;            continue;&amp;#10;        }&amp;#10;        if ((i !== TarPos)) {&amp;#10;            DiamondDist[i].lineColor = Color;&amp;#10;            DistLines[i].ori = DistOri[i];&amp;#10;            shapes.push(DiamondDist[i]);&amp;#10;            shapes.push(DistLines[i]);&amp;#10;        }&amp;#10;    }&amp;#10;} else {&amp;#10;    for (var i, _pj_c = 0, _pj_a = util.range(8), _pj_b = _pj_a.length; (_pj_c &lt; _pj_b); _pj_c += 1) {&amp;#10;        i = _pj_a[_pj_c];&amp;#10;        if ((i === TarPos)) {&amp;#10;            shapes.push(DiamondTarget);&amp;#10;            shapes.push(TargetLine);&amp;#10;            continue;&amp;#10;        }&amp;#10;        if ((i !== TarPos)) {&amp;#10;            CircleDist[i].lineColor = Color;&amp;#10;            DistLines[i].ori = DistOri[i];&amp;#10;            shapes.push(CircleDist[i]);&amp;#10;            shapes.push(DistLines[i]);&amp;#10;        }&amp;#10;    }&amp;#10;}&amp;#10;/*for i in range(8):&amp;#10;if i != TarPos:&amp;#10;DistLines[i].setOri(DistOri[i])&amp;#10;DistLines[i].setAutoDraw(True)*/&amp;#10;stim_started = false;&amp;#10;/*if show_instructions:&amp;#10;instruction_text.text = &quot;Search for &quot; + Shape&amp;#10;instruction_timer.reset()&amp;#10;instruction_text.setAutoDraw(True)&amp;#10;fix_cross.setAutoDraw(False)&amp;#10;else:&amp;#10;instruction_text.setAutoDraw(False)&amp;#10;fix_cross.setAutoDraw(True)*/&amp;#10;psychoJS.experiment.addData(&quot;DistOri&quot;, DistOri);&amp;#10;psychoJS.experiment.addData(&quot;show_instruction&quot;, show_instruction);&amp;#10;psychoJS.experiment.addData(&quot;show_stimuli&quot;, show_stimuli);&amp;#10;" valType="extendedCode" updates="constant" name="Begin JS Routine"/>
+        <Param val="import numpy as np &amp;#10;import random&amp;#10;&amp;#10;if 'carry_shape' not in globals():&amp;#10;    carry_shape = None&amp;#10;    &amp;#10;# for before trial fixation&amp;#10;pre_fix_clock = core.Clock() &amp;#10;pre_fix_phase = True &amp;#10;pre_fix_dur = 0.5&amp;#10;&amp;#10;response_error = False&amp;#10;no_response = False&amp;#10;correct_response = None&amp;#10;feedback = False&amp;#10;# Set timing&amp;#10;stim_clock = core.Clock()&amp;#10;instruction_timer = core.Clock()&amp;#10;fix_clock = core.Clock()&amp;#10;&amp;#10;show_instructions = next_is_probe&amp;#10;#show_stimuli = not next_is_probe&amp;#10;pre_fix_phase = not show_instructions&amp;#10;show_fix = not show_instructions&amp;#10;stim_duration = 0.8  # shapes shown for 800ms&amp;#10;total_duration = 1.3  # shapes + response window (800ms + 1s)&amp;#10;&amp;#10;if show_instructions:&amp;#10;    carry_shape = Shape  # remember what we just instructed&amp;#10;&amp;#10;ShapeForStim = carry_shape if previous_was_probe else Shape&amp;#10;&amp;#10;is_probe = next_is_probe&amp;#10;probe_type = next_probe_type&amp;#10;is_instruction_trial = next_is_probe  # trial n&amp;#10;is_stimulus_trial = previous_was_probe  # trial n+1&amp;#10;show_stimuli = True&amp;#10;show_instruction = False&amp;#10;#correct_resp = None&amp;#10;&amp;#10;# code from search_ex&amp;#10;theta = [0, 45, 90, 135, 180, 225, 270, 315]&amp;#10;thetarad = [t*pi/180 for t in theta]&amp;#10;posx = [4*cos(t) for t in thetarad]&amp;#10;posy = [4*sin(t) for t in thetarad]&amp;#10;&amp;#10;&amp;#10;CircleDist = [visual.ShapeStim(&amp;#10;        win=win, name='',&amp;#10;        size=(2, 2), vertices='circle',&amp;#10;        ori=45.0, pos=[posx[i],posy[i]], &amp;#10;        anchor='center',&amp;#10;        lineWidth=8.0, colorSpace='rgb',  &amp;#10;        lineColor='white', fillColor=None,&amp;#10;        opacity=1.0, depth=-1.0, interpolate=True)&amp;#10;        for i in range(8)]&amp;#10;        &amp;#10;DiamondDist = [visual.Rect(&amp;#10;    win=win, name='',&amp;#10;    width=(2, 2)[0], height=(2, 2)[1],&amp;#10;    ori=45.0, pos=[posx[i],posy[i]],&amp;#10;    anchor='center',&amp;#10;    lineWidth=8.0, colorSpace='rgb', &amp;#10;    lineColor='white', fillColor=None,&amp;#10;    opacity=1.0, depth=-2.0, interpolate=True)&amp;#10;    for i in range(8)]&amp;#10;    &amp;#10;DistLines = [visual.Rect(&amp;#10;        win=win, name='TargetLine',&amp;#10;        width=(0.3, 1.5)[0], height=(0.3, 1.5)[1],&amp;#10;        ori=1.0, pos=[posx[i],posy[i]], anchor='center',&amp;#10;        lineWidth=1.0,     colorSpace='rgb',  lineColor='white', fillColor='white',&amp;#10;        opacity=None, depth=-3.0, interpolate=True)&amp;#10;        for i in range(8)]&amp;#10;&amp;#10;# adding target stimuli&amp;#10;CircleTarget = visual.ShapeStim(&amp;#10;        win=win, name='CircleTarget',&amp;#10;        size=(2, 2), vertices='circle',&amp;#10;        ori=45.0, pos=[0,0], anchor='center',&amp;#10;        lineWidth=1.0,     colorSpace='rgb',  lineColor='white', fillColor=None,&amp;#10;        opacity=1.0, depth=-1.0, interpolate=True)&amp;#10;DiamondTarget = visual.Rect(&amp;#10;        win=win, name='DiamondTarget',&amp;#10;        width=(2, 2)[0], height=(2, 2)[1],&amp;#10;        ori=45.0, pos=[0,0], anchor='center',&amp;#10;        lineWidth=1.0,     colorSpace='rgb',  lineColor='white', fillColor=None,&amp;#10;        opacity=1.0, depth=-2.0, interpolate=True)&amp;#10;TargetLine = visual.Rect(&amp;#10;        win=win, name='TargetLine',&amp;#10;        width=(0.3, 1.5)[0], height=(0.3, 1.5)[1],&amp;#10;        ori=1.0, pos=[0,0], anchor='center',&amp;#10;        lineWidth=1.0,     colorSpace='rgb',  lineColor='white', fillColor='white',&amp;#10;        opacity=None, depth=-3.0, interpolate=True)&amp;#10;&amp;#10;CircleTarget.setPos((posx[TarPos], posy[TarPos]))&amp;#10;CircleTarget.setLineColor(Color)&amp;#10;CircleTarget.setLineWidth((8 if ShapeForStim==&quot;Circle&quot; else 0))&amp;#10;DiamondTarget.setPos((posx[TarPos], posy[TarPos]))&amp;#10;DiamondTarget.setLineColor(Color)&amp;#10;DiamondTarget.setLineWidth((0 if ShapeForStim==&quot;Circle&quot; else 8) )&amp;#10;TargetLine.setPos((posx[TarPos], posy[TarPos]))&amp;#10;TargetLine.setOri(LineOri)&amp;#10;&amp;#10;DistOri = [np.random.randint(2)*90 for i in range(8)]&amp;#10;shapes = []&amp;#10;if ShapeForStim == &quot;Circle&quot;:&amp;#10;    for i in range(8):&amp;#10;        if i == TarPos:&amp;#10;            shapes.append(CircleTarget)&amp;#10;            shapes.append(TargetLine)&amp;#10;            continue&amp;#10;        if i != TarPos:&amp;#10;            DiamondDist[i].lineColor = Color&amp;#10;            DistLines[i].ori = DistOri[i]&amp;#10;            shapes.append(DiamondDist[i])&amp;#10;            shapes.append(DistLines[i])&amp;#10;            &amp;#10;else:&amp;#10;   for i in range(8):&amp;#10;        if i == TarPos:&amp;#10;            shapes.append(DiamondTarget)&amp;#10;            shapes.append(TargetLine)&amp;#10;            continue&amp;#10;        if i != TarPos:&amp;#10;            CircleDist[i].lineColor = Color&amp;#10;            DistLines[i].ori = DistOri[i]&amp;#10;            shapes.append(CircleDist[i])&amp;#10;            shapes.append(DistLines[i])&amp;#10;&amp;#10;'''for i in range(8):&amp;#10;    if i != TarPos:&amp;#10;        DistLines[i].setOri(DistOri[i])&amp;#10;        DistLines[i].setAutoDraw(True)'''&amp;#10;&amp;#10;stim_started = False&amp;#10;&amp;#10;# instruction text toggle&amp;#10;if show_instructions:  &amp;#10;    pre_fix_phase = False&amp;#10;    instruction_timer.reset()&amp;#10;    instruction_text.text = &quot;Search for &quot; + Shape&amp;#10;    instruction_text.setAutoDraw(True)&amp;#10;    fix_cross.setAutoDraw(False)&amp;#10;    correct_response = 'up' if LineOri == 0 else 'left'&amp;#10;else:&amp;#10;    pre_fix_phase = True&amp;#10;    pre_fix_clock.reset()&amp;#10;    instruction_text.setAutoDraw(False)&amp;#10;    fix_cross.setAutoDraw(True)&amp;#10;    correct_response = 'q' if Color == 'Lawngreen' else 'w'&amp;#10;&amp;#10;thisExp.addData('DistOri', DistOri)&amp;#10;            &amp;#10;# Save data&amp;#10;thisExp.addData('show_instruction', show_instruction)&amp;#10;thisExp.addData('show_stimuli', show_stimuli)&amp;#10;" valType="extendedCode" updates="constant" name="Begin Routine"/>
+        <Param val="Py" valType="str" updates="None" name="Code Type"/>
+        <Param val="# Instruction timing&amp;#10;if show_instructions:&amp;#10;    # ensure nothing else is on while instruction shows&amp;#10;    if stim_started:&amp;#10;        for s in shapes: &amp;#10;            s.setAutoDraw(False)&amp;#10;        stim_started = False&amp;#10;&amp;#10;    instruction_text.setAutoDraw(True)&amp;#10;    fix_cross.setAutoDraw(False)&amp;#10;&amp;#10;    #if instruction_timer.getTime() &gt;= 1.0:&amp;#10;    if instruction_timer.getTime() &gt;= 0.5:&amp;#10;        # transition to stimulus phase without ending the trial&amp;#10;        show_instructions = False&amp;#10;    &amp;#10;        # clean up instruction visuals&amp;#10;        instruction_text.setAutoDraw(False)&amp;#10;        #show_stimuli = True&amp;#10;        #show_fix = True&amp;#10;        #fix_clock.reset()&amp;#10;        pre_fix_phase = True&amp;#10;        pre_fix_clock.reset()&amp;#10;        fix_cross.setAutoDraw(True)&amp;#10;&amp;#10;    #    (re)start stimulus timing&amp;#10;        #stim_started = False&amp;#10;        #stim_clock.reset()&amp;#10;        #key_resp.clock.reset()&amp;#10;&amp;#10;# new fixation before trial block&amp;#10;# Pre-fixation: 500 ms of fixation-only before stimuli&amp;#10;if pre_fix_phase:&amp;#10;    fix_cross.setAutoDraw(True)&amp;#10;    # make sure stimuli are off&amp;#10;    if stim_started:&amp;#10;        for s in shapes:&amp;#10;            s.setAutoDraw(False)&amp;#10;        stim_started = False&amp;#10;&amp;#10;    if pre_fix_clock.getTime() &gt;= pre_fix_dur:&amp;#10;        pre_fix_phase = False&amp;#10;        show_stimuli = True&amp;#10;        stim_clock.reset()&amp;#10;        key_resp.clock.reset()&amp;#10;&amp;#10;&amp;#10;# Stimulus timing&amp;#10;if show_stimuli and not show_instructions and not pre_fix_phase:&amp;#10;    if not stim_started:&amp;#10;        stim_clock.reset()&amp;#10;        key_resp.clock.reset()&amp;#10;        for s in shapes: &amp;#10;            s.setAutoDraw(True)&amp;#10;        stim_started = True&amp;#10;&amp;#10;    if stim_clock.getTime() &gt;= stim_duration or key_resp.keys:&amp;#10;        for s in shapes: &amp;#10;            s.setAutoDraw(False)&amp;#10;        continueRoutine = False  # or leave True if you want a post-stim window&amp;#10;&amp;#10;# Safety: if we’re about to leave, make sure nothing remains&amp;#10;if not continueRoutine:&amp;#10;    for s in shapes: s.setAutoDraw(False)&amp;#10;    instruction_text.setAutoDraw(False)&amp;#10;&amp;#10;" valType="extendedCode" updates="constant" name="Each Frame"/>
+        <Param val="if (show_instructions) {&amp;#10;    if (stim_started) {&amp;#10;        for (var s, _pj_c = 0, _pj_a = shapes, _pj_b = _pj_a.length; (_pj_c &lt; _pj_b); _pj_c += 1) {&amp;#10;            s = _pj_a[_pj_c];&amp;#10;            s.setAutoDraw(false);&amp;#10;        }&amp;#10;        stim_started = false;&amp;#10;    }&amp;#10;    instruction_text.setAutoDraw(true);&amp;#10;    fix_cross.setAutoDraw(false);&amp;#10;    if ((instruction_timer.getTime() &gt;= 1.0)) {&amp;#10;        show_instructions = false;&amp;#10;        show_stimuli = true;&amp;#10;        instruction_text.setAutoDraw(false);&amp;#10;        fix_cross.setAutoDraw(true);&amp;#10;        stim_started = false;&amp;#10;        stim_clock.reset();&amp;#10;        key_resp.clock.reset();&amp;#10;    }&amp;#10;}&amp;#10;if ((show_stimuli &amp;&amp; (! show_instructions))) {&amp;#10;    if ((! stim_started)) {&amp;#10;        stim_clock.reset();&amp;#10;        key_resp.clock.reset();&amp;#10;        for (var s, _pj_c = 0, _pj_a = shapes, _pj_b = _pj_a.length; (_pj_c &lt; _pj_b); _pj_c += 1) {&amp;#10;            s = _pj_a[_pj_c];&amp;#10;            s.setAutoDraw(true);&amp;#10;        }&amp;#10;        stim_started = true;&amp;#10;    }&amp;#10;    if (((stim_clock.getTime() &gt;= stim_duration) || key_resp.keys)) {&amp;#10;        for (var s, _pj_c = 0, _pj_a = shapes, _pj_b = _pj_a.length; (_pj_c &lt; _pj_b); _pj_c += 1) {&amp;#10;            s = _pj_a[_pj_c];&amp;#10;            s.setAutoDraw(false);&amp;#10;        }&amp;#10;        continueRoutine = false;&amp;#10;    }&amp;#10;}&amp;#10;if ((! continueRoutine)) {&amp;#10;    for (var s, _pj_c = 0, _pj_a = shapes, _pj_b = _pj_a.length; (_pj_c &lt; _pj_b); _pj_c += 1) {&amp;#10;        s = _pj_a[_pj_c];&amp;#10;        s.setAutoDraw(false);&amp;#10;    }&amp;#10;    instruction_text.setAutoDraw(false);&amp;#10;}&amp;#10;" valType="extendedCode" updates="constant" name="Each JS Frame"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End JS Experiment"/>
+        <Param val="var _pj;&amp;#10;function _pj_snippets(container) {&amp;#10;    function in_es6(left, right) {&amp;#10;        if (((right instanceof Array) || ((typeof right) === &quot;string&quot;))) {&amp;#10;            return (right.indexOf(left) &gt; (- 1));&amp;#10;        } else {&amp;#10;            if (((right instanceof Map) || (right instanceof Set) || (right instanceof WeakMap) || (right instanceof WeakSet))) {&amp;#10;                return right.has(left);&amp;#10;            } else {&amp;#10;                return (left in right);&amp;#10;            }&amp;#10;        }&amp;#10;    }&amp;#10;    container[&quot;in_es6&quot;] = in_es6;&amp;#10;    return container;&amp;#10;}&amp;#10;_pj = {};&amp;#10;_pj_snippets(_pj);&amp;#10;response = (key_resp.keys ? key_resp.keys : null);&amp;#10;rt = (key_resp.keys ? key_resp.rt : null);&amp;#10;if ((response === correct_resp)) {&amp;#10;    correct = 1;&amp;#10;} else {&amp;#10;    correct = 0;&amp;#10;}&amp;#10;correct_responses.push(correct);&amp;#10;for (var d, _pj_c = 0, _pj_a = DiamondDist, _pj_b = _pj_a.length; (_pj_c &lt; _pj_b); _pj_c += 1) {&amp;#10;    d = _pj_a[_pj_c];&amp;#10;    d.setAutoDraw(false);&amp;#10;}&amp;#10;for (var d, _pj_c = 0, _pj_a = CircleDist, _pj_b = _pj_a.length; (_pj_c &lt; _pj_b); _pj_c += 1) {&amp;#10;    d = _pj_a[_pj_c];&amp;#10;    d.setAutoDraw(false);&amp;#10;}&amp;#10;for (var i, _pj_c = 0, _pj_a = util.range(8), _pj_b = _pj_a.length; (_pj_c &lt; _pj_b); _pj_c += 1) {&amp;#10;    i = _pj_a[_pj_c];&amp;#10;    DistLines[i].setAutoDraw(false);&amp;#10;}&amp;#10;total_trials = correct_responses.length;&amp;#10;total_correct = util.sum(correct_responses);&amp;#10;accuracy = ((total_trials &gt; 0) ? (total_correct / total_trials) : 0);&amp;#10;accuracy_percent = util.round((accuracy * 100), 2);&amp;#10;psychoJS.experiment.addData(&quot;response&quot;, response);&amp;#10;psychoJS.experiment.addData(&quot;rt&quot;, rt);&amp;#10;psychoJS.experiment.addData(&quot;correct_resp&quot;, correct_resp);&amp;#10;psychoJS.experiment.addData(&quot;correct&quot;, correct);&amp;#10;psychoJS.experiment.addData(&quot;correct_sum&quot;, accuracy_percent);&amp;#10;psychoJS.experiment.addData(&quot;is_probe&quot;, is_probe);&amp;#10;psychoJS.experiment.addData(&quot;probe_type&quot;, probe_type);&amp;#10;psychoJS.experiment.addData(&quot;rt_mu&quot;, (_pj.in_es6(&quot;mu&quot;, locals()) ? mu : &quot;&quot;));&amp;#10;psychoJS.experiment.addData(&quot;rt_sigma&quot;, (_pj.in_es6(&quot;sigma&quot;, locals()) ? sigma : &quot;&quot;));&amp;#10;psychoJS.experiment.addData(&quot;rt_recent&quot;, (_pj.in_es6(&quot;recent_rt&quot;, locals()) ? recent_rt : &quot;&quot;));&amp;#10;instruction_text.setAutoDraw(false);&amp;#10;if ((rt !== null)) {&amp;#10;    rt_list.push(rt);&amp;#10;}&amp;#10;if (next_is_probe) {&amp;#10;    trials_since_last_probe = 0;&amp;#10;} else {&amp;#10;    trials_since_last_probe += 1;&amp;#10;}&amp;#10;next_is_probe = false;&amp;#10;next_probe_type = null;&amp;#10;if ((rt_list.length &gt;= 60)) {&amp;#10;    mu = np.mean(rt_list);&amp;#10;    sigma = np.std(rt_list);&amp;#10;    recent_rts = rt_list.slice((- 3));&amp;#10;    if ((recent_rts.length === 3)) {&amp;#10;        recent_rt = np.mean(recent_rts);&amp;#10;        if ((((trials_since_last_probe &gt; 3) &amp;&amp; (Math.random.random() &lt; 0.4)) &amp;&amp; (util.sum(probe_counts.values()) &lt; total_probe_limit))) {&amp;#10;            if (((recent_rt &lt; (mu - sigma)) &amp;&amp; (probe_counts[&quot;fast&quot;] &lt; max_probes))) {&amp;#10;                next_is_probe = true;&amp;#10;                next_probe_type = &quot;fast&quot;;&amp;#10;                probe_counts[&quot;fast&quot;] += 1;&amp;#10;            } else {&amp;#10;                if (((recent_rt &gt; (mu + sigma)) &amp;&amp; (probe_counts[&quot;slow&quot;] &lt; max_probes))) {&amp;#10;                    next_is_probe = true;&amp;#10;                    next_probe_type = &quot;slow&quot;;&amp;#10;                    probe_counts[&quot;slow&quot;] += 1;&amp;#10;                } else {&amp;#10;                    if ((((trials_since_last_probe &gt; 50) &amp;&amp; (((mu - sigma) &lt;= recent_rt) &amp;&amp; (recent_rt &lt;= (mu + sigma)))) &amp;&amp; (probe_counts[&quot;avg&quot;] &lt; max_probes))) {&amp;#10;                        next_is_probe = true;&amp;#10;                        next_probe_type = &quot;avg&quot;;&amp;#10;                        probe_counts[&quot;avg&quot;] += 1;&amp;#10;                    }&amp;#10;                }&amp;#10;            }&amp;#10;        }&amp;#10;    }&amp;#10;} else {&amp;#10;    if ((rt_list.length &lt; 60)) {&amp;#10;        if ((((trials_since_last_probe &gt; 10) &amp;&amp; (Math.random.random() &lt; 0.4)) &amp;&amp; (probe_counts[&quot;ran&quot;] &lt; 4))) {&amp;#10;            next_is_probe = true;&amp;#10;            next_probe_type = &quot;ran&quot;;&amp;#10;            probe_counts[&quot;ran&quot;] += 1;&amp;#10;        }&amp;#10;    }&amp;#10;}&amp;#10;" valType="extendedCode" updates="constant" name="End JS Routine"/>
+        <Param val="response = key_resp.keys if key_resp.keys else None&amp;#10;rt = key_resp.rt if key_resp.keys else None&amp;#10;correct = 0&amp;#10;response_error = False&amp;#10;feedback_reps = 0&amp;#10;no_response = False&amp;#10;response_error = False&amp;#10;correct = 0&amp;#10;&amp;#10;response = key_resp.keys if key_resp.keys else None&amp;#10;rt = key_resp.rt if key_resp.keys else None&amp;#10;&amp;#10;if response is None:&amp;#10;    no_response = True&amp;#10;    feedback_reps = 1          # show &quot;Too slow&quot; feedback&amp;#10;&amp;#10;elif response == correct_response:&amp;#10;    correct = 1                # correct; no feedback&amp;#10;&amp;#10;else:  # response != correct_response&amp;#10;    response_error = True&amp;#10;    if is_probe:               # only probes get error feedback&amp;#10;        feedback_reps = 1&amp;#10;&amp;#10;'''if response is not None:    &amp;#10;    print(&quot;correct response: &quot; + correct_response)&amp;#10;    print(&quot;response: &quot; + response)'''&amp;#10;    &amp;#10;correct_responses.append(correct)&amp;#10;# code from search_ex&amp;#10;for d in DiamondDist:&amp;#10;    d.setAutoDraw(False)&amp;#10;for d in CircleDist:&amp;#10;    d.setAutoDraw(False)&amp;#10;for i in range(8):&amp;#10;    DistLines[i].setAutoDraw(False)&amp;#10;# end code from search_ex&amp;#10;&amp;#10;# After trials&amp;#10;total_trials = len(correct_responses)&amp;#10;total_correct = sum(correct_responses)&amp;#10;accuracy = total_correct / total_trials if total_trials &gt; 0 else 0&amp;#10;accuracy_percent = round(accuracy * 100, 2)&amp;#10;&amp;#10;thisExp.addData('response', response)&amp;#10;thisExp.addData('rt', rt)&amp;#10;thisExp.addData('correct_response', correct_response)&amp;#10;thisExp.addData('correct', correct)&amp;#10;thisExp.addData('correct_sum', accuracy_percent)&amp;#10;thisExp.addData('is_probe', is_probe)&amp;#10;thisExp.addData('probe_type', probe_type)&amp;#10;thisExp.addData('rt_mu', mu if 'mu' in locals() else '')&amp;#10;thisExp.addData('rt_sigma', sigma if 'sigma' in locals() else '')&amp;#10;thisExp.addData('rt_recent', recent_rt if 'recent_rt' in locals() else '')&amp;#10;&amp;#10;&amp;#10;instruction_text.setAutoDraw(False)&amp;#10;&amp;#10;if rt is not None:&amp;#10;    rt_list.append(rt)&amp;#10;    &amp;#10;# Update trial gap counter&amp;#10;if next_is_probe:&amp;#10;    trials_since_last_probe = 0&amp;#10;else:&amp;#10;    trials_since_last_probe += 1&amp;#10;&amp;#10;# Compute μ and σ after 80 trials&amp;#10;next_is_probe = False  # default&amp;#10;next_probe_type = None&amp;#10;&amp;#10;if len(rt_list) &gt;= 60:&amp;#10;    mu = np.mean(rt_list)&amp;#10;    sigma = np.std(rt_list)&amp;#10;    recent_rts = rt_list[-3:]&amp;#10;    if len(recent_rts) == 3:&amp;#10;        recent_rt = np.mean(recent_rts)&amp;#10;&amp;#10;        if trials_since_last_probe &gt; 3 and random.random() &lt; 0.4 and sum(probe_counts.values()) &lt; total_probe_limit:&amp;#10;            if recent_rt &lt; (mu - sigma) and probe_counts['fast'] &lt; max_probes:&amp;#10;                next_is_probe = True&amp;#10;                next_probe_type = 'fast'&amp;#10;                probe_counts['fast'] += 1&amp;#10;            elif recent_rt &gt; (mu + sigma) and probe_counts['slow'] &lt; max_probes:&amp;#10;                next_is_probe = True&amp;#10;                next_probe_type = 'slow'&amp;#10;                probe_counts['slow'] += 1&amp;#10;            elif trials_since_last_probe &gt; 50 and (mu - sigma) &lt;= recent_rt &lt;= (mu + sigma) and probe_counts['avg'] &lt; max_probes:&amp;#10;                next_is_probe = True&amp;#10;                next_probe_type = 'avg'&amp;#10;                probe_counts['avg'] += 1&amp;#10;elif len(rt_list) &lt; 60:&amp;#10;    if trials_since_last_probe &gt; 10 and random.random() &lt; 0.4 and probe_counts['ran'] &lt; 4:&amp;#10;        next_is_probe = True&amp;#10;        next_probe_type = 'ran'&amp;#10;        probe_counts['ran'] += 1" valType="extendedCode" updates="constant" name="End Routine"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="trial_code" valType="code" updates="None" name="name"/>
+      </CodeComponent>
+      <TextComponent name="instruction_text" plugin="None">
+        <Param val="1.0000, 0.2941, -1.0000" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="False" valType="code" updates="constant" name="draggable"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="1" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="instruction_text" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="condition" valType="str" updates="None" name="startType"/>
+        <Param val="is_probe" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="1.0" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="" valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="code" updates="None" name="validator"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+      <KeyboardComponent name="key_resp" plugin="None">
+        <Param val="'left','up','q','w'" valType="list" updates="constant" name="allowedKeys"/>
+        <Param val="$correct" valType="str" updates="constant" name="correctAns"/>
+        <Param val="" valType="str" updates="None" name="deviceLabel"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="True" valType="bool" updates="constant" name="discard previous"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="False" valType="bool" updates="constant" name="forceEndRoutine"/>
+        <Param val="key_resp" valType="code" updates="None" name="name"/>
+        <Param val="press" valType="str" updates="constant" name="registerOn"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="2" valType="code" updates="constant" name="stopVal"/>
+        <Param val="last key" valType="str" updates="constant" name="store"/>
+        <Param val="False" valType="bool" updates="constant" name="storeCorrect"/>
+        <Param val="True" valType="bool" updates="constant" name="syncScreenRefresh"/>
+      </KeyboardComponent>
+      <PolygonComponent name="fix_cross" plugin="None">
+        <Param val="center" valType="str" updates="constant" name="anchor"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="False" valType="code" updates="constant" name="draggable"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="white" valType="color" updates="constant" name="fillColor"/>
+        <Param val="linear" valType="str" updates="constant" name="interpolate"/>
+        <Param val="white" valType="color" updates="constant" name="lineColor"/>
+        <Param val="1" valType="num" updates="constant" name="lineWidth"/>
+        <Param val="4" valType="int" updates="constant" name="nVertices"/>
+        <Param val="fix_cross" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="cross" valType="str" updates="None" name="shape"/>
+        <Param val="(0.5, 0.5)" valType="list" updates="constant" name="size"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="code" updates="None" name="validator"/>
+        <Param val="" valType="list" updates="constant" name="vertices"/>
+      </PolygonComponent>
+    </Routine>
+    <Routine name="fixation">
+      <RoutineSettingsComponent name="fixation" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="False" valType="code" updates="None" name="forceNonSlip"/>
+        <Param val="fixation" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <PolygonComponent name="cross" plugin="None">
+        <Param val="center" valType="str" updates="constant" name="anchor"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="False" valType="code" updates="constant" name="draggable"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="white" valType="color" updates="constant" name="fillColor"/>
+        <Param val="linear" valType="str" updates="constant" name="interpolate"/>
+        <Param val="white" valType="color" updates="constant" name="lineColor"/>
+        <Param val="1" valType="num" updates="constant" name="lineWidth"/>
+        <Param val="4" valType="int" updates="constant" name="nVertices"/>
+        <Param val="cross" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="cross" valType="str" updates="None" name="shape"/>
+        <Param val="(0.5, 0.5)" valType="list" updates="constant" name="size"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="1.0" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="code" updates="None" name="validator"/>
+        <Param val="" valType="list" updates="constant" name="vertices"/>
+      </PolygonComponent>
+    </Routine>
+    <Routine name="end">
+      <RoutineSettingsComponent name="end" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="False" valType="code" updates="None" name="forceNonSlip"/>
+        <Param val="end" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <CodeComponent name="code" plugin="None">
+        <Param val="" valType="extendedCode" updates="constant" name="Before Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Before JS Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Begin Experiment"/>
+        <Param val="final_message = `Thank you!&amp;#10;&amp;#10;Your total accuracy was ${accuracy_percent}%.`&amp;#10;;&amp;#10;final_text = new visual.TextStim(psychoJS.window, {&quot;text&quot;: final_message, &quot;height&quot;: 0.07, &quot;wrapWidth&quot;: 1.5});&amp;#10;final_text.draw();&amp;#10;psychoJS.window.flip();&amp;#10;core.wait(5);&amp;#10;" valType="extendedCode" updates="constant" name="Begin JS Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Begin JS Routine"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Begin Routine"/>
+        <Param val="Auto-&gt;JS" valType="str" updates="None" name="Code Type"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Each Frame"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Each JS Frame"/>
+        <Param val="# Display result&amp;#10;&amp;#10;final_message = f&quot;Block1 {accuracy_percent}%.&quot;&amp;#10;&amp;#10;text1 = visual.TextStim(win, text=final_message, height=1.5, pos=(-3, 0), wrapWidth=1.5)&amp;#10;&amp;#10;# Draw both texts&amp;#10;text1.draw()&amp;#10;&amp;#10;# Show on screen&amp;#10;win.flip()&amp;#10;core.wait(3)  # Small delay to prevent CPU overload&amp;#10;" valType="extendedCode" updates="constant" name="End Experiment"/>
+        <Param val="final_message = `Block1 ${accuracy_percent}%.`;&amp;#10;text1 = new visual.TextStim(psychoJS.window, {&quot;text&quot;: final_message, &quot;height&quot;: 1.5, &quot;pos&quot;: [(- 3), 0], &quot;wrapWidth&quot;: 1.5});&amp;#10;text1.draw();&amp;#10;psychoJS.window.flip();&amp;#10;core.wait(3);&amp;#10;" valType="extendedCode" updates="constant" name="End JS Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End JS Routine"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End Routine"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="code" valType="code" updates="None" name="name"/>
+      </CodeComponent>
+      <KeyboardComponent name="key_resp_3" plugin="None">
+        <Param val="'space'" valType="list" updates="constant" name="allowedKeys"/>
+        <Param val="" valType="str" updates="constant" name="correctAns"/>
+        <Param val="" valType="str" updates="None" name="deviceLabel"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="True" valType="bool" updates="constant" name="discard previous"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="True" valType="bool" updates="constant" name="forceEndRoutine"/>
+        <Param val="key_resp_3" valType="code" updates="None" name="name"/>
+        <Param val="press" valType="str" updates="constant" name="registerOn"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="last key" valType="str" updates="constant" name="store"/>
+        <Param val="False" valType="bool" updates="constant" name="storeCorrect"/>
+        <Param val="True" valType="bool" updates="constant" name="syncScreenRefresh"/>
+      </KeyboardComponent>
+    </Routine>
+    <Routine name="ins">
+      <RoutineSettingsComponent name="ins" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="False" valType="code" updates="None" name="forceNonSlip"/>
+        <Param val="ins" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <ImageComponent name="ins3" plugin="None">
+        <Param val="center" valType="str" updates="constant" name="anchor"/>
+        <Param val="$[1,1,1]" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="False" valType="code" updates="constant" name="draggable"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="False" valType="bool" updates="constant" name="flipHoriz"/>
+        <Param val="False" valType="bool" updates="constant" name="flipVert"/>
+        <Param val="Slide4.jpg" valType="file" updates="constant" name="image"/>
+        <Param val="linear" valType="str" updates="constant" name="interpolate"/>
+        <Param val="" valType="str" updates="constant" name="mask"/>
+        <Param val="ins3" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="(35, 25)" valType="list" updates="constant" name="size"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="128" valType="num" updates="constant" name="texture resolution"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="code" updates="None" name="validator"/>
+      </ImageComponent>
+      <KeyboardComponent name="key_resp_2" plugin="None">
+        <Param val="'space'" valType="list" updates="constant" name="allowedKeys"/>
+        <Param val="" valType="str" updates="constant" name="correctAns"/>
+        <Param val="" valType="str" updates="None" name="deviceLabel"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="True" valType="bool" updates="constant" name="discard previous"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="True" valType="bool" updates="constant" name="forceEndRoutine"/>
+        <Param val="key_resp_2" valType="code" updates="None" name="name"/>
+        <Param val="press" valType="str" updates="constant" name="registerOn"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="nothing" valType="str" updates="constant" name="store"/>
+        <Param val="False" valType="bool" updates="constant" name="storeCorrect"/>
+        <Param val="True" valType="bool" updates="constant" name="syncScreenRefresh"/>
+      </KeyboardComponent>
+    </Routine>
+    <Routine name="ITI">
+      <RoutineSettingsComponent name="ITI" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="False" valType="code" updates="None" name="forceNonSlip"/>
+        <Param val="ITI" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <CodeComponent name="iti_code" plugin="None">
+        <Param val="" valType="extendedCode" updates="constant" name="Before Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Before JS Experiment"/>
+        <Param val="import numpy as np&amp;#10;iti_dur = 0" valType="extendedCode" updates="constant" name="Begin Experiment"/>
+        <Param val="import * as np from 'numpy';&amp;#10;iti_dur = 0;&amp;#10;" valType="extendedCode" updates="constant" name="Begin JS Experiment"/>
+        <Param val="iti_dur = Number.parseFloat(np.random.uniform(0.5, 0.75));&amp;#10;psychoJS.experiment.addData(&quot;iti_dur&quot;, iti_dur);&amp;#10;" valType="extendedCode" updates="constant" name="Begin JS Routine"/>
+        <Param val="iti_dur = float(np.random.uniform(0.5, 0.75))&amp;#10;thisExp.addData('iti_dur', iti_dur)" valType="extendedCode" updates="constant" name="Begin Routine"/>
+        <Param val="Auto-&gt;JS" valType="str" updates="None" name="Code Type"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Each Frame"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Each JS Frame"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End JS Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End JS Routine"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End Routine"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="iti_code" valType="code" updates="None" name="name"/>
+      </CodeComponent>
+      <TextComponent name="iti_blank" plugin="None">
+        <Param val="white" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="False" valType="code" updates="constant" name="draggable"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Arial" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="1" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="iti_blank" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="$iti_dur" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="" valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="code" updates="None" name="validator"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+    </Routine>
+    <Routine name="fixation_trial">
+      <RoutineSettingsComponent name="fixation_trial" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="False" valType="code" updates="None" name="forceNonSlip"/>
+        <Param val="fixation_trial" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <CodeComponent name="fixation_code" plugin="None">
+        <Param val="" valType="extendedCode" updates="constant" name="Before Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Before JS Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Begin Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Begin JS Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Begin JS Routine"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Begin Routine"/>
+        <Param val="Auto-&gt;JS" valType="str" updates="None" name="Code Type"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Each Frame"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Each JS Frame"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End JS Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End JS Routine"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End Routine"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="fixation_code" valType="code" updates="None" name="name"/>
+      </CodeComponent>
+    </Routine>
+    <Routine name="search_for">
+      <RoutineSettingsComponent name="search_for" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="False" valType="code" updates="None" name="forceNonSlip"/>
+        <Param val="search_for" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <CodeComponent name="code_2" plugin="None">
+        <Param val="" valType="extendedCode" updates="constant" name="Before Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Before JS Experiment"/>
+        <Param val="# All RTs from correct trials&amp;#10;rt_list = []&amp;#10;correct_responses = []&amp;#10;&amp;#10;# Counters for each probe type&amp;#10;probe_counts = {'fast': 0, 'avg': 0, 'slow': 0, 'ran': 0}&amp;#10;max_probes = 14&amp;#10;total_probe_limit = 42&amp;#10;&amp;#10;# Control when a probe was last shown&amp;#10;trials_since_last_probe = 99  # just large to begin&amp;#10;&amp;#10;# For identifying if current trial is a probe&amp;#10;next_is_probe = False&amp;#10;next_probe_type = None&amp;#10;previous_was_probe = False" valType="extendedCode" updates="constant" name="Begin Experiment"/>
+        <Param val="rt_list = [];&amp;#10;correct_responses = [];&amp;#10;probe_counts = {&quot;fast&quot;: 0, &quot;avg&quot;: 0, &quot;slow&quot;: 0, &quot;ran&quot;: 0};&amp;#10;max_probes = 14;&amp;#10;total_probe_limit = 42;&amp;#10;trials_since_last_probe = 99;&amp;#10;next_is_probe = false;&amp;#10;next_probe_type = null;&amp;#10;previous_was_probe = false;&amp;#10;" valType="extendedCode" updates="constant" name="Begin JS Experiment"/>
+        <Param val="show_instructions = next_is_probe;&amp;#10;instruction_timer = new util.Clock();&amp;#10;if (show_instructions) {&amp;#10;    carry_shape = Shape;&amp;#10;}&amp;#10;ShapeForStim = (previous_was_probe ? carry_shape : Shape);&amp;#10;is_probe = next_is_probe;&amp;#10;probe_type = next_probe_type;&amp;#10;is_instruction_trial = next_is_probe;&amp;#10;is_stimulus_trial = previous_was_probe;&amp;#10;show_instruction = false;&amp;#10;if (show_instructions) {&amp;#10;    instruction_text.text = (&quot;Search for &quot; + Shape);&amp;#10;    instruction_timer.reset();&amp;#10;    instruction_text.setAutoDraw(true);&amp;#10;    fix_cross.setAutoDraw(false);&amp;#10;} else {&amp;#10;    instruction_text.setAutoDraw(false);&amp;#10;    fix_cross.setAutoDraw(true);&amp;#10;}&amp;#10;" valType="extendedCode" updates="constant" name="Begin JS Routine"/>
+        <Param val="show_instructions = next_is_probe&amp;#10;instruction_timer = core.Clock()&amp;#10;&amp;#10;if show_instructions:&amp;#10;    carry_shape = Shape  # remember what we just instructed&amp;#10;&amp;#10;ShapeForStim = carry_shape if previous_was_probe else Shape&amp;#10;&amp;#10;is_probe = next_is_probe&amp;#10;probe_type = next_probe_type&amp;#10;is_instruction_trial = next_is_probe  # trial n&amp;#10;is_stimulus_trial = previous_was_probe  # trial n+1&amp;#10;#show_stimuli = True&amp;#10;show_instruction = False&amp;#10;&amp;#10;&amp;#10;if show_instructions:&amp;#10;    instruction_text.text = &quot;Search for &quot; + Shape&amp;#10;    instruction_timer.reset()&amp;#10;    instruction_text.setAutoDraw(True)&amp;#10;    fix_cross.setAutoDraw(False)&amp;#10;else:&amp;#10;    instruction_text.setAutoDraw(False)&amp;#10;    fix_cross.setAutoDraw(True)" valType="extendedCode" updates="constant" name="Begin Routine"/>
+        <Param val="Auto-&gt;JS" valType="str" updates="None" name="Code Type"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Each Frame"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Each JS Frame"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End JS Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End JS Routine"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End Routine"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="code_2" valType="code" updates="None" name="name"/>
+      </CodeComponent>
+      <TextComponent name="instruction_t" plugin="None">
+        <Param val="white" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="False" valType="code" updates="constant" name="draggable"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Arial" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="instruction_t" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="condition" valType="str" updates="None" name="startType"/>
+        <Param val="is_probe" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="1.0" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="" valType="str" updates="set every repeat" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="code" updates="None" name="validator"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+    </Routine>
+    <Routine name="feedback">
+      <RoutineSettingsComponent name="feedback" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="False" valType="code" updates="None" name="forceNonSlip"/>
+        <Param val="feedback" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="feedback_text" plugin="None">
+        <Param val="white" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="False" valType="code" updates="constant" name="draggable"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Arial" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="1" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="feedback_text" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="0.5" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="" valType="str" updates="set every repeat" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="code" updates="None" name="validator"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+      <CodeComponent name="feedback_code" plugin="None">
+        <Param val="" valType="extendedCode" updates="constant" name="Before Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Before JS Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Begin Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Begin JS Experiment"/>
+        <Param val="if ((response_error &amp;&amp; is_probe)) {&amp;#10;    feedback_text.text = &quot;Error&quot;;&amp;#10;    feedback_text.setAutoDraw(true);&amp;#10;}&amp;#10;if (no_response) {&amp;#10;    feedback_text.text = &quot;Too slow&quot;;&amp;#10;    feedback_text.setAutoDraw(true);&amp;#10;}&amp;#10;console.log(feedback_text.text);&amp;#10;" valType="extendedCode" updates="constant" name="Begin JS Routine"/>
+        <Param val="feedback_text.text = ''&amp;#10;&amp;#10;if is_probe:&amp;#10;    if no_response:&amp;#10;        feedback_text.text = 'Too slow'&amp;#10;    elif response_error:&amp;#10;        feedback_text.text = 'Error'&amp;#10;    &amp;#10;if no_response and not is_probe:&amp;#10;    feedback_text.text = 'Too slow'" valType="extendedCode" updates="constant" name="Begin Routine"/>
+        <Param val="Py" valType="str" updates="None" name="Code Type"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Each Frame"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Each JS Frame"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End JS Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End JS Routine"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End Routine"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="feedback_code" valType="code" updates="None" name="name"/>
+      </CodeComponent>
+    </Routine>
+  </Routines>
+  <Flow>
+    <Routine name="ins"/>
+    <Routine name="fixation"/>
+    <LoopInitiator loopType="TrialHandler" name="trials">
+      <Param name="Selected rows" updates="None" val="" valType="str"/>
+      <Param name="conditions" updates="None" val="[OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 0), ('TarPos', 1)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 0), ('TarPos', 1)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 0), ('TarPos', 1)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 0), ('TarPos', 1)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 90), ('TarPos', 1)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 90), ('TarPos', 1)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 90), ('TarPos', 1)]), OrderedDict([('Color', 'Salmon'), ('Shape', 'Diamond'), ('LineOri', 90), ('TarPos', 1)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 0), ('TarPos', 2)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 0), ('TarPos', 2)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 0), ('TarPos', 2)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 0), ('TarPos', 2)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 90), ('TarPos', 2)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 90), ('TarPos', 2)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 90), ('TarPos', 2)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 90), ('TarPos', 2)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 0), ('TarPos', 3)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 0), ('TarPos', 3)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 0), ('TarPos', 3)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 0), ('TarPos', 3)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 90), ('TarPos', 3)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 90), ('TarPos', 3)]), OrderedDict([('Color', 'Salmon'), ('Shape', 'Diamond'), ('LineOri', 90), ('TarPos', 3)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 90), ('TarPos', 3)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 0), ('TarPos', 4)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 0), ('TarPos', 4)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 0), ('TarPos', 4)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 0), ('TarPos', 4)]), OrderedDict([('Color', 'Salmon'), ('Shape', 'Circle'), ('LineOri', 90), ('TarPos', 4)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 90), ('TarPos', 4)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 90), ('TarPos', 4)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 90), ('TarPos', 4)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 0), ('TarPos', 5)]), OrderedDict([('Color', 'Salmon'), ('Shape', 'Circle'), ('LineOri', 0), ('TarPos', 5)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 0), ('TarPos', 5)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 0), ('TarPos', 5)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 90), ('TarPos', 5)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 90), ('TarPos', 5)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 90), ('TarPos', 5)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 90), ('TarPos', 5)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 0), ('TarPos', 6)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 0), ('TarPos', 6)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 0), ('TarPos', 6)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 0), ('TarPos', 6)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 90), ('TarPos', 6)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 90), ('TarPos', 6)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 90), ('TarPos', 6)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 90), ('TarPos', 6)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 0), ('TarPos', 7)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 0), ('TarPos', 7)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 0), ('TarPos', 7)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 0), ('TarPos', 7)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 90), ('TarPos', 7)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 90), ('TarPos', 7)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 90), ('TarPos', 7)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 90), ('TarPos', 7)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 0), ('TarPos', 0)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 0), ('TarPos', 0)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 0), ('TarPos', 0)]), OrderedDict([('Color', 'Salmon'), ('Shape', 'Diamond'), ('LineOri', 0), ('TarPos', 0)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Circle'), ('LineOri', 90), ('TarPos', 0)]), OrderedDict([('Color', 'Salmon'), ('Shape', 'Circle'), ('LineOri', 90), ('TarPos', 0)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 90), ('TarPos', 0)]), OrderedDict([('Color', 'Lawngreen'), ('Shape', 'Diamond'), ('LineOri', 90), ('TarPos', 0)])]" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="Conds_10pctRed.csv" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="fullRandom" valType="str"/>
+      <Param name="nReps" updates="None" val="15" valType="num"/>
+      <Param name="name" updates="None" val="trials" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="trial"/>
+    <LoopInitiator loopType="TrialHandler" name="feedback_loop">
+      <Param name="Selected rows" updates="None" val="" valType="str"/>
+      <Param name="conditions" updates="None" val="None" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="random" valType="str"/>
+      <Param name="nReps" updates="None" val="feedback_reps" valType="num"/>
+      <Param name="name" updates="None" val="feedback_loop" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="feedback"/>
+    <LoopTerminator name="feedback_loop"/>
+    <Routine name="ITI"/>
+    <LoopTerminator name="trials"/>
+    <Routine name="end"/>
+  </Flow>
+</PsychoPy2experiment>
